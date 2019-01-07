@@ -326,7 +326,7 @@ def main():
     :return:
     """
     ndays = getmissdate()
-    parse_all(ndays=ndays, renew=False)
+    parse_all(ndays=ndays, renew=True)
 
 
 if __name__ == "__main__":

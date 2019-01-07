@@ -1,0 +1,6 @@
+github.com https://github.com/{id}/{repo}
+chromium https://bugs.chromium.org/hosting/
+twitter.com https://twitter.com/{id}
+github.io https://{id}.github.io
+blogspot.com http://{id}.blogspot.com
+medium.com https://medium.com/@{id}
