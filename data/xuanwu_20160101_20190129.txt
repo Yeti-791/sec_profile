@@ -1,0 +1,1112 @@
+20160102	Windows	http://www.exploit-monday.com/2016/01/properly-retrieving-win32-api-error.html	Properly Retrieving Win32 API Error Codes in #PowerShell 
+20160103	Tools	http://roscidus.com/blog/blog/2016/01/01/a-unikernel-firewall-for-qubesos/	A Unikernel Firewall for QubesOS: 
+20160104	Windows	https://t.co/BOuEr0vzIi	How Attackers Dump Active Directory Database Credentialsby @ PyroTek3 https://adsecurity.org/?p=2398 
+20160105	Windows	https://adsecurity.org/?p=2362	Attack Methods for Gaining Domain Admin Rights in Active Directory 
+20160106	Windows	https://t.co/hSP32XRBRY	Very useful: "Windows Process Memory Usage Demystified"http://blogs.microsoft.co.il/sasha/2016/01/05/windows-process-memory-usage-demystified/ 
+20160107	Windows	http://reverseengineeringtips.blogspot.in/2016/01/bypassing-protections-reversing-and.html	Reversing and Recreating a Protected DLL : 
+20160108	Web	http://pkav.net/XSS2.png	 
+20160109	Windows	https://warroom.securestate.com/dll-injection-part-2-createremotethread-and-more/	DLL Injection (Part 1): SetWindowsHookEx : https://warroom.securestate.com/dll-injection-part-1-setwindowshookex/ , (Part 2): Create Remote Thread and More : 
+20160110	Tools	https://t.co/nHfbZzLz75	LoadDllBetter version of RunDll with GUI - This program allows you to load DLLs on Windowshttps://github.com/edix/LoadDll/blob/master/README.md 
+20160111	Web	https://shkspr.mobi/blog/2014/01/malicious-use-of-the-html5-vibrate-api/	Malicious Use of the HTML5 Vibrate API 
+20160112	Windows	http://blogs.msdn.com/b/ieinternals/archive/2014/09/04/personalizing-installers-using-unauthenticated-data-inside-authenticode-signed-binaries.aspxExploring	Good Read:Caveats for Authenticode Code Signing
+20160113	Windows	http://googleprojectzero.blogspot.com/2016/01/raising-dead.html	Quick tutorial on how to go from a dead Windows process to EoP. 
+20160114	Windows	http://bit.ly/1W7Yp72	- Microsoft Windows devenum.dll!DeviceMoniker::Load() - Heap Corruption Buffer Underflow (MS16-007): Mic... 
+20160115	ThirdParty	https://www.qualys.com/2016/01/14/cve-2016-0777-cve-2016-0778/openssh-cve-2016-0777-cve-2016-0778.txt	Roaming through the OpenSSH client: CVE-2016-0777 and CVE-2016-0778 
+20160116	Others	https://community.rapid7.com/community/infosec/blog/2016/01/15/r7-2015-26-advantech-eki-ssh-authentication-bypass	CVE-2015-7938 disclosed, thx @ hdmoore : 
+20160117	Windows	http://www.slideshare.net/enigma0x3/red-team-upgrades-using-sccm-for-malware-deployment-57117235	My slides for the @ shmoocon #firetalk "Red Team Upgrades: Using SCCM for Malware Deployment" are up here: 
+20160118	Web	http://www.darthnull.org/media/presentations/HashPassport-AuthMethods_ShmooCon_2016.pdf	My Hash Is My Passport : Understanding Web and Mobile Authentication : 
+20160119	Windows	http://2012.zeronights.org/includes/docs/Esage.pdf	Microsoft security bulletin is clearly high on DLL hijacking bugs these days. Here is my research from 2012: 
+20160120	Windows	http://windowsir.blogspot.com/2016/01/more-registry-fun.html	More Registry Fun 
+20160121	Web	http://goo.gl/fb/a4iyTv	GRR <= 3.0.0-RC1 (all versions) file upload filter bypass (authenficated) 
+20160122	Windows	http://wp.me/p6PE4U-CC	#DeepSec Video: A Case Study on the Security of Application #Whitelisting: ... 
+20160123	Windows	https://code.google.com/p/google-security-research/issues/detail?id=573	Opening the correct file in Windows can be pretty tricky, even for Microsoft devs. https://code.google.com/p/google-security-research/issues/detail?id=589 and 
+20160124	Windows	http://subt0x10.blogspot.com/2016/01/you-can-run-and-you-can-hide.htmlFeedback	You Can Run And You Can Hide
+20160125	Windows	http://blogs.technet.com/b/nanoserver/archive/2016/01/16/updating-nano-server-using-windows-update-or-windows-server-update-service.aspx	Do you know WMI and WinRM? If not, good luck even applying updates to Nano Server. 
+20160126	Tools	https://excubits.com/content/en/products_beta.html	Pumpernickel is a simple kernel mode driver that enables you to sandbox (limit) write attempts of processes.
+20160127	Windows	https://t.co/FF5CtfmTQr	Privilege escalation (System) via Dolby's DAX2_Api_Service on Windows 10: http://x42.obscurechannel.com/?p=263 
+20160128	Windows	http://goo.gl/bvZTtu	Windows ReVaulting, decrypting Windows Credentials and Vaults, 
+20160129	Windows	https://secinfodb.wordpress.com/windows-uacprivilegescredentials/	Digging this site and the BypassUAC/Priv  Esc post 
+20160130	Windows	https://gist.github.com/subTee/15684bbfbd657c6a3a04EncodedCommand	Here's a weird one...Executes Calc With Powershell Using SendKeys Command To PowerShell
+20160131	Windows	https://github.com/hfiref0x/UACME.git	UAC Bypass on x86-32/x64 Windows 7/8/8.1/10 by @ hFireF0X 
+20160201	Windows	https://msdn.microsoft.com/en-us/library/mt588480(v=vs.85).aspx	A handy reference of all available Win32 APIs in Nano Server with their respective "modern" DLL. 
+20160202	Windows	https://github.com/scalys7/Vulnerable-Driver	Vulnerable-Driver : A sample vulnerable driver that emulates kernel mode vulnerabilities : 
+20160203	Windows	https://blogs.windows.com/windowsexperience/2016/01/15/windows-10-embracing-silicon-innovation/	Windows 7 & 8.1 systems running on Skylake should update to Win 10 by July 17, 2017 to continue receiving support 
+20160204	Windows	https://blogs.mcafee.com/mcafee-labs/dropping-files-temp-folder-raises-security-concerns.	.@ rckashyap @ vadimkotov I've discussed the RTF-dropping-exe (in fact, any file) trick & the risks back to July 2014 
+20160205	ReverseEngineering	https://fosdem.org/2016/schedule/event/video_reverse_eng/attachments/slides/1129/export/events/attachments/video_reverse_eng/slides/1129/17_vittorio.pdf	Introduction to video reverse engineering : 
+20160206	Popular	https://t.co/o5deFbKVol	Java and Command Line Injections in Windowshttp://codewhitesec.blogspot.com/2016/02/java-and-command-line-injections-in-windows.html 
+20160207	Windows	https://blog.anitian.com/hacking-microsoft-sql-server-without-a-password/	Hacking Microsoft SQL Server Without a Password : 
+20160208	ReverseEngineering	http://www.righto.com/2016/02/the-arm1-processors-flags-reverse.html	Reverse engineering the ARM1 : http://www.righto.com/2015/12/reverse-engineering-arm1-ancestor-of.html, ARM1 processor's flags, reverse engineered : 
+20160209	Tools	http://gcc.godbolt.org/	gcc-explorer - interactive compiler - editable code and generated assembly - https://github.com/mattgodbolt/gcc-explorer demo: 
+20160210	Windows	https://t.co/4WLlsy6tVa	PhoneInfo.dll DLL Hijacking Vulnerability in pretty graphs#infosec #exploits #MS16014 
+20160211	Windows	http://bit.ly/20UgtnZ	New post: February 2016 Patch Tuesday Includes Critical Fixes for IE Vulnerabilities; Adobe Releases 
+20160212	Windows	https://t.co/QmPkDzqT7p	Kernelbase.dll 6.1.7601.19131 from MS16-014 adds new DLL Loading Security #infosec #RE #PatchTuesday 
+20160213	Windows	https://blog.cloudflare.com/microsoft-tls-downgrade-schannel-bug/	Deconstructing the Microsoft TLS Session Resumption bug : 
+20160214	Windows	https://blogs.msdn.microsoft.com/vcblog/2016/02/08/whats-inside-a-pdb-file/	What&#8217;s inside a PDB File? 
+20160215	Windows	https://jimshaver.net/2016/02/14/defending-against-mimikatz/	Defending Against Mimikatz 
+20160216	Windows	https://t.co/DVJLCrUVDe	Just uploaded an EoP (SYSTEM) exploit for my CVE-2016-0051 (MS16-016): https://github.com/koczkatamas/CVE-2016-0051 
+20160217	Windows	http://www.risk3sixty.com/2016/02/16/how-to-check-for-dangerous-certificates-and-unsigned-windows-os-files/	How to Check for Dangerous Certificates and Unsigned Windows OS Files 
+20160218	Web	http://www.slideshare.net/cgvwzq/a-xssmas-carol	A few slides about my XSSmas15 solution: 
+20160219	MalwareAnalysis	http://blog.jpcert.or.jp/2016/02/banking-trojan--27d6.html	Banking Trojan “Citadel” Returns 
+20160220	Web	https://securelayer7.net/penetration-testing-reports/Penetration-testing-report--open-source-Ruby-on-rails-Refinery-CMS.pdf	Refinery - The Ruby on Rail Open Source CMS Penetration testing report 
+20160221	Windows	http://tyranidslair.blogspot.co.uk/2016/02/tracking-down-root-cause-of-windows.html	First personal blog post in a while, a silly bug in Explorer and how to track down the bad code. 
+20160222	Windows	http://wccftech.com/windows-10-redstone-build-14267-released-with-several-improvements/	It is said Microsoft added download prompts in Edge in Windows 10 Redstone 14267. 
+20160223	Web	https://html5sec.org/#145	Added #145 "XSS without User Interaction from passive Elements" to #H5SC. More variations welcome, it's a WIP. 
+20160224	WirelessSecurity	http://www.rtl-sdr.com/c-band-aero-signals/	Receiving C-Band AERO Signals  
+20160225	WirelessSecurity	https://github.com/RFStorm/mousejack/blob/master/doc/pdf/MouseJack-whitepaper-v1.1.pdf	MouseJack : Injecting Keystrokes into Wireless mouse : 
+20160226	Tools	http://www.eecs.berkeley.edu/~gongliang13/jalangi_ff/#about	Jalangi - A Dynamic Analysis Framework for JavaScript 
+20160227	Windows	http://bit.ly/1TDEEo6	7 Quick-and-Dirty steps to converting DbgPrints to use WPP Tracing in the latest the OSR Deveveloper's blog post: 
+20160228	Tools	https://t.co/csKAOdL3Mc	New Post: Veil Framework – Antivirus Evasion Framework http://ift.tt/1R7P2Qs 
+20160229	Web	https://blog.sergeybelove.ru/2016/02/21-0day-xss-on-yahoo-after-1-year/	21 0day XSS on yahoo - 
+20160301	Windows	https://goo.gl/ueDHY9	Project Zero blog: The Definitive Guide on Win32 to NT Path Conversion by @ tiraniddo - 
+20160302	Tools	https://t.co/4m29cBlXOq	Redress is a cool cross platform binary disassembler written in Java & based on Capstonehttps://github.com/binarybird/Redress-Disassembler 
+20160303	Web	http://randywestergren.com/widespread-xss-vulnerabilities-ad-network-code-affecting-top-tier-publishers-retailers/	Widespread XSS Vulnerabilities in Ad Network Code Affecting Top Tier Publishers, Retailers 
+20160304	Windows	http://blogs.technet.com/b/ash/archive/2016/03/02/windows-10-device-guard-and-credential-guard-demystified.aspx	Windows 10 Device Guard and Credential Guard Demystified - 
+20160305	Windows	http://blog.quarkslab.com/windows-filtering-platform-persistent-state-under-the-hood.html	Everything You Always Wanted to Know About Windows Filtering Platform (firewall): 
+20160306	Tools	https://ransomwaretracker.abuse.ch/	Ransomware tracker : 
+20160307	Windows	http://wp.me/p4Xaro-Rn	Windows 10 Secure Boot information 
+20160308	Windows	https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/march/sysinternals-sdelete-when-secure-delete-fails/	NCC Group Blog: Sysinternals SDelete: when secure delete fails - 
+20160309	Windows	https://t.co/UBAoZgdBjX	#MS16025 fixes DLL hijack in Windows Mail Find Peopleobject #CVE20160100 https://www.securify.nl/advisory/SFY20150904/windows_mail_find_people_dll_side_loading_vulnerability.html 
+20160310	Web	https://remoteawesomethoughts.blogspot.com/2016/03/spagobi-remote-code-execution-by.html	Analysis on a remote code execution on SpagoBI 
+20160311	Windows	https://www.nccgroup.trust/uk/our-research/windows-10-usb-mass-storage-driver-arbitrary-code-execution-in-kernel-mode/	NCC Group Advisory: Win 10 USB Mass Storage driver arb code execution in kernel mode - 
+20160312	Web	http://ow.ly/ZkG33	Web application scanning with Htcap - Help Net Security 
+20160313	Windows	https://odzhan.wordpress.com/2016/03/12/windows-shells-part4/	Windows Shell using Crypto API 
+20160314	Windows	http://www.bluenotch.com/resources/SANS_Orlando_Kernel_Exploits_Sims.pdf	Introduction to Windows Kernel Exploitation : 
+20160315	WirelessSecurity	https://t.co/biG09fi8rv	I wrote the modern version of the "Poor man's Spectrum Analyzer" for Airspy: http://airspy.com/download 
+20160316	Windows	https://cxsecurity.com/issue/WLB-2016030081	Windows Kernel ATMFD.DLL OTF Font Processing Stack Corruption (MS16-026) 
+20160317	Tools	http://s3.eurecom.fr/docs/asiaccs16_graziano.pdf	ROPMEMU: A Framework for the Analysis of Complex Code-Reuse Attacks : 
+20160318	Web	http://goo.gl/fb/y0jPDI	WordPress Bulletproof Security Plugin Multiple Cross Site Scripting... 
+20160319	Windows	https://github.com/hfiref0x/SyscallTables	Combined Windows x64 syscall tables 
+20160320	WirelessSecurity	https://t.co/6MINGHqFHn	OpenCellID is a collaborative project to create a free worldwide database of #GSM Cell IDs http://opencellid.org/ 
+20160321	Windows	http://simonmcauliffe.com/technology/tde/	The Anatomy and (In)Security of Microsoft SQL Server Transparent Data Encryption (TDE), or How to Break TDE : 
+20160322	Windows	https://googleprojectzero.blogspot.de/2016/03/exploiting-leaked-thread-handle.html	Exploiting MS16-032 without ROP gadget in sight. 
+20160323	Windows	http://badlock.org/	On April 12th, 2016 a crucial security bug in Windows and Samba will be disclosed. We call it: Badlock. 
+20160324	Windows	http://www.darkoperator.com/blog/2016/3/18/lxlzwnjiti3c4w7zj1uh8lc3lsv7cg	Continuing the series on building a AD Audit #PowerShell module 
+20160325	WirelessSecurity	http://phasenoise.livejournal.com/3822.html	SDR Radio Academy: Reverse engineering a wireless car key fob. 
+20160326	Web	https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/	SQL Injection Cheat Sheet : 
+20160327	Windows	https://github.com/hacksysteam/WRK-1.2Happy	Just compiled this and yup... It is the Windows Research Kernel Source code. (Server 2003)
+20160328	Tools	https://github.com/icewall/BinDiffFilter	BinDiffFilter - IDA Pro plugin
+20160329	Windows	http://www.darknet.org.uk/2016/03/tempracer-windows-privilege-escalation-tool/	TempRacer – Windows Privilege Escalation Tool 
+20160330	WirelessSecurity	https://canyoupwn.me/en-awesome-learn-wifi-security/	EN| Awesome Learn Wifi Security 
+20160331	Windows	https://t.co/5KeBeVg0wU	Windows 10 now has support for Bash and the universe of open source command line tools. #Build2016 
+20160401	Windows	https://www.insinuator.net/2016/03/mind-the-gap-exploit-free-whitelisting-evasion-tactics/	Mind The Gap – Exploit Free Whitelisting Evasion Tactics 
+20160402	Windows	http://redplait.blogspot.fr/2016/03/lxcore-syscall-table.html	List of Linux syscalls presumably supported by Windows 10 (extracted from lxcore.sys): 
+20160403	Windows	https://gist.github.com/mattifestation/bf9af6fbafd0c421455cd62693edcb7a	Drive infector using a perm WMI event. This illustrates how to pass __EventFilter args to a CommandLineEventConsumer 
+20160404	WirelessSecurity	https://www.blackhat.com/docs/asia-16/materials/asia-16-Ossmann-Rapid-Radio-Reversing-wp.pdf	Rapid Radio Reversing : 
+20160405	Windows	http://ow.ly/10g8Vx	EXD: An attack surface for Microsoft Office | Fortinet Blog 
+20160406	Windows	https://labs.mwrinfosecurity.com/publications/windows-kernel-exploitation-101-exploiting-cve-2014-411/	New publication released: "Windows Kernel Exploitation 101: Exploiting CVE-2014-411" by @ _samdb_ 
+20160407	Windows	http://windowsir.blogspot.com.tr/2016/04/cool-stuff-re-wmi-persistence.html	WMI Persistence 
+20160408	WirelessSecurity	https://www.fleark.de/keyfob.pdf	Reverse Engineering Digital Signals : 
+20160409	Tools	https://goo.gl/y1dfm7	Hack all the IPV6 things... (H/T @ DaveMarcus) 
+20160410	Windows	https://t.co/T9D439TsxE	Leo Davidson UAC autoelevation method extended, simple, no need any "injects" http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3643&p=28249#p28249 w7-RS1 #uacme 
+20160411	WirelessSecurity	https://www.youtube.com/watch?v=cE4f6JaBfSI	Reverse engineering a Digital Two way Radio : 
+20160412	Windows	https://t.co/8BgJBAFBz0	Win10 getting a syscall filter! Shame only for win32k, no matter what Dave said in the talk to imply otherwise :-( 
+20160413	Windows	https://t.co/Wua23vJ5kG	On #Badlock for Samba (CVE-2016-2118) and Windows (CVE-2016-0128):  https://community.rapid7.com/community/infosec/blog/2016/04/12/on-badlock-cve-2016-2118-for-samba-and-windows via @ todb 
+20160414	Windows	https://github.com/pravic/winapi-kmd-rs	Windows Kernel-Mode Drivers written in Rust 
+20160415	Windows	https://packetstormsecurity.com/files/136688	Windows Kernel ATMFD.DLL NamedEscape 0x2511 Out-Of-Bounds Read 
+20160416	Windows	https://blogs.mcafee.com/mcafee-labs/cve-2016-0153-microsoft-patches-possible-ole-typo	An interesting bug in OLE found by my colleague, TLDR: StringCchCopyEx() is hard to understand even for MS ppl..
+20160417	Windows	https://t.co/8hxI8LqYaU	Masquerading as a Windows System Binary Using Digital Signatures : https://labs.mwrinfosecurity.com/blog/masquerading-as-a-windows-system-binary-using-digital-signatures/ 
+20160418	WirelessSecurity	https://drive.google.com/open?id=0BzKQjeC0jfmDaEhrUTQzc2JYdTg	#BSidesCbr slide handouts are here 
+20160419	Windows	http://goo.gl/4WXTQc	Passwords for zip archives opened with Windows Explorer in Win8.x/10 are automatically cached. #facepalm
+20160420	Windows	https://t.co/Gyfu5P2xsL	Interesting: you can’t disable SMEP on Windows 10 with hyper-v because it protects CR4 register of root partition 
+20160421	Windows	http://marcoramilli.blogspot.com/2016/04/looking-caves-in-windows-executables.html	Looking Caves in Windows Executables 
+20160422	Windows	http://subt0x10.blogspot.com/2016/04/bypass-application-whitelisting-script.html:-)	Bypass Application Whitelisting Script Protections - Regsvr32.exe & COM Scriptlets (.sct files)
+20160423	Windows	https://msdn.microsoft.com/en-us/library/cc768520%28v=bts.10%29.aspx	Hyper-V Architecture - 
+20160424	Windows	https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/	The architecture behind how Linux binaries running natively on Windows 10 works 
+20160425	Tools	https://github.com/isra17/nrs	NRS is a set of Python librairies used to unpack and analysis NSIS installer's data. Based on IDAPython. 
+20160426	Windows	http://intercepter-ng.blogspot.ru/2016/04/group-policy-hijacking-and-ldap-relay.html#mitm	Group Policy Hijacking and LDAP Relay. New English docs. Please RT.
+20160427	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=692	The side effect of removing the VDM by default on Windows 8 to solve the kernel NPD problem, Session 0 access :-) 
+20160428	Windows	https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/april/adventures-in-windows-driver-development-part-1/	NCC Group Blog: Adventures in Windows Driver Development: Part 1 - 
+20160429	Windows	https://packetstormsecurity.com/files/136844/GS20160428155107.tgz	Microsoft Windows Kernel win32k.sys TTF Processing Pool Corruption 
+20160430	Others	https://speakerdeck.com/mathiasbynens/hacking-with-unicode-in-2016	@ ruhrsec Slides for my presentation on hacking with Unicode in 2016: 
+20160501	Windows	https://technet.microsoft.com/en-us/security/mt489845	Just announced - the Nano Server bug bounty: https://blogs.technet.microsoft.com/nanoserver/2016/04/30/bug-bounty-for-nano-server/ 
+20160502	Tools	http://radare.today/posts/rasm/	New blog post: Using Rasm2! 
+20160503	Windows	https://www.powershellgallery.com/packages/Microsoft.PowerShell.NanoServer.SDK/1.0.0.4	@ tourismgeek @ Taylorb_msft @ jsnover @ PowerShell_Team just put out an SDK for PowerShell Core on Nano: 
+20160504	Windows	https://threatpost.com/microsoft-sha-1-deprecation-final-countdown-begins/117783/	Windows 10 Anniversary Update is beginning of the end for SHA-1 on Microsoft platforms. 
+20160505	Windows	https://t.co/UOApIAD7KT	My first Windows driver : Creating the Pink Screen Of Death : https://www.whitehatters.academy/my-first-windows-driver-creating-the-pink-screen-of-death/ #PSOD cc @ _samdb_ 
+20160506	Windows	https://blogs.msdn.microsoft.com/powershell/2016/05/04/developing-powershell-cmdlets-for-nano-server-using-the-powershell-core-sdk/	Developing PowerShell Cmdlets for Nano Server using the PowerShell Core SDK 
+20160507	Tools	https://github.com/joelpx/plasma	Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with coloured syntax code. 
+20160508	Windows	https://twitter.com/JohnLaTwC/status/728617071328645120	Cool API! :) 
+20160509	Others	http://securityaffairs.co/wordpress/47109/terrorism/terrorists-online-propaganda.html	How terrorists abuse online services for propaganda? 
+20160510	Web	https://threatpost.com/godaddy-addresses-blind-xss-vulnerability-affecting-online-support/117950/	GoDaddy Addresses Blind XSS Vulnerability Affecting Online Support: 
+20160511	Windows	https://technet.microsoft.com/en-us/library/security/ms16-053.aspx	MS16-053 - Critical: Cumulative Security Update for JScript and VBScript (3156764) - Version: 1.0 
+20160512	Windows	https://gist.github.com/subTee/68749aa53d7ce0fb02e0a64b89615767PowerShell	PowerShell now for IE & JS.  Thanks COM+ (Weird..)
+20160513	Windows	https://www.exploit-db.com/exploits/39805/	- Microsoft Windows Media Center .MCL File Processing Remote Code Execution (MS16-059) 
+20160514	Windows	https://t.co/dwfBcM6tES	Create and install self-signed certificates in Windows Nano Serverhttps://gist.github.com/subTee/b092cf7b46de222e82c0808270c431advia X509 COM 
+20160515	Windows	https://www.microsoft.com/en-us/download/details.aspx?id=52630	Amazingly deep (700+ pages!) dive into Windows Security Auditing and Monitoring events - 
+20160516	Rootkit	https://www.terena.org/activities/tf-csirt/meeting27/oesterberg-rootkits.pdf	Detecting Rootkits in Memory Dumps : 
+20160517	Windows	https://threatpost.com/microsoft-quietly-kills-controversial-wi-fi-sense-feature/118124/	Microsoft Quietly Kills Controversial Wi-Fi Sense Feature: 
+20160518	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=731	Windows gdi32.dll heap-based buffer overflow in ExtEscape() triggerable via EMR_EXTESCAPE EMF record 
+20160519	Windows	https://morris.guru/poor-mans-windows-infrastructure-metrics-w-ansible-bash/	Poor man's security analytics using Ansible, Bash, and Powershell 
+20160520	Windows	https://t.co/2iX6l250k5	with specifications of Microsoft Office File Formats Protocols.http://download.microsoft.com/download/2/4/8/24862317-78F0-4C4B-B355-C7B2C1D997DB/OfficeFileFormatsProtocols.zip 
+20160521	Windows	https://t.co/ICRp7QRoNk	How to prevent users from killing your service or process - C#Works pretty well actually.https://gist.github.com/subTee/9808dd07493601cb30fc97bdbe832f71 
+20160522	Windows	https://t.co/iT5UzoTwFE	Windows 10 Security Overview http://bit.ly/1R270Dj 
+20160523	Windows	https://blogs.technet.microsoft.com/askds/2016/05/11/setting-up-virtual-smart-card-logon-using-virtual-tpm-for-windows-10-hyper-v-vm-guests/	Setting up Virtual Smart card logon using Virtual TPM for Windows 10 Hyper-V VM Guests 
+20160524	Windows	https://blogs.msdn.microsoft.com/wsl/2016/05/23/pico-process-overview/	Pico Process Overview -  
+20160525	WirelessSecurity	http://www.kitploit.com/2016/05/wifi-pumpkin-v075-framework-for-rogue.html	WiFi-Pumpkin v0.7.5 - Framework for Rogue Wi-Fi Access Point Attack -- 
+20160526	Windows	https://enigma0x3.net/2016/05/25/userland-persistence-with-scheduled-tasks-and-com-handler-hijacking/	Userland Persistence with Scheduled Tasks and COM Handler Hijacking: 
+20160527	Windows	https://github.com/rabbitstack/fibratus	Fibratus - Tool for exploration and tracing of the Windows kernel 
+20160528	Windows	https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start_windows_10	Windows (Hyper-V) Containers on Windows 10 : 
+20160529	WirelessSecurity	http://conference.hitb.org/hitbsecconf2016ams/materials/D2T1%20-%20Yuwei%20Zheng%20and%20Haoqi%20Shan%20-%20Forging%20a%20Wireless%20Time%20Signal%20to%20Attack%20NTP%20Servers.pdf	Forging Wireless Timing Signals to Attack the NTP Server : 
+20160530	Windows	http://www.kernelmode.info/forum/viewtopic.php?f=11&p=28579#p28579	SxS backdoor and story of Windows UAC ridiculous fixes 
+20160531	Windows	https://blogs.technet.microsoft.com/mmpc/2016/05/29/%E2%80%8Bduqu-2-0-kernel-exploitation-technique-analysis-part-1-of-2-2/	Duqu 2.0 kernel exploitation technique analysis (part 1 of 2) - 
+20160601	Windows	http://bit.ly/1Z9eWc0	Comparing PowerShell Objects with CLIXML - 
+20160602	Windows	https://t.co/F3POXvIUzg	Spread the word...the May-June issue of The NT Insider is available: http://bit.ly/1TJHW6y 
+20160603	Windows	http://yurichev.com/blog/ptrs3/	C/C++ pointers: pointers abuse in Windows kernel 
+20160604	Windows	https://github.com/aurel26/wer-server	PoC to leverage Windows Error Reporting in corporate environments #DFIR #SSTIC
+20160605	Web	http://brutelogic.com.br/blog/shortest-reflected-xss-possible/	The Shortest Reflected XSS Attack Possible 
+20160606	Web	http://securityaffairs.co/wordpress/48036/hacking/cve-2014-3704-flaw-drupal.html	Old CVE-2014-3704 flaw in Drupal still exploited in attacks 
+20160607	Windows	http://www.ioctls.net/	Windows IOCTL Reference - 
+20160608	Windows	https://t.co/ndoKiOnxT2	Microsoft expanding Bounty program 
+20160609	Windows	http://www.hexacorn.com/blog/2016/06/07/win10-registry-and-fun-with-ucsutf16/	Win10, Registry, and fun with UCS/UTF16 
+20160610	Windows	https://www.infoq.com/news/2016/06/visual-cpp-telemetry	Reviewing Microsoft's Automatic Insertion of Telemetry into C++ Binaries 
+20160611	Tools	http://www.raptir.com/2016/06/recentdocs-python-script.htmlAlso,	I wrote a python script to parse the RecentDocs key: 
+20160612	Web	https://blogs.mcafee.com/mcafee-labs/testing-race-conditions-web-applications/	Testing Race Conditions in Web Applications 
+20160613	Windows	https://null.co.in/event_sessions/831-windows-privilege-escalation-techniques	Here are the slides of my talk on Windows Privilege Escalation Techniques:  
+20160614	Windows	https://twitter.com/simonroses/status/742269519960412160	Good link. More stuff in "Some Recommendations Regarding Windows 10 Privacy Settings" https://www.ernw.de/download/newsletter/ERNW_Newsletter_52_Win10_Priv_v1.0_signed.pdf 
+20160615	WirelessSecurity	https://t.co/zXeW0WVUU6	Hamnet - A large scale high speed radio network : https://www.tapr.org/pdf/DCC2014-TheEuropeanHAMNET-DG8NGN.pdf (pdf) 
+20160616	Windows	https://t.co/GIePELQNIn	Ok #Bash & #WSL fans - drop everything! New post & video on Bash/WSL #filesystem features! https://blogs.msdn.microsoft.com/commandline/2016/06/15/new-post-and-video-on-wsl-filesystem-features/ 
+20160617	Windows	http://hackerhurricane.blogspot.com/2016/06/the-windows-powershell-cheat-sheet-is.html	The Windows PowerShell Cheat Sheet is now available! 
+20160618	Windows	https://gist.github.com/mattifestation/5d1565348d71b54ad02c44a5b94839f8	A PoC script to enumerate WMI providers, their DLLs, and the classes they host: 
+20160619	Windows	https://drive.google.com/file/d/0B5sMkPVXQnfPaVB6T2N3Mk5UX28/view	Download link for my slides for my #reconmtl 2016 presentation on Windows Processes, Process Failure Modes 
+20160620	Windows	https://t.co/uLpRvaNpbt	Recovering BitLocker Keys on Windows 8.1 and 10 | Advanced Threats,Intelligence Technolog http://www.rightrelevance.com/search/articles/hero?article=5ecc62ca305b5f79d374bf729af29ef7581fb554&query=cyberwarfare&taccount=cyberwarfarre 
+20160621	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=779	If you saw my @ WEareTROOPERS presentation you might have seen this bug, but this shows how to exploit in a sandbox. 
+20160622	Windows	http://hubs.ly/H03nm2c0	New on the blog: Getting Physical: Extreme abuse of Intel based Paging Systems – Part 2 – Windows 
+20160623	Windows	http://www.zerodayinitiative.com/advisories/ZDI-16-372/	Microsoft Windows Diagnostics Hub Standard Collector Directory Traversal Privilege Escalation Vulnerability 
+20160624	Web	http://www.pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/#bugbounty	Delete any video from Facebook ...I was even able to delete Mark Zuck's videos. ?
+20160625	Windows	http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3643&p=28762#p28762	MS failed fix of InetMgr UAC exploit explained in details 
+20160626	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=852	Trivial Kernel NPD in NtCreateProcessEx, guess MS QA isn't what is used to be. 
+20160627	Web	http://howto.hackallthethings.com/2016/06/using-multi-byte-characters-to-nullify.html	Utilizing Multi-byte Characters To Nullify SQL Injection Sanitizing 
+20160628	Windows	http://googleprojectzero.blogspot.com/2016/06/a-year-of-windows-kernel-font-fuzzing-1_27.html	Project Zero: A year of Windows kernel font fuzzing #1: the results 
+20160629	Windows	https://t.co/MGVJuxKeK2	MS16-039 – “Windows 10” 64 bits Integer Overflow exploitation by using GDI objects http://hubs.ly/H03sm310 
+20160630	Windows	http://subt0x10.blogspot.com/2016/06/unlock-powershell-constrainedlanguage.htmlFeedback	Unlock PowerShell ConstrainedLanguage Mode with InstallUtil.exe
+20160701	Windows	https://www.exploit-db.com/exploits/40039/	- Windows 7 SP1 x86 - Privilege Escalation (MS16-014) 
+20160702	Windows	https://goo.gl/QXfhSK	Project Zero blog: "A year of Windows kernel font fuzzing #2: the techniques" by @ j00ru - 
+20160703	Tools	http://www.spdk.io/	TIL about SPDK, which is the DPDK kernel bypass equivalent for NVMe devices: 
+20160704	Tools	https://t.co/krSaiBZOHg	LuaRadio : a lightweight software-defined radio framework built on LuaJIT : http://luaradio.io/ 
+20160705	Windows	https://blog.ahmednabeel.com/from-zero-to-system-on-full-disk-encrypted-windows-system-part-2/	Great read: From hibernated computer to SYSTEM on a full-disk-encrypted Windows laptop1) https://blog.ahmednabeel.com/from-zero-to-system-on-full-disk-encrypted-windows-system/2) 
+20160706	Windows	https://github.com/d3sre/Understanding_the_NDIS_6_stack	pushed my thesis documentation about understanding the ndis 6 stack to my github: 
+20160707	Windows	http://youtube.com/watch?v=PUcBtd0fZeA	GuardMon disables PatchGuard on Windows 10 x64 using VT-x. details & code - http://igorkorkin.blogspot.com/2016/06/monitoring-controlling-kernel-mode.html video demo - 
+20160708	Windows	http://www.ttoyota.com/kerneldbg_kiso/helloworld_system.php	Windows XP/7/8/10 Etw Logger
+20160709	Web	https://t.co/Lt7ZU76Gmy	Extracting Multiple Bits Per Request From Full-blind SQL Injection Vulnerabilities : http://howto.hackallthethings.com/2016/07/extracting-multiple-bits-per-request.html 
+20160710	Popular	https://packetstormsecurity.com/files/137834/rails_actionpack_inline_exec.rb.txt	Ruby On Rails ActionPack Inline ERB Code Execution 
+20160711	Virtualization	https://t.co/BYDy8rY1Mv	Comparison of container schedulers: Docker Swarm, Google Kubernetes, Apache Meso w Marathon https://medium.com/@ ArmandGrillet/comparison-of-container-schedulers-c427f4f7421#.rf58a9w2a 
+20160712	Windows	https://sizzop.github.io/https://github.com/hacksysteam/HackSysExtremeVulnerableDriver	Journey to HackSys Extreme Vulnerable Driver - Windows 7 x64 by my friend @  sizzophttps://sizzop.github.io/
+20160713	Windows	http://ow.ly/yEqB302bggj	Microsoft released six critical bulletins + fixed a RCE flaws in Windows print spooler components #PatchTuesday - 
+20160714	Windows	https://blogs.msdn.microsoft.com/cenet/2008/01/08/the-history-of-the-dcom-remoting-addon-pack/	 
+20160715	Windows	https://blog.didierstevens.com/2016/07/14/practice-ntds-dit-file-part-3-password-cracking-with-hashcat-wordlist/	New blog post "Practice ntds.dit File Part 3: Password Cracking With hashcat – Wordlist" 
+20160716	Tools	https://github.com/decalage2/oletools	Oletools now parses obfuscated objects in RTF files. Thanks @ decalage2 ! 
+20160717	Tools	http://bit.ly/29KwcGw)	ANZ Bank's security incident response tool open sourced http://bit.ly/29Kwxch (
+20160718	WirelessSecurity	https://www.insinuator.net/2016/07/notes-on-high-jacking-gsmgprs-connections/	Notes on Hijacking GSM/GPRS Connections 
+20160719	Windows	http://www.codereversing.com/blog/archives/282	RCE Endeavors » Runtime DirectX Hooking 
+20160720	WirelessSecurity	http://arxiv.org/abs/1607.05171	Just released tech report with results from my #LTE #security and #exploit research and @ shmoocon talk. #infosec 
+20160721	Windows	http://www.theregister.co.uk/2016/07/20/microsoft_tcp_changes/	Microsoft tweaks TCP stack in Windows Server and Windows 10 
+20160722	Windows	https://securelist.com/blog/software/75427/windows-10-whats-new-in-the-security-system/	Windows 10: What’s New in the Security System - 
+20160723	Web	https://github.com/FallibleInc/security-guide-for-developers	A practical security guide for web developers : 
+20160724	Windows	https://t.co/cx5dsIA6uV	Fun with the Windows Subsystem for Linux : https://blogs.windows.com/buildingapps/2016/07/22/fun-with-the-windows-subsystem-for-linux/ 
+20160725	Popular	http://www.csoonline.com/article/3098415/security/flaws-in-oracle-file-processing-sdks-affect-major-third-party-products.html	Flaws in Oracle file processing SDKs affect major third-party products : 
+20160726	Windows	http://www.exploit-monday.com/2016/07/Win10IoTCore-Build14393-EoP.html	Misconfigured Service ACL Elevation of Privilege Vulnerability in Win10 IoT Core Build 14393 
+20160727	WirelessSecurity	http://ow.ly/i9CE302CjHG	#KeySniffer vulnerability opens wireless keyboards to remote snooping 
+20160728	Virtualization	http://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html	Xen exploitation part 2: XSA-148, from guest to host 
+20160729	Windows	https://cs.gmu.edu/~astavrou/research/DocRandom_RAID15.pdf	Preventing Exploits in Microsoft OfficeDocuments Through Content Randomization
+20160730	Web	http://securityaffairs.co/wordpress/49800/hacking/qrljacking-attack.html	QRLJacking — How to bypass QR Code Based Login System 
+20160731	Web	https://www.exploit-db.com/exploits/40185/	- PhpMyAdmin 4.6.2 - Post-Auth Remote Code Execution 
+20160801	Web	http://goo.gl/fb/qEUmLp	Multiple vulnerabilities in All In One WP Security & Firewall plugin login... 
+20160802	Windows	https://twitter.com/Hexacorn/status/758778031964028929	Slick technique to make Win10 call LoadLibrary on DLL pointed to by Registry when accepting RDP sessions. #DFIR 
+20160803	WirelessSecurity	https://vimeo.com/177231337	Excited to announce the brand new release of SILICA v7.26! Includes Malicious AP Detection and several improvements
+20160804	Windows	https://adsecurity.org/?p=2981	Slides from @ PyroTek3 at #BHUSA2016(while waiting for video...)
+20160805	Windows	https://www.blackhat.com/docs/us-16/materials/us-16-Sabanal-Into-The-Core-In-Depth-Exploration-Of-Windows-10-IoT-Core-wp.pdfhttps://www.blackhat.com/docs/us-16/materials/us-16-Sabanal-Into-The-Core-In-Depth-Exploration-Of-Windows-10-IoT-Core.pdf	Into The Core In-Depth Exploration Of Windows 10 IoT Core - https://www.blackhat.com/docs/us-16/materials/us-16-Sabanal-Into-The-Core-In-Depth-Exploration-Of-Windows-10-IoT-Core-wp.pdf
+20160806	Windows	https://www.blackhat.com/docs/us-16/materials/us-16-Weston-Windows-10-Mitigation-Improvements.pdf	WINDOWS 10 MITIGATION IMPROVEMENTS:
+20160807	WirelessSecurity	https://speakerdeck.com/virtualabs/btlejuice-the-bluetooth-smart-mitm-framework#	Slides of my talk @ defcon about Bluetooth Smart Man in the Middle is now online 
+20160808	Web	http://nerdint.blogspot.co.uk/2016/08/blind-oob-xxe-at-uber-26-domains-hacked.html	Blind OOB XXE At UBER 26+ Domains Hacked.
+20160809	WirelessSecurity	https://lnkd.in/eTEHvbu	(PDF slides) - MouseJack: Injecting Keystrokes into Wireless Mice: 
+20160810	Windows	http://www.zerodayinitiative.com/advisories/ZDI-16-453/	ZDI-16-453: Microsoft Windows xxxInsertMenuItem Out-Of-Bounds Access Privilege Escalation Vulnerability 
+20160811	Windows	https://support.microsoft.com/en-us/kb/3161102	Microsoft removing Journal component from Windows because it is “susceptible to many security exploits”. 
+20160812	Windows	https://blog.ahmednabeel.com/abusing-kerberos-to-ntlm-fallback-to-defeat-windows-authentication/	Abusing Kerberos to NTLM fallback to defeat BitLocker FDE - 
+20160813	Windows	https://github.com/p3nt4/PowerShdll	Run #PowerShell with DLLs only: 
+20160814	Others	http://url.pm/vQWVf	Exploiting ElasticSearch RCE For CVE-2015-1427 - 
+20160815	Windows	https://t.co/tmPOTgV2Wo	#PowerShell Attack Tools, Mitigation, & Detection including PowerShell attack indicators https://adsecurity.org/?p=2921 
+20160816	Web	http://goo.gl/fb/ek85ci	Stored Cross-Site Scripting vulnerability in Photo Gallery WordPress Plugin 
+20160817	Windows	https://goo.gl/nygHKZ	Project Zero blog: A Shadow of our Former Self by @ tiraniddo - 
+20160818	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=824,	The reports of my EMF processing GDI+ RCE bugs fixed in latest MS16-097 are now public, see 
+20160819	Windows	https://github.com/PowerShell/PowerShell	Open sourced #PowerShell now on GitHub to download for Windows, Linux and Mac OS X: 
+20160820	Windows	https://t.co/tXBRLyngj6	Invoke-SMBShell, POC shell that uses encrypted SMB for communication - https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-SMBShell.ps1 
+20160821	Windows	http://www.darknet.org.uk/2016/08/powerops-powershell-runspace-portable-post-exploitation-tool/	PowerOPS – PowerShell Runspace Portable Post Exploitation Tool 
+20160822	Web	http://blog.nickbloor.co.uk/2016/08/drupal-coder-module-unauthenticated.html	RCE: Race to Code Execution - Finally wrote up details of the Drupal Coder RCE I found! 
+20160823	Windows	https://medium.com/p/how-bad-design-decisions-created-the-least-secure-driver-on-windows-33e662a502fe	I just published “How bad design decisions created the least secure driver on Windows” 
+20160824	Windows	https://blogs.technet.microsoft.com/windowsserver/2016/04/25/ten-reasons-youll-love-windows-server-2016-8-security/	Windows Nano Server is a sexy, hardened OS. Blue & Red Teamers: take note of these security mechanisms. 
+20160825	Windows	https://github.com/Microsoft/omi	Wish WMI was on Linux? Microsoft just published the open source implementation, OMI to GitHub: 
+20160826	Windows	https://warroom.securestate.com/an-analysis-of-ms16-098/	Just posted an @ SS_WarRoom blog on my analysis of MS16-098 complete with a BSOD inducing PoC 
+20160827	Windows	http://gsec.hitb.org/materials/sg2016/D2%20-%20Koh%20Yong%20Chuan%20-%20Fuzzing%20the%20Windows%20Kernel.pdf	FUZZING THE WINDOWS KERNEL - 
+20160828	Windows	http://x64dbg.com/blog/2016/08/27/supporting-wow64-debugging.html	64bit Debugging and the WoW64 File System Redirection · 
+20160829	Windows	https://learn-powershell.net/2016/08/28/revisiting-netsession-function-using-psreflect/	Revisiting NetSession Function using #PSReflect #PowerShell 
+20160830	Tools	https://github.com/paulmehta/Ablation	Ablation - Augmenting Static Analysis Using Pintool. Output is IDAPython script. 
+20160831	Windows	https://www.carbonblack.com/2015/08/05/bit9-carbon-black-threat-research-team-unveils-nefarious-intents-of-volume-shadows-copies/	Doesn't carbonblack have a filter driver to catch SET_REPARSE_POINT FSCTL rather than check cmdline for mklink? 
+20160901	Windows	https://developer.microsoft.com/en-us/windows/hardware/download-symbols	Windows 10 symbols are on symbol server finally. Yay!It turns out the best email address for symbol bugs is on:
+20160902	Windows	http://www.blackhillsinfosec.com/?p=5257	Powershell Without Powershell - How To Bypass Application Whitelisting, Environment Restriction... 
+20160903	Windows	https://github.com/Nummer/Destroy-Windows-10-Spying	Didn't know there was such a project.Destroy Windows 10 Spying - 
+20160904	SecurityProduct	http://www.vxjump.net/files/seccon/BAVE_xcon2016.pdfenjoy	I have talked about ,Advanced Exploitation Techniques: Breaking AV-Emulator on XCon2016.  
+20160905	Web	https://labs.nettitude.com/blog/cross-site-scripting-doesnt-have-to-be-boring/	Introducing ‘XSS Payloads’ repository: Cross Site Scripting doesn’t have to be boring - 
+20160906	Web	http://haxx.ml/post/149975211631/how-i-hacked-your-cfp-and-probably-some-other	How I hacked your CFP 
+20160907	Windows	http://www.exploit-monday.com/2016/09/introduction-to-windows-device-guard.html	Introduction to Windows Device Guard: Introduction and Configuration Strategy 
+20160908	WirelessSecurity	https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0828_2_Kevin2600_%E6%97%A0%E7%BA%BF%20Fuzzing%20%E4%B9%8B%E6%97%85.pdf	#KCON 2016 无线 Fuzzing 之旅 by Kevin2600
+20160909	Windows	http://www.exploit-monday.com/2016/09/using-device-guard-to-mitigate-against.html	Using Device Guard to Mitigate Against Device Guard Bypasses 
+20160910	Tools	https://c0d.ist/ssdeep-python-windows-wrapper/	Compute SSDEEP hashes using Python (for Windows) :  
+20160911	Tools	https://aubsec.github.io/dfir/2016/09/01/pe-studio/	I love PeStudio for static malware analysis. #DFIRAnd @ aubsec may have written the authoritative guide on it: 
+20160912	Tools	https://bitbucket.org/pypy/revdb/	RevDB, the Reverse Debugger for Python : 
+20160913	Windows	https://threatpost.com/new-windows-patch-policy-at-odds-with-acceptable-risk/120491/	New #Windows patching policy on the way. 
+20160914	Windows	http://srcincite.io/advisories/src-2016-38/	Microsoft Office Excel EOF Record Type Confusion Remote Code Execution Vulnerability 
+20160915	Windows	http://blogs.microsoft.co.il/pavely/2016/09/14/kernel-pool-monitor-the-gui-version/)	Kernel Pool Monitor gets revived by Pavel Yosifovich (
+20160916	Tools	https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/september/introducing-blesuite-and-ble-replay-python-tools-for-rapid-assessment-of-bluetooth-low-energy-peripherals/	Blog post: Introducing BLESuite & BLE-Replay: Python Tools for Rapid Assessment of Bluetooth Low Energy Peripherals 
+20160917	WirelessSecurity	https://labs.mwrinfosecurity.com/blog/h-field-electromagnetic-sniffing/	New blogpost - Piotr Osuch on using H-field Electromagnetic analysis to capture data transmitted over serial 
+20160918	Linux	https://marcograss.github.io/security/linux/cve/2016/09/17/cve-2016-7425-linux-scsi-arcmsr-heap-overflow.html	Linux Kernel SCSI arcmsr driver: buffer overflow in arcmsr_iop_message_xfer() - 
+20160919	WirelessSecurity	https://t.co/ueAjltB7aG	使用 RTL-SDR 與 TI eZ430 運動手錶 ( eZ430-Chronos Watch ) 破解停車場閘門遙控器訊號 http://ruten-proteus.blogspot.jp/2014/07/rtl-sdr-ti-ez430-chronos-watch.html #SDR 
+20160920	WirelessSecurity	http://bluetooth-pentest.narod.ru/	Bluetooth Penetration Testing Framework 
+20160921	WirelessSecurity	https://t.co/qNzsHvCScE	http://large.stanford.edu/courses/2012/ph250/roth1/docs/890066.pdf #Bluetooth #Checklist #IoT 
+20160922	WirelessSecurity	https://t.co/a256jLz3kv	Digital Ding Dong Ditch – Hacking wireless doorbells with Arduino and RTL-SDR http://samy.pl/dingdong/ #SDR #Hacking 
+20160923	WirelessSecurity	https://t.co/z4uKoWCJg9	RF Signals - Automating the #Reverse Engineering Process https://github.com/tresacton/dspectrum http://ethicalhacker.io/post/150536211195/rf-signals-automating-the-reverse-engineering #SDR 
+20160924	WirelessSecurity	http://www.white-alone.com/GNURadio%E6%95%99%E7%A8%8B_3/	GNU Radio tutorials Part1 http://www.white-alone.com/GNURadio%E6%95%99%E7%A8%8B_1/     Part3 
+20160925	Windows	https://github.com/foxglovesec/RottenPotato	@ vvalien1 and I released our new Windows Privilege escalation @ DerbyCon today - code is online at 
+20160926	Windows	https://github.com/subTee/DerbyCon2016Feedback	Slides and Code From @ DerbyCon TalkEstablishing a Foothold With JavaScript
+20160927	WirelessSecurity	https://t.co/CnHdPzJlFn	气象卫星云图观测接收MeteorologicalSatellite Observation And Receiving #SDR #HackRF #BladeRF http://blog.csdn.net/xdyegong/article/details/49851507 
+20160928	Windows	https://blogs.msdn.microsoft.com/brian_jones/2009/07/21/embedding-any-file-type-like-pdf-in-an-open-xml-file/	I am interested in sample code http://PackageNonOfficeFiles.zip published by @  jones206 in 
+20160929	Windows	http://subt0x10.blogspot.com/2016/09/application-whitelisting-bypass-csiexe.htmlFeedback	Application Whitelisting Bypass - CSI.EXE C# Scripting
+20160930	Web	https://github.com/paragonie/awesome-appsec	A curated list of resources for learning about application security 
+20161001	ReverseEngineering	https://t.co/ugXjiOPvtw	Here's an IDA script I wrote to help with iBoot64 RE; it goes well with @xerub's img4 &amp; the i5s keys he released ;)
+20161002	Tools	https://twitter.com/i/web/status/782175115282821120	ViperMonkey : A VBA parser and emulation engine to analyze malicious macros : https://github.com/decalage2/ViperMonkey , Details  :... 
+20161003	MachineLearning	https://cloud.google.com/ml/docs/	The Google Cloud Machine Learning API is finally in beta and heck yes 
+20161004	Windows	http://igorkorkin.blogspot.de/2013/09/windows-nt-40-full-free-source-code-912_16.html	Windows NT 4.0 Full Free Source Code (912 MB) | 
+20161005	Virtualization	https://t.co/WbbVOTbTzy	Weekend Project: Write your own Hypervisor in a couple easy steps. http://lwn.net/Articles/658511/ 
+20161006	Tools	http://www.frida.re/news/2016/10/04/frida-8-0-released/	Frida 8.0 Released! 
+20161007	Vulnerability	https://t.co/t5gFrsgVJN	Ollydbg Plug-in Vulnerabilities Could Have Affected ~75,000 Users : https://www.forcepoint.com/sites/default/files/resources/files/report_forcepoint_security_labs_freeman_abandonware_en.pdf (pdf) 
+20161008	WirelessSecurity	https://zone13.io/post/Snagging-credentials-over-WiFi-Part1/	Snagging Active Directory credentials over WiFi (Part 1) : 
+20161009	Windows	https://msdn.microsoft.com/en-us/library/windows/desktop/mt706245(v=vs.85).aspx	New Process Mitigation Policy in Windows 10.0.14393 - PROCESS_MITIGATION_IMAGE_LOAD_POLICY PreferSystem32Images - 
+20161010	WirelessSecurity	http://www.windytan.com/2016/10/ctcss-fingerprinting-method-for.html	CTCSS fingerprinting: a method for transmitter identification (new blog post) 
+20161011	WirelessSecurity	https://www.youtube.com/watch?v=bahJxY3fEI4	Drones Hijacking multi - dimensional attack vectors  and  countermeasure https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Aaron-Luo-Drones-Hijacking-Multi-Dimensional-Attack-Vectors-And-Countermeasures-UPDATED.pdf 
+20161012	Windows	http://blog.vectranetworks.com/blog/triggering-ms16-030-via-targeted-fuzzing	MS16-030 (previous PT) analysis - 
+20161013	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=924	Privilege elevation on Windows 10, Object Manager Pathological Lookup EoP, 
+20161014	Windows	http://subt0x10.blogspot.com/2016/10/using-application-compatibility-shims.htmlSo	Using Application Compatibility Shims
+20161015	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=825	Microsoft GDI+ rendering of uninitialized heap bytes as pixels when handling malformed RLE-compressed bitmaps 
+20161016	Malware	http://blog.fortinet.com/2016/10/14/a-brazilian-trojan-using-a-jar-file-vb-scripts-and-a-dll-for-its-multi-stage-infection	A Brazilian Trojan Using A Jar File, VB Scripts And A DLL For Its Multi-Stage Infection 
+20161017	Tools	https://gist.github.com/mattifestation/92e545bf1ee5b68eeb71d254cec2f78e	I wrote two #PowerShell v3 functions to parse and recover binary Device Guard Code Integrity policies: 
+20161018	WirelessSecurity	https://t.co/m3TgRwYJ6q	Code is up! Transmit your own HD Radio signal with a HackRF or USRP. https://github.com/argilo/nrsc-5 #GnuRadio #SDR 
+20161019	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=885	Windows: DFS Client Driver Arbitrary Drive Mapping Elevation of Privileges 
+20161020	WirelessSecurity	https://t.co/Vck3dV3eOU	http://static1.1.sqspcdn.com/static/f/679473/25461571/1411158642820/Sep15_09_Otterbach_GSM.pdf #SDR #GnuRadio 
+20161021	WirelessSecurity	https://t.co/kmOHyuP7sI	RTL-SDR Tutorial: Receiving and Decoding Data from the Outernet http://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-and-decoding-data-from-the-outernet/ 
+20161022	WirelessSecurity	https://www.exploit-db.com/exploits/40609/?rss	- Hak5 WiFi Pineapple - Preconfiguration Command Injection (Metasploit) 
+20161023	Windows	https://adsecurity.org/?p=3299	Securing Windows Workstations : Developing a Secure Baseline :  
+20161024	Windows	https://t.co/1uAJLVu8R7	Slides from my @ BSidesDC #PowerShell attack & defense talk posted: https://adsecurity.org/?page_id=1352PowerShell obfuscation,... 
+20161025	Windows	https://t.co/YskxQSMzYc	Credential Guard Made Easy for Windows 10 Enterprise Version 1607 https://yungchou.wordpress.com/2016/10/10/credential-guard-made-easy-in-windows-10-version-1607 https://t.co/QQdmtPu9l8 
+20161026	WirelessSecurity	http://www.theregister.co.uk/2016/10/23/every_lte_call_text_can_be_intercepted_blacked_out_hacker_finds/	LTE security downright ridiculous: every call, text, can be intercepted, blacked out...
+20161027	WirelessSecurity	https://www.youtube.com/playlist?list=PL618122BD66C8B3C4&feature=view_all	http://files.ettus.com/tutorials/labs/Lab_1-5.pdf video 
+20161028	Windows	http://www.exploit-monday.com/2016/10/code-integrity-policy-reference.html	Windows Device Guard Code Integrity Policy Reference 
+20161029	WirelessSecurity	http://thehackernews.com/2016/10/how-to-hack-drone.html"	#PacSec 2016 "You Can Hijack Nearly Any Drone Mid-flight Using This Tiny Gadget - 
+20161030	Tools	https://t.co/sMQBceXClf	Invoke-Capstone.ps1, #PowerShell wrapper for Capstone Engine v3 (cc @ capstone_engine) - https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-Capstone.ps1 
+20161031	Web	https://ssrfdetector.com/	Web application for detecting server-side request forgery : 
+20161101	Windows	https://t.co/bVWrEo4CZC	Google Threat Analysis Group drop info about unpatched, actively exploited Win32k local privilege escalation 0day 
+20161102	WirelessSecurity	https://static1.squarespace.com/static/54cecce7e4b054df1848b5f9/t/57489e6e07eaa0105215dc6c/1464376943218/Reversing-Lora-Knight.pdf	 
+20161103	Tools	https://t.co/lP9K8pRG0M	Static code analyzer for Ubuntu. http://insights.ubuntu.com/2016/11/02/static-code-analyzer-for-ubuntu/ (#ubuntu, #devops, #programming, #cpp, #codeanalysis,... 
+20161104	WirelessSecurity	https://t.co/lTGTADnS5N	, by @ raviborgaonkar & Piers O'Hanlon#BHEU 
+20161105	WirelessSecurity	https://ruxcon.org.au/assets/2016/slides/LTE_Redirection_Ruxcon.pdf	LTE Redirection : Forcing Targeted LTE Cellphone into Unsafe Network : 
+20161106	Windows	http://www.slideshare.net/PeterHlavaty/you-didnt-see-its-coming-dawn-of-hardened-windows-kernel	Dawn of hardened Windows Kernel : 
+20161107	Tools	https://twitter.com/zacbrown/status/795038620549660673	Here’s how defenders can leverage ETW to monitor PowerShell method execution #DFIR 
+20161108	Web	http://blog.securityfuse.com/2016/11/gmail-account-hijacking-vulnerability.html	Gmail Account Hijacking Vulnerability 
+20161109	Windows	https://github.com/lgandx/PoC/tree/master/LSASSSearch	MS16-137 PoC: 
+20161110	WirelessSecurity	https://t.co/V4tdIh3ugk	Attacking Vessel Tracking Systems forFun and Profit  #SDR #AIS  https://conference.hitb.org/hitbsecconf2013kul/materials/D1T1%20-%20Marco%20Balduzzi,%20Kyle%20Wilhoit%20Alessandro%20Pasta%20-%20Attacking%20Vessel%20Tracking%20Systems%20for%20Fun%20and%20Profit.pdf 
+20161111	Windows	http://j00ru.vexillium.org/blog/04_12_11/Windows_Kernel_Address_Protection.pdf	Windows Security Hardening Through Kernel Address Protection : 
+20161112	WirelessSecurity	https://t.co/eIpkbWa92y	infernal twin Automated Evil Twin Attackhttp://www.kalitut.com/2016/01/infernal-twin-automated-evil-twin-attack.html#EvilTwin #WiFiSecurity  #wifi #kalilinux 
+20161113	WirelessSecurity	https://github.com/drmpeg/gr-ule	A new GNU Radio OOT module. 
+20161114	WirelessSecurity	https://github.com/P0cL4bs/WiFi-Pumpkin	WiFi-Pumpkin, Framework for Rogue Wi-Fi Access Point Attack: 
+20161115	WirelessSecurity	https://fuzzinginfo.files.wordpress.com/2012/05/deepsec__keil_kolbitsch-presentation-virtual_fuzzing.pdf	fuzzing & exploiting wireless device drivers (2007)
+20161116	Windows	https://cxsecurity.com/issue/WLB-2016110128	LSASS SMB NTLM Exchange Remote Memory Corruption 
+20161117	WirelessSecurity	http://www.rtl-sdr.com/new-comparison-videos-from-leif-sm5bsz-airspy-vs-sdrplay/	New Comparison Videos from Leif SM5BSZ: Airspy vs SDRplay vs Several Other SDRs  
+20161118	Windows	https://blogs.msdn.microsoft.com/wsl/2016/11/08/225/	Windows Subsystem for Linux Overview : https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/ , System Calls: https://blogs.msdn.microsoft.com/wsl/2016/06/08/wsl-system-calls/ ;Networking : 
+20161119	Windows	https://t.co/95EhF3OUsV	More details(graphs + codes) of #pwn2own 2016 Edge EoP by CVE-2016-0176. "A Link to System Privilege": 
+20161120	Vulnerability	https://goo.gl/fb/yB6UnR	Cross-Site Scripting in Huge IT Portfolio Gallery WordPress Plugin 
+20161121	Tools	https://github.com/Sab0tag3d/SIET/	SIET - CISCO Smart Install Exploitation Tool. 
+20161122	WirelessSecurity	https://insinuator.net/2016/10/a-journey-into-the-depths-of-vowifi-security/	New blog post: A journey into the depths of VoWiFi Security 
+20161123	WirelessSecurity	https://t.co/OW3sBroOoj	http://conferences.sigcomm.org/sigcomm/2013/papers/srif/p61.pdf  #SDR #USRP 
+20161124	Tools	http://www.kitploit.com/2016/11/brutal-toolkit-to-quickly-create.html	Brutal - Toolkit to quickly create various Payload, PowerShell Attack, Virus Attack and Launch Listener for a HID 
+20161125	Tools	http://x64dbg.com/blog/2016/11/24/xanalyzer-reviewed.html	xAnalyzer Reviewed by @ yunietps 
+20161126	Virtualization	https://bugs.chromium.org/p/project-zero/issues/detail?id=820	Symantec/Norton Antivirus ASPack Remote Heap/Pool memory corruption Vulnerability CVE-2016-2208 
+20161127	Web	https://84692bb0df6f30fc0687-25dde2f20b8e8c1bda75aeb96f737eae.ssl.cf1.rackcdn.com/--xss.html	Ultimate Xss Payload
+20161128	Others	http://hacksys.vfreaks.com/You_Got_Uninitialized_Kernel_Memory.pdf	You Got Uninitialized Kernel Memory : 
+20161129	Vulnerability	https://goo.gl/fb/bRvmNm	Schoolhos CMS v2.29 - userberita SQL injection Vulnerability 
+20161130	Windows	http://blog.win-fu.com/2016/11/every-windows-10-in-place-upgrade-is.html	SHIFT-F10 during Windows Update pops CMD and bypasses Bitlocker 
+20161201	Windows	https://threatpost.com/microsoft-silently-fixes-kernel-bug-that-led-to-chrome-sandbox-bypass/122179/	.@ Microsoft Silently Fixes Kernel Bug That Led to Chrome Sandbox Bypass - 
+20161202	WirelessSecurity	https://t.co/rVpOiQvOko	http://openbts.org/site/wp-content/uploads/2014/07/OpenBTS-4.0-Manual.pdf #GnuRadio #SDR #GSM 
+20161203	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=952	Microsoft Edge: Info Leak in JSON.parse 
+20161204	Windows	http://deroko.phearless.org/shadow_stack.txt	Shadow stack, new mitigation in windows 10 x64 insider builds : 
+20161205	Windows	https://cxsecurity.com/issue/WLB-2016120021	Microsoft Authorization Manager "azman" XML External Entity 
+20161206	WirelessSecurity	https://www.bastibl.net/traffic-lights-2/	Reversing Mobile Traffic Lights: https://www.bastibl.net/traffic-lights/ 
+20161207	WirelessSecurity	https://t.co/ZpizOQ5w1h	How To Building a SDR Server With OpenWrt And RTL http://www.spriteking.com/archives/1622  #RTL #SDR #GnuRadio 
+20161208	WirelessSecurity	https://cxsecurity.com/issue/WLB-2016120041	Microsoft Windows 10 x86/x64 WLAN AutoConfig Named Pipe Proof Of Concept 
+20161209	Windows	https://twitter.com/msedgedev/status/806641150186528768	CSS Custom Properties (variables to non-Spec heads)  in Edge \o/ 
+20161210	WirelessSecurity	https://t.co/3jtagz7ZVs	My wireless mouse hijacking NES controller is now open source. Build guide + firmware are on GitHub. Happy hacking! 
+20161211	WirelessSecurity	https://repo.t0x0sh.org/Papers/Network/2014_hacking_gsm.pdf	GreedyBTS – Hacking Adventures in GSM : 
+20161212	Windows	https://packetstormsecurity.com/files/139749/x86windns-shellcode.txt	Windows x86 EXE Removal Shellcode : 
+20161213	WirelessSecurity	https://twitter.com/i/web/status/808236195553550336	Nice idea from @ NCCGroupplc :GSM/GPRS Traffic Interception for Penetration Testing Engagements... 
+20161214	Windows	https://t.co/fTeKIv3Iqm	@hosselot My new writeup (Ms16-147, CVE-2016-7274) Remote gdi32full.dll memory corruption in Windows 10 and below:
+20161215	WirelessSecurity	https://www.youtube.com/watch?v=4lkJsRkwGXY	Bluetooth Attacks on Commercial-Grade Electronic Locks : http://www.somersetrecon.com/blog/2016/10/14/electronic-safe-lock-analysis-part-2- , Demo : 
+20161216	WirelessSecurity	https://github.com/merculite/BLE-Security	BLE-Security#Hacking #Bluetooth Low Energy Locks#BTLE #IoT #Security 
+20161217	Tools	https://t.co/1J6SUC1eAM	Burp Suite Professional 1.7.14 - The Leading Toolkit for Web Application Security Testing  http://bit.ly/2hFnAQu... 
+20161218	Vulnerability	https://twitter.com/i/web/status/809937942835818497	‘SSL Death Alert’ (CVE-2016-8610) can cause denial of service to OpenSSL Servers. See our patch analysis:... 
+20161219	Tools	http://www.darknet.org.uk/2016/12/powershellarsenal-powershell-reverse-engineering/	PowerShellArsenal – PowerShell For Reverse Engineering 
+20161220	WirelessSecurity	https://www.researchgate.net/publication/307544953_Demonstration_of_Vulnerabilities_in_GSM_Security_with_USRP_B200_and_Open-Source_Penetration_Tools	Demonstration of Vulnerabilities in GSM Security with USRP B200 and Open-Source Penetration Tools 
+20161221	Windows	https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf	WMI (Windows Management Instrumentation) offense,defense & forensics : 
+20161222	Tools	https://github.com/m57/dnsteal/via	DNS Exfiltration tool for stealthily sending files over DNS requests - 
+20161223	Virtualization	http://docker-saigon.github.io/post/Docker-Internals/	Linux Container Internals :  
+20161224	WirelessSecurity	https://t.co/H0HXjZToWt	How to get 3G working on the UmTRX https://fairwaves.co/blog/openbts-umts-3g-umtrx/ #3G #SDR #OpenBTS 
+20161225	Windows	https://gist.githubusercontent.com/mattifestation/7027c1ff29d699d69b87ad564d0ea6d5/raw/b14dd5eb8f187b92f91e277a137952be93ad4d7d/output.txt	I wrote a parser to pull out ELAM driver approved anti-malware signer info: https://gist.github.com/mattifestation/7027c1ff29d699d69b87ad564d0ea6d5 Results from VT: 
+20161226	WirelessSecurity	https://twitter.com/i/web/status/813012474387578884	https://2016.zeronights.ru/wp-content/uploads/2016/12/Of-Mice-and-Keyboards-On-the-Security-of-Modern-Wireless-Deskto-Sets-ZeroNights-2016.pdf #HackRF #SDR... 
+20161227	WirelessSecurity	https://t.co/ZqqXhM4JdA	#SDR #USRP http://web.eng.fiu.edu/~iguvenc/projects/LTE_Signal_Record_and_Playback%20(Nadisanka).pdf 
+20161228	WirelessSecurity	https://blog.strcpy.info/2016/11/16/running-openbts-with-the-nuand-bladerf-on-ubuntu-the-definitive-guide/#BladeRF	OpenBTS is not super obvious how to setup.Maybe this post will help someone.
+20161229	WirelessSecurity	https://t.co/Wtn3XVyCBB	Slides of my #33c3 talk "Predicting and Abusing WPA2/802.11 Group Keys" http://www.slideshare.net/vanhoefm/predicting-and-abusing-wpa280211-group-keys PDF slides at 
+20161230	Tools	https://t.co/GFcxsUVkEI	New Maltego User Guide (up to 4.0.12). So much depth &amp; detail we should have called it 'The Ultimate Maltego Book'. 
+20161231	Windows	https://securingtomorrow.mcafee.com/mcafee-labs/digging-windows-kernel-privilege-escalation-vulnerability-cve-2016-7255/	Digging Into a Windows Kernel Privilege Escalation Vulnerability: CVE-2016-7255:
+20170101	WirelessSecurity	http://hashcat.net/forum/thread-6170.html	Keyspace List for WPA on Default Routers 
+20170102	WirelessSecurity	https://t.co/0zv8Qa32Qr	Dissecting modern (3G/4G) cellular modems : http://git.gnumonks.org/laforge-slides/plain/2016/cellular_modems_33c3/33c3-modems.html#(1) (Slides) ,Video : https://media.ccc.de/v/33c3-8151-dissecting_modern_3g_4g_cellular_modems 
+20170103	Windows	https://www.exploit-db.com/exploits/40981/	Windows x64 - Password Protected Bind Shellcode (825 bytes) : 
+20170104	Windows	https://twitter.com/Saif_Sherei/status/816356528529829893	great post :-)is it exploitable in Win10 ? 
+20170105	Vulnerability	https://marc.info/?l=oss-security&m=148325785002295&w=2#infosec	Stack Overflow On UnRTF 
+20170106	WirelessSecurity	https://t.co/EaxbjFHzou	How we broke into your house:Hacking alarm systems with rtl-sdr and rfcat  #SDR #RTL #rfcat http://boredhackerblog.blogspot.hk/2016/02/how-we-broke-into-your-house.html 
+20170107	WirelessSecurity	http://bit.ly/2hu2FUn	Very good talk about reverse engineering digital radio, here: the #Outernet 
+20170108	Windows	https://drive.google.com/file/d/0B8sHjc3kJKQrUTYxSkpldy01ZWs/view	Modern Windows Exploit Development : 
+20170109	Windows	https://gist.github.com/alirobe/7f3b34ad89a159e6daa1	“Reclaim Windows 10” Powershell Script (removes bloatware & telemetry from Windows 10) : 
+20170110	Web	https://github.com/interference-security/DVWS	Damn Vulnerable Web Sockets - vulnerable web application which works on web sockets for client-server communication: 
+20170111	Windows	http://ricklarabee.blogspot.com/2017/01/virtual-memory-page-tables-and-one-bit.html	Walkthrough of CVE-2016-7255 (PrivEsc) with working POC for Windows 7, 8.1, 10, and 2012 R2  
+20170112	WirelessSecurity	https://t.co/IVUOJQY0mM	http://www.openairinterface.org/docs/workshop/1_OAI_Workshop_20160122/OAI-obj2016.pdf 
+20170113	WirelessSecurity	https://t.co/zLmM8RTpHC	GSM sniffer Part1: https://cn0xroot.com/2016/08/01/gsm-hacking-part-%E2%91%A0-scan-and-sniffer-gsm-with-sdr/ Part2:https://cn0xroot.com/2016/08/10/gsm-hacking-part-%E2%91%A1-%EF%BC%9Asniffer-and-decode-gsm-with-sdr/ #SDR #BladeRF 
+20170114	WirelessSecurity	https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/	A practical guide to RFID badge copying  
+20170115	Windows	https://t.co/eZc408fNcv	New Bluetooth features in Windows 10 Creators Update (a.k.a. GATT Server and friends) http://dlvr.it/N64ssg 
+20170116	Windows	https://t.co/5lIQfgyPZm	Hardening Windows 10 with 0-day exploit mitigations : https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/ 
+20170117	WirelessSecurity	https://t.co/d0gpjYe4vc	A Peek at GNU Radio’s Buffer Architecture : http://gnuradio.org/blog/buffers/ 
+20170118	Vulnerability	https://cxsecurity.com/issue/WLB-2017010111	PHP LibGD Heap Buffer Overflow 
+20170119	Windows	https://t.co/TGD93YNN8b	New personal blog - "Abusing native Windows functions for shellcode execution", included a tool to gen the VBA code 
+20170120	WirelessSecurity	http://www.rtl-sdr.com/hacking-a-danfoss-wireless-thermostat-with-an-rtl-sdr/	Hacking a Danfoss Wireless Thermostat with an RTL-SDR  
+20170121	Windows	https://t.co/NWjPb0FVld	ArbitraryOverwrite exploit for Win10 x64 v1511 w/ SMEP bypass :  https://github.com/GradiusX/HEVD-Python-Solutions/blob/master/Win10%20x64%20v1511/HEVD_arbitraryoverwrite.py cc @ GradiusX 
+20170122	Virtualization	https://dadario.com.br/docker-for-automating-honeypots-or-malware-sandboxes/	Docker for Automating Honeypots or Malware Sandboxes
+20170123	Vulnerability	https://github.com/corkami/pocs	I started cleaning up some older PoCs for re-releasing: uploaded mini GIF, PE, Mach-O, ELF, Java - w/ NASM source 
+20170124	Windows	https://improsec.com/blog//bypassing-control-flow-guard-on-windows-10-part-ii	A follow up post on bypassing Control Flow Guard - 
+20170125	MalwareAnalysis	https://t.co/0ndshwHtw9	AMIRA : Automated Malware Incident Response and Analysis : https://engineeringblog.yelp.com/2016/08/amira-automated-malware-incident-response-and-analysis.html 
+20170126	Web	https://www.ambionics.io/blog/cve-2016-9838-joomla-account-takeover-and-remote-code-execution	CVE-2016-9838 - Joomla! Account Takeover and RCE writeup 
+20170127	Web	https://t.co/QQB9tL2Qou	0day writeup : XXE in http://uber.com :  https://httpsonly.blogspot.in/2017/01/0day-writeup-xxe-in-ubercom.html?m=1 
+20170128	Windows	https://t.co/Sc7qnzXcJM	Uploaded our @BlueHatIL slide deck"The Enemy Within: Stopping Advanced Attacks Against Local Users"
+20170129	Windows	https://1drv.ms/b/s!AjtdNPlVeOS5hTrAHJchDzh7HKsx@	Our #BlueHatIL Slides"Device Guard Attack Surface, Bypasses, and Mitigations "
+20170130	NetworkDevice	http://securityaffairs.co/wordpress/55763/hacking/cisco-telepresence-mcu-flaw.html	CVE-2017-3792 – Cisco TelePresence MCU affected by a Remote Code Execution issue 
+20170131	Windows	https://t.co/gQJvspFVhY	Leaking GDI Objects Post Windows 10 Anniversary Edition by @ FuzzySec https://labs.mwrinfosecurity.com/blog/a-tale-of-bitmaps/ 
+20170201	Web	http://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/	5 ways to File upload vulnerability Exploitation 
+20170202	Windows	http://ropgadget.com/posts/abusing_win_functions.html	Abusing native Windows functions for shellcode execution
+20170203	Windows	http://terminus.rewolf.pl/terminus/	Windows internal structures with nice presentation layer by @ rwfpl: 
+20170204	Windows	https://www.bleepingcomputer.com/news/security/windows-drm-files-used-to-decloak-tor-browser-users/#.WJRsQLUEw1o.twitter	Windows DRM Files Used to Decloak Tor Browser Users 
+20170205	Windows	http://www.irongeek.com/i.php?page=videos/derbycon6/418-finding-a-weak-link-attacking-windows-oem-kernel-drivers-braden-hollembaek-adam-pond	Watch @ pondsploit and @ bhollemb's at @ DerbyCon on Finding a Weak Link: Attacking Windows OEM Kernel Drivers - 
+20170206	Windows	http://soliton.ae.gatech.edu/classes/ae6382/documents/MS_scripting/WindowsScriptingComponents.pdf	 
+20170207	WirelessSecurity	https://t.co/ScGA6mCNEQ	Somebody's been looking for integer overflows in QCOM drivers. F.eCVE-2016-8476: EoP in Qualcomm WiFi driver
+20170208	Windows	http://sjc1-te-ftp.trendmicro.com/assets/wp/exploring-control-flow-guard-in-windows10.pdf	Exploring Control Flow Guard in Windows 10:
+20170209	WirelessSecurity	https://security.googleblog.com/2017/02/80211s-security-and-google-wifi.html	802.11s Security and Google Wifi 
+20170210	WirelessSecurity	https://pierrekim.github.io/blog/2017-02-09-tplink-c2-and-c20i-vulnerable.html	TP-Link C2 and C20i multiple vulnerabilities 
+20170211	Windows	https://improsec.com/blog//exploit-development-environment	My newest blog post on how to setup a debugging environment on Windows for exploit dev -  
+20170212	Tools	https://www.packettotal.com/	Free website for analyzing malicious PCAP files 
+20170213	Tools	https://github.com/vy/hrrs	hrrs : Record and replay HTTP requests in Java EE and Spring applications : 
+20170214	WirelessSecurity	https://people.cs.kuleuven.be/~mathy.vanhoef/papers/brucon2015_slides.pdf	Advanced WiFi Attacks + Jamming Using Commodity Hardware : http://www.mathyvanhoef.com/2015/10/advanced-wifi-attacks-using-commodity.html , Slides : 
+20170215	Web	https://blog.netspi.com/attacking-javascript-web-service-proxies-burp/	Attacking JavaScript Web Service Proxies with Burp - 
+20170216	Windows	https://googleprojectzero.blogspot.nl/2017/02/attacking-windows-nvidia-driver.html	Attack Windows Kernel Graphics1: https://www.blackhat.com/docs/us-14/materials/us-14-vanSprundel-Windows-Kernel-Graphics-Driver-Attack-Surface.pdf2: http://2015.zeronights.org/assets/files/11-Tarakanov.pdf3: 
+20170217	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=949	MSO!Ordinal5429 heap corruption due to missing length check 
+20170218	Windows	http://www.slideshare.net/_s_n_t/object-oriented-exploitation-new-techniques-in-windows-mitigation-bypass	Object Oriented Exploitation: New techniques in Windows mitigation bypass:
+20170219	WirelessSecurity	https://t.co/hUpDGXXd5W	 
+20170220	Web	https://www.exploit-db.com/docs/41397.pdf	Exploiting SQL Injection when database is SQLIte : 
+20170221	WirelessSecurity	https://duo.com/blog/flipping-bits-and-opening-doors-reverse-engineering-the-linear-wireless-security-dx-protocol	Flipping Bits and Opening Doors reverse engineering a wireless security device by @ sirus 
+20170222	WirelessSecurity	https://t.co/uYkbSoQRrx	Hacking exposed wireless:Wireless security secrets & solution second edition (PDF)   http://dl.finebook.ir/book/4b/14104.pdf 
+20170223	Windows	http://j00ru.vexillium.org/?p=3101	New blog post: Windows Kernel Local Denial-of-Service #1: win32k!NtUserThunkedMenuItemInfo (Windows 7-10), 
+20170224	Windows	http://blog.quarkslab.com/analysis-of-ms16-104-url-files-security-feature-bypass-cve-2016-3353.html	Analysis of MS16-104: .URL files Security Feature Bypass (CVE-2016-3353)  
+20170225	Tools	http://www.darknet.org.uk/2017/02/shellnoob-shellcode-writing-toolkit/	ShellNoob – Shellcode Writing Toolkit 
+20170226	Tools	https://github.com/k4m4/terminals-are-sexy	A curated list of Terminal frameworks, plugins and resources for CLI lovers : 
+20170227	Windows	https://t.co/LeioQdKZDx	A primer on "Windows active directory recon and Authenticated remote code execution techniques". Technical Read! 
+20170228	Windows	http://j00ru.vexillium.org/?p=3151	This week's release: Windows Kernel Local Denial-of-Service #2: win32k!NtDCompositionBeginFrame (Windows 8-10), 
+20170301	Windows	http://insider.osr.com/2017/ntinsider_2017_01.pdf	Jan/Feb 2017 issue of The NT Insider is available. 
+20170302	Windows	https://github.com/PaulSec/awesome-windows-domain-hardening	Curated list of Security Hardening techniques for Windows.  
+20170303	WirelessSecurity	http://xakcop.com/post/cloning-rfid/	Summary of my experience with cloning RFID: 
+20170306	WirelessSecurity	http://souliss.net/media/smart-socket-hack/	Smart Socket Hack Tutorial 
+20170307	Windows	https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-2	Second post in my series on Windows kernel shellcode on Windows 10 
+20170308	Windows	https://t.co/niz2ZjDH8m	New Core Labs blog "Kerberos Delegation, SPNs and More..." http://hubs.ly/H06zJPb0 by @ agsolino 
+20170309	Windows	https://www.exploit-db.com/exploits/41542/	USBPcap (USBPcap.sys) NULL Pointer Dereference EOP Exploit 
+20170310	Windows	https://blogs.technet.microsoft.com/mmpc/2017/03/08/uncovering-cross-process-injection-with-windows-defender-atp/	New code injection detection features in #WDATP creators update.  Lots of case studies 
+20170311	Windows	https://twitter.com/i/web/status/840036063536115713	Getting Physical With USB Type-C - WINDOWS 10 RAM Forensics & UEFI Attacks  : http://alex-ionescu.com/publications/Recon/recon2017-bru.pdf (Slides) cc... 
+20170312	Tools	https://github.com/j91321/rext	rextRouter EXploitation ToolkitAuthor: @ j91321#router #exploit 
+20170313	Windows	https://tyranidslair.blogspot.co.uk/2017/03/getting-code-execution-on-windows-by.html	This only took me 4 years to write :-) Abusing default Windows Kernel Debugging settings to bypass the login screen. 
+20170314	WirelessSecurity	https://twitter.com/i/web/status/841200425651044352	Updating #HackRF Firmware https://github.com/mossmann/hackrf/wiki/Updating-Firmware and install Spectrum Analyzer GUI for hackrf_sweep on Windows... 
+20170315	WirelessSecurity	https://t.co/Xka3hChqnH	https://cdn-learn.adafruit.com/downloads/pdf/getting-started-with-rtl-sdr-and-sdr-sharp.pdf 
+20170316	Windows	https://t.co/OXVsX9ElRr	Injecting a DLL without a remote thread: http://blogs.microsoft.co.il/pavely/2017/03/14/injecting-a-dll-without-a-remote-thread/ 
+20170317	Windows	https://cxsecurity.com/issue/WLB-2017030152	Microsoft Windows 'LoadUvsTable()' Heap-based Buffer Overflow 
+20170318	WirelessSecurity	https://t.co/GCWVOaHyMa	http://www.kitsrus.com/pdf/k180_article.pdf 
+20170319	WirelessSecurity	https://goo.gl/gC3tk4	Enterprise WIFI Hacking with Hostapd-WPE 
+20170320	Tools	https://github.com/swisskyrepo/PayloadsAllTheThings	A list of useful payloads and bypass for Web Application Security and Pentesting. 
+20170321	Windows	https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-4-there-is-no-code	Converting Windows kernel shellcode from previous posts to data only attacks and bypassing KASLR in the process 
+20170322	WirelessSecurity	https://t.co/yUenKDKPxg	Bundled GNURadio + GrOsmoSDR For Windows Machine https://github.com/pothosware/PothosSDR/wiki/GNURadio #SDR #GNURadio 
+20170323	Vulnerability	http://bit.ly/2nCIVjH	Vulnerabilities Identified in Network Time Protocol Daemon (ntpd) 
+20170324	Windows	https://www.slideshare.net/CTruncer/windows-10-endpoint-security-improvements-and-the-implant-since-windows-2000https://github.com/ChrisTruncer/WMImplant	Here’s the slides to our talk about Device Guard and link to WMImplant!  https://www.slideshare.net/CTruncer/windows-10-endpoint-security-improvements-and-the-implant-since-windows-2000
+20170325	Vulnerability	https://www.nccgroup.trust/uk/our-research/d-link-dir-850l-web-admin-interface-vulnerable-to-stack-based-buffer-overflow/?research=Technical+advisories	NCC Group Advisory: D-LINK DIR-850L pre-auth web admin interface stack-based buffer overflow - 
+20170326	Windows	http://cvr-data.blogspot.co.uk/2016/11/lpe-vulnerabilities-exploitation-on.html	LPE vulnerabilities exploitation on Windows 10 Anniversary Update - https://2016.zeronights.ru/wp-content/uploads/2016/12/Win10LPE.pdf & 
+20170327	WirelessSecurity	https://cn0xroot.com/2017/03/25/metasploits-rf-transceiver-capabilities/	Metasploit的射频收发器功能 | Metasploit's RF Transceiver Capabilities 
+20170328	WirelessSecurity	https://t.co/a1Aaapqmhc	My slides discussing GPS Spoofing to attack NTPd & consequences from @ BSidesCbr are up https://zxsecurity.co.nz/presentations/201703_BSidesCBR-ZXSecurity_Practical_GPS_Spoofing.pdf code: 
+20170329	WirelessSecurity	http://www.smeegesec.com/2017/03/captive-portal-wifi-phishing-with.html	WiFi Phishing for Credentials with a Captive Portal on OpenWrt: 
+20170330	Windows	https://t.co/v2nEfP1UV3	The Windows 10 Creators Update is coming April 11th, with EdgeHTML 15. Begin testing today with the preview VMs on... 
+20170331	Windows	https://t.co/sGj0Hjxf2k	Low IL to System by Leaking Process _THREADINFO structure using GDI/Bitmaps.https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteLowIL/blob/master/HS-ArbitraryOverwriteGDI/HS-ArbitraryOverwriteGDI.c@ NicoEconomou... 
+20170401	Windows	https://www.blackhat.com/docs/asia-17/materials/asia-17-Hart-Delegate-To-The-Top-Abusing-Kerberos-For-Arbitrary-Impersonations-And-RCE.pdf	Abusing Kerberos for arbitrary impersonations and RCE : https://www.blackhat.com/docs/asia-17/materials/asia-17-Hart-Delegate-To-The-Top-Abusing-Kerberos-For-Arbitrary-Impersonations-And-RCE-wp.pdf (wp), 
+20170402	Tools	https://github.com/huntergregal/mimipenguin	MimiPenguin - Dumping cleartext credentials from memory on Linux hosts 
+20170403	Tools	https://github.com/derhuerst/tcp-over-websockets#tcp-over-websockets	Tunnel TCP Through WebSockets (CLI Tool) 
+20170404	Windows	https://enigma0x3.net/2017/04/03/defeating-device-guard-a-look-into-cve-2017-0007/	Defeating Device Guard: A look into CVE-2017-0007
+20170405	Windows	https://t.co/mNZrTFpKMm	Disarming EMET 5.52 : Controlling it all with a single write action : https://blog.ropchain.com/2017/04/03/disarming-emet-5-52/ 
+20170406	WirelessSecurity	https://t.co/f6BXM8MJgU	Slides of my ASIA CCS paper on discovering logical vulnerabilites in the Wi-Fi handshake are now online!... 
+20170407	Windows	http://codemachine.com/article_interruptdispatching.html.	Windows 10 Interrupt Dispatching Internals 
+20170408	Windows	https://wikileaks.org/vault7/document/StolenGoods-2_1-UserGuide/StolenGoods-2_1-UserGuide.pdf	Understanding CIA's Grasshopper Builder for Windows Malware : https://wikileaks.org/vault7/document/Grasshopper-v2_0_2-UserGuide/Grasshopper-v2_0_2-UserGuide.pdf , UMBRAGE: StolenGoods : 
+20170409	Vulnerability	https://threatpost.com/baseband-zero-day-exposes-millions-of-mobile-phones-to-attack/124833/	.#Baseband vulnerability within (Huawei) HiSilicon Balong integrated 4G LTE modems. 
+20170410	Tools	https://t.co/bljxt9tqLF	Our early analysis: "epichero" is a 0-day exploit (RCE) for Avaya Call Server in NSA leak https://github.com/x0rz/EQGRP/tree/master/Linux/bin/epichero... 
+20170411	Windows	https://github.com/tinysec/vulnerability	share some of windows kernel vulnerability found by me with poc , you can try to write a exploit. 
+20170412	WirelessSecurity	https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html	Project Zero blog: "Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)" by @ laginimaineb - 
+20170413	WirelessSecurity	https://twitter.com/i/web/status/852131783697190912	LimeSDR Getting Started Quickly  |  LimeSDR上手指南 @  LimeSDR_org #LimeSDR #SDR #GNURadio 、http://bobao.360.cn/learning/detail/3721.html... 
+20170414	Windows	http://conference.hitb.org/hitbsecconf2017ams/materials/D1T4%20-%20Niels%20Warnars%20-%20Disarming%20EMET.pdf	Disarming EMET 5.52 : 
+20170415	WirelessSecurity	http://conference.hitb.org/hitbsecconf2017ams/materials/D1T4%20-%20Marc%20Newlin%20and%20Matt%20Knight%20-%20So%20You%20Want%20to%20Hack%20Radios.pdf	So You Want to Hack Radios - A Primer on Wireless Reverse Engineering : 
+20170416	Windows	https://www.trustedsec.com/blog/equation-group-dump-analysis-full-rce-win7-fully-patched-cobalt-strike/	New blog post has video walkthrough on Win7 RCE fully patched @ justinelze :
+20170417	Vulnerability	https://t.co/nKVvEJwQnn	The story of how I found & exploited XSS to execute SQL Queries and RCE on pgAdmin 4.https://blog.liftsecurity.io/2017/04/14/sql-and-more-via-xss-in-pgadmin4/ 
+20170418	Virtualization	https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf	Our @ WEareTROOPERS slides from #TR17 with @ mikhailgorobets @ c7zero: Attacking hypervisors through hardware emulation 
+20170419	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1079	Fun Edge/UWP sandbox escape 
+20170420	Vulnerability	https://t.co/ptYB9Negia	CVE-2017-7471 Qemu: 9p: virtfs allows guest to change filesystem attributes on host: Posted by P J P on Apr 19... 
+20170421	Windows	https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/#4S22DBw3oW4ZeiQV.97	Better performance and more developer features (spoilers! WebAssembly and shared memory) in Edge and ChakraCore.
+20170422	Vulnerability	https://bugs.chromium.org/p/project-zero/issues/detail?id=1227	Oracle VirtualBox Guest Additions (Shared Folders) double-free from unprivileged Windows user-mode guest code 
+20170423	Windows	https://twitter.com/subtee/status/855862615020421120AMSI	 
+20170424	Tools	https://pypi.python.org/pypi/trueseeing	Trueseeing : a fast, accurate, and resilient vulnerability scanner for Android apps : 
+20170425	Windows	http://j00ru.vexillium.org/?p=3251	Final post in the series: Windows Kernel Local Denial-of-Service #5: win32k!NtGdiGetDIBitsInternal (Windows 7-10), 
+20170426	Windows	http://blog.sec-consult.com/2017/04/what-unites-hp-philips-and-fujitsu-one.html	Privilege escalation in HP, Philips and Fujitsu bloatware (Portrait Displays SDK) 
+20170427	Windows	http://blog.talosintelligence.com/2017/04/vulnerability-spotlight-irfanview.html	Vulnerability Spotlight: IrfanView Jpeg2000 Reference Tile width Arbitrary Code Execution Vulnerability 
+20170428	Vulnerability	https://stringbleed.github.io/#	StringBleed : SNMP authentication bypass 
+20170429	Vulnerability	https://blogs.cisco.com/security/talos/vulnerability-spotlight-randombit-botan-library-x509-certificate-validation-bypass-vulnerability	Vulnerability Spotlight: Randombit Botan Library X509 Certificate Validation Bypass Vulnerability 
+20170502	Windows	http://www.rvrsh3ll.net/blog/informational/bypassing-windows-attachment-manager/	Bypassing Windows Attachment Manager : 
+20170503	WirelessSecurity	https://t.co/aSgvR4y9uD	Tracking Rockets with GNSS-SDR  https://www.gnuradio.org/blog/tracking-rockets-gnss-sdr/ #GNURadio #SDR cc @ gnuradio 
+20170504	WirelessSecurity	https://github.com/HackingThings/Publications	Just finished uploading all past publications, including code and demo videos. now available at 
+20170505	Windows	https://technet.microsoft.com/en-us/itpro/windows/keep-secure/overview-of-threat-mitigations-in-windows-10	Awesome new Windows 10 exploit mitigation documentation and configuration guidance/tooling! 
+20170506	Vulnerability	https://twitter.com/_embedi_/status/860541834606632961	Technical details of CVE-2017-5689 #Intel #AMT 
+20170507	Tools	https://t.co/LTLdsmUkwE	hidviz : Tool for in-depth analysis of USB HID devices communication : https://github.com/ondrejbudai/hidviz/ 
+20170508	Tools	https://github.com/rancher/os	rancher OS : Tiny Linux distro that runs the entire OS as Docker containers : 
+20170509	Windows	https://t.co/yIFegxJX60	Slides from my @ BSidesCharm talk posted on #ActiveDirectory threat hunting: https://adsecurity.org/?p=3621Video & Slides:... 
+20170510	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1248	MsMpEng: UIF decoder will spin forever processing sparse blocks 
+20170511	Tools	https://github.com/olacabs/jackhammer	JACKHAMMER - Security vulnerability assessment tool 
+20170512	Windows	https://pentestlab.blog/2017/05/11/applocker-bypass-regsvr32/	AppLocker Bypass - Script Rules 
+20170513	Web	https://t.co/qonErsWFMM	The slides for our (@kkotowicz, @sirdarckcat and my) talk about breaking XSS mitigations from @AppSecEU: 
+20170514	Tools	https://github.com/debasishm89/OpenXMolar/blob/master/README.md	OpenXMolar is a Microsoft Open XML file format fuzzing framework, written in Python
+20170515	Web	https://medium.com/p/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f	I just published “How to bypass libinjection in many WAF/NGWAF” 
+20170516	Windows	https://www.helpnetsecurity.com/2017/05/15/stealing-windows-credentials-using-google-chrome/	Stealing Windows credentials using Google Chrome 
+20170517	Windows	https://gist.github.com/tyranid/254fc320411132c8e9bd71e178c9d429	For those that wanted it, here's a JScript version of the UAC bypass. 
+20170518	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1107	Windows: COM Aggregate Marshaler/IRemUnknown2 Type Confusion EoP 
+20170519	Windows	http://subt0x10.blogspot.com/2017/05/subvert-clr-process-listing-with-net.htmlBasic	Subvert CLR Process Listing With .NET Profilers
+20170520	Windows	https://t.co/EFUouGyzK4	Common weaknesses in your Windows network: Relaying credentials everywhere with ntlmrelayx http://fox-it.com/en/insights/blogs/blog/inside-windows-network 
+20170521	Windows	http://mattwarren.org/2017/05/19/Adding-a-new-Bytecode-Instruction-to-the-CLR/	Adding a new Bytecode Instruction to the CLR : 
+20170522	Popular	https://bugs.chromium.org/p/project-zero/issues/detail?id=1142	VMWare Workstation on Linux: unprivileged host user -> host root privesc via ALSA config 
+20170523	WirelessSecurity	https://github.com/brandonasuncion/Reverse-Engineering-Bluetooth-Protocols	Reverse-Engineering-Bluetooth-Protocols (Reverse-Engineering a Bluetooth-Enabled Radar Detector) : 
+20170524	Windows	https://bluescreenofjeff.com/2017-05-23-how-to-pass-the-ticket-through-ssh-tunnels/	How To Pass the Ticket Through SSH Tunnels 
+20170525	Windows	https://www.slideshare.net/ChristophNeumller/large-scale-crash-dump-analysis-with-superdump	Slides of my talk "Large Scale Crash Dump Analysis with #SuperDump". #debugging #opensource
+20170526	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1260	MsMpEng: Multiple problems handling ntdll!NtControlChannel commands 
+20170527	Windows	https://tyranidslair.blogspot.co.uk/2017/05/reading-your-way-around-uac-part-3.html	So the final part 3 of my UAC journey has been posted. How to exploit the UAC issue on Windows 10. 
+20170528	Tools	https://github.com/p3nt4/PowerShdllPowerShdll	 
+20170529	Windows	https://gist.github.com/worawit/05105fce9e126ac9c85325f0b05d6501	Here is my kernel shellcode for my eternalblue exploit 
+20170530	Virtualization	https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/	Hack the Virtual Memory: malloc, the heap & the program break  
+20170531	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1258	Windows MsMpEng remotely exploitable UaF due to design issue in GC engine (CVE-2017-8540) 
+20170601	WirelessSecurity	https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/	基于 Proxmark 3 的 RFID Hacking:   
+20170602	WirelessSecurity	http://www.kitploit.com/2017/06/probesniffer-tool-for-sniffing.html	probesniffer - 无线设备未加密探测请求 Sniffer:   
+20170603	WirelessSecurity	http://payatu.com/passive-gsm-sniffing-software-defined-radio/	基于 SDR 实现的被动 GSM 嗅探:   
+20170604	Web	http://blog.ptsecurity.com/2017/06/waf-bypass-at-phdays-vii-results-and.html	WAF Bypass at PHDays VII: Results and Answers:   
+20170605	WirelessSecurity	https://seaglass.cs.washington.edu/	华盛顿大学检测 IMSI-catcher (伪基站)的一个研究项目- SeaGlass:   
+20170606	Windows	https://t.co/ETulciJIc7	windows-syscall-table - 从 WinXp sp0 到 Win10 rs2 1703  的 Windows 内核系统调用表收集:   
+20170607	WirelessSecurity	https://t.co/I84JnomQmb	使用 HackRF 分析无线电信号:    
+20170608	Windows	https://t.co/f4XCvJcPyl	Windows 10 中管理语言设置的 Fodhelper 进程具有 High IL 权限,有研究员发现可以用它 Bypass UAC:    
+20170609	Windows	https://blogs.windows.com/windowsexperience/2017/06/08/announcing-windows-10-insider-preview-build-16215-pc-build-15222-mobile/#vlkybj7LbftMtrWP.97	Windows 10 Insider Preview Build 16215 版本的一些变化:   
+20170610	Windows	https://twitter.com/epakskape/status/873042557705478145	最新的 Windows 10 build 16215 版本中,大部分 svchost.exe 实例都已经开启了 ACG(Arbitrary Code Guard)的保护:   
+20170611	Tools	https://t.co/VRP1RlEQVQ	Seth - RDP 连接中间人攻击工具:   
+20170612	Windows	https://github.com/FuzzySecurity/PSKernel-Primitives/tree/master/Ntoskrnl-ROP-Dumps	Windows 内核各个 x64 版本 ntoskrnl 中搜索到的 ROP Gadgets:   
+20170613	Windows	https://t.co/XZ9BX5GjhX	修改文件后缀以绕过 AppLocker 对命令执行的限制:   
+20170614	Windows	https://pentestlab.blog/2017/06/13/applocker-bypass-ieexec/	利用 IEExec 实现 AppLocker Bypass:   
+20170615	Windows	https://osandamalith.com/2017/06/14/windows-kernel-exploitation-arbitrary-overwrite/	HackSysExtreme 驱动任意地址写漏洞的利用:   
+20170616	Windows	https://attack.mitre.org/wiki/Main_Page	Mitre 整理的 133 种攻防技术,包括 UAC Bypass/Root 证书安装/AppInit DLLs/ 等等,涵盖多个方向,非常全面:    
+20170617	Windows	https://blogs.technet.microsoft.com/mmpc/2017/06/16/analysis-of-the-shadow-brokers-release-and-mitigation-with-windows-10-virtualization-based-security/?platform=hootsuite	微软安全团队的一篇 Blog,分析了 Shadow Brokers 的 ETERNALROMANCE 和 ETERNALBLUE 两个 SMB Exploit 所用的技术,并且介绍了 Windows 10 是如何利用 Device Guard 和 kCFG 来防御的:   
+20170618	Tools	https://github.com/SigPloiter/SigPloit	SigPloit - 移动电信网络中针对 SS7, GTP, Diameter & SIP 协议的安全测试框架:  
+20170619	Windows	https://blogs.microsoft.co.il/pavely/2017/06/17/enumerating-job-objects/	Enumerating Job Objects (枚举 Windows Job 对象):   
+20170620	Windows	https://0patch.blogspot.com/2017/06/a-quick-analysis-of-microsofts.html	Windows 远程桌面 ESTEEMAUDIT CVE-2017-9073 漏洞补丁的简要分析:   
+20170621	Windows	https://blogs.msdn.microsoft.com/openspecification/2017/05/26/smb-2-and-smb-3-security-in-windows-10-the-anatomy-of-signing-and-cryptographic-keys/	SMB 2 和 SMB 3 协议中内置的签名和加密特性剖析:   
+20170622	Windows	https://support.office.com/en-us/article/Block-suspicious-macros-in-Office-on-Windows-10-S-60785abc-d8b8-4b80-8f5d-67ddbee213e9	Windows 10 S 默认阻止网络下载文档中的宏代码运行:   
+20170623	Windows	https://modexp.wordpress.com/2017/06/21/shellcode-getprocaddress/	Shellcode: The hunt for GetProcAddress:   
+20170624	Windows	https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=label%3AFinder-mjurczyk+Vendor%3AMicrosoft+id%3E1000&sort=-modified&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary+Modified&cells=ids	Project Zero 最近公开了很多 mjurczyk 发现的 Windows 内核的漏洞:   
+20170625	Windows	http://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/profile/bugdemo.htm	Bug Check From User Mode By Profiling:   
+20170626	Windows	https://drive.google.com/file/d/0B3P18M-shbwrM1E2V24tTVFUU3M/view	NTFS 相关的取证分析、恶意软件与漏洞介绍:   
+20170627	Windows	https://drive.google.com/file/d/0B3P18M-shbwrM1E2V24tTVFUU3M/view	NTFS 文件格式的取证、恶意滥用与漏洞分析:   
+20170628	Windows	https://blogs.technet.microsoft.com/mmpc/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/	Windows 10 Fall Creators 版本中的 Windows Defender ATP 有哪些变化:   
+20170629	Windows	https://eyeofrablog.wordpress.com/2017/06/27/windows-keylogger-part-2-defense-against-user-land/	Windows Keylogger Part 2: Defense against user-land:   
+20170630	Windows	https://blogs.technet.microsoft.com/srd/2017/06/29/eternal-champion-exploit-analysis/	微软对 Shadow Brokers 泄露的 SMB v1 Eternal Champion Exploit 的分析,利用的是 SMB v1 在处理 Transactions 是的一个条件竞争漏洞:   
+20170701	Windows	http://alex-ionescu.com/publications/euskalhack/euskalhack2017-cfg.pdf	利用 Mutable Read Only Data(MRDATA) Bypass CFG,来自 Alex Ionescu 在 EuskalHack 2017 会议的演讲:   
+20170702	Windows	https://zerosum0x0.blogspot.com/2017/07/threadcontinue-reflective-injection.html	基于 SetThreadContext() 和 NtContinue() 实现反射式 DLL 注入:   
+20170703	Windows	https://blogs.msdn.microsoft.com/windbg/2017/06/29/debugger-updates-in-the-16225-sdk-preview/	Windows 16225 版本 SDK 中调试器部分有更新,内置了对脚本的调试功能:   https://blogs.msdn.microsoft.com/windbg/2017/06/30/script-debugging-walkthrough/  
+20170704	WirelessSecurity	http://payatu.com/reversing-exploiting-ble-4-0-communication/	蓝牙 BLE 4.0 通讯过程的逆向和攻击:   
+20170705	Tools	https://github.com/evilsocket/dnssearch	dnssearch -子域名收集工具:   
+20170706	Vulnerability	http://rhn.redhat.com/errata/RHSA-2017-1681.html	qemu-kvm 昨天修复了一个空指针解引用漏洞(CVE-2017-9524):   
+20170707	Windows	http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-7/	Windows 7 上内核内存池溢出漏洞的漏洞利用开发实例:   
+20170708	Windows	https://github.com/sam-b/windows_kernel_address_leaks	windows_kernel_address_leaks - 从用户态泄露 Windows 内核地址的方法汇总:   
+20170709	Tools	https://github.com/comaeio/SwishDbgExt	SwishDbgExt - WinDbg 的事件响应和数字取证调试扩展:   
+20170710	Vulnerability	https://www.aimlab.org/haochen/papers/npc16-overflow.pdf	GPU 中的溢出漏洞研究 Paper:   
+20170711	Windows	http://www.exploit-monday.com/2017/07/bypassing-device-guard-with-dotnet-methods.html	利用 .NET 字节码编译技术 Bypass Device Guard:   
+20170712	Windows	https://threatpost.com/microsoft-addresses-ntlm-bugs-that-facilitate-credential-relay-attacks/126752/	微软本月修复了一个 NTLM 凭据 Relay 攻击的漏洞:   
+20170713	Web	https://medium.com/@d0znpp/top-5-stupid-security-mistakes-in-web-apps-2f26f52ebfaa	Web 应用中最常出现的 5 个安全问题:   
+20170714	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1224	Windows: Bad Fix for COM Session Moniker EoP(CVE-2017-0298):   
+20170715	WirelessSecurity	http://boosterok.com/blog/broadpwn2/	Broadpwn - Broadcom Wi-Fi 芯片中的堆溢出漏洞,实现芯片中的代码执行(CVE-2017-9417): 1):   http://boosterok.com/blog/broadpwn/  2):   
+20170716	Windows	https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/UAC-TokenMagic.ps1	基于 James Forshaw 的 Blog,PowerShell-Suite 套件中的一个 UAC Bypass PoC:   
+20170717	WirelessSecurity	https://nickwhyte.com/post/2017/reversing-433mhz-raex-motorised-rf-blinds/	Reverse Engineering a 433MHz Motorised Blind RF Protocol:   
+20170718	Windows	http://justhaifei1.blogspot.com/2017/07/bypassing-microsofts-cve-2017-0199-patch.html	"Bypassing" Microsoft's Patch for CVE-2017-0199,来自 Haifei Li。CVE-2017-0199 漏洞位于 HTA Scriptlet File Handler 中,之前被用于野外的鱼叉式钓鱼攻击中:   
+20170719	Windows	http://mp.weixin.qq.com/s/X2JcKCpCH4exDoxMK5oN5Q	CVE-2017-8543 Windows Search漏洞分析及POC关键部分,来自 ADLab:   
+20170720	Windows	https://github.com/brandis-project/brandis	Brandis - Web 版的端到端加密应用:   
+20170721	Windows	https://blogs.technet.microsoft.com/srd/2017/07/20/englishmansdentist-exploit-analysis/	针对 Exchange 2003 邮件服务器的 EnglishmansDentist 漏洞利用分析:   
+20170722	Windows	http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html	因为兼容性,InitializeProcessForWsWatch 和 GetWsChanges/GetWsChangeEx API 存在 5 年的 Bug:   
+20170723	Windows	http://blog.deniable.org/blog/2017/07/16/inject-all-the-things/	多种 DLL 注入技术原理介绍:   
+20170724	Windows	https://haveyousecured.blogspot.ca/2017/07/visualize-windows-logs-with-neo4j.html	基于 Neo4j 的 Windows 日志可视化分析:   
+20170725	WirelessSecurity	https://github.com/brannondorsey/wifi-cracking	wifi-cracking - 使用 Airodump-ng 和 Aircrack-ng/Hashcat 破解 WPA/WPA2 Wi-Fi 路由的学习教程:   
+20170726	Tools	https://packages.debian.org/sid/fastnetmon	FastNetMon - Debian 官方推出的一个 DDoS 检测工具,基于三个抓包引擎:NetFlow、 IPFIX、 sFLOW,可以通过外部脚本通知用户:   
+20170727	WirelessSecurity	https://blog.exodusintel.com/2017/07/26/broadpwn/	BROADPWN - 利用 BROADCOM WiFi 芯片的漏洞远程攻破 Android 和 iOS 设备,来自 ExodusIntel:   
+20170728	Web	https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf	构造畸形 HTTP Request 和 Headers 攻击 Web 服务中那些看不见的系统,并以此获得美国 DoD 的 3 万 Bounty 奖励:   
+20170729	Tools	http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/	DefPloreX - 用于大规模电子犯罪取证的机器学习工具包:   
+20170730	Windows	https://github.com/sensepost/gdi-palettes-exp/raw/master/5A1F_Defcon_25_Demystifying_Kernel_Exploitation_By_Abusing_GDI_Objects_white_paper.pdf	滥用 GDI Palette 对象实现 MS17-017 提权漏洞的利用,来自 DEFCON 会议的演讲:   https://sensepost.com/blog/2017/abusing-gdi-objects-for-ring0-primitives-revolution/ Github: 
+20170731	WirelessSecurity	https://zxsecurity.co.nz/presentations/201707_Defcon-ZXSecurity-GPSSpoofing.pdf	利用 GPS 欺骗的方式控制时间(NTP),来自 DEFCON 会议的演讲:   
+20170802	Windows	http://ivanlef0u.fr/cve-2017-8464.txt	Windows 快捷方式 (.LNK) 代码执行漏洞(CVE-2017-8464)的野外利用代码分析:   
+20170803	Windows	http://tyranidslair.blogspot.com/2017/08/copy-of-device-guard-on-windows-10-s.html	James Forshaw 对 Windows 10 S Device Guard 的分析(三),运行比较复杂的 .NET 程序:   
+20170804	Windows	https://enigma0x3.net/2017/08/03/wsh-injection-a-case-study/	通过向 Windows Scripting Host (WSH) 已签名脚本中注入代码,绕过 Windows 对 WSH 文件签名才能执行的保护:  
+20170805	Windows	https://smbloris.com/	SMBLoris - 前两周推送过一个"DefCON 上将会公布一个 Windows SMB 内存耗尽拒绝服务 0Day",现在研究员专门为这个漏洞申请了一个网站:   
+20170806	Windows	https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/	Windows 处理图标显示的代码存在 Bug,攻击者可以伪装成其他 PE 文件,骗取用户点击:   
+20170807	Tools	https://github.com/rapid7/hackazon	Hackazon - Rapid7 开源的 Web 漏洞练习框架,类似 Hacksys 的 HEVD:   
+20170808	Windows	http://www.labofapenetrationtester.com/2017/08/week-of-evading-microsoft-ata-day1.html	微软的 ATA 威胁检测解决方案甚至会检测 Active Directory 相关的攻击工具和技术,作者 Nikhil SamratAshok Mittal 前两周在 BlackHat 分享他如何 Bypass ATA 的技巧,今天他写了一篇 Blog 详细介绍他研究的过程:   
+20170809	Windows	http://blog.talosintelligence.com/2017/08/ms-tuesday.html	ZDI 对本月 Microsoft 漏洞公告的梳理:   https://www.zerodayinitiative.com/blog/2017/8/8/the-august-2017-security-update-review Talos 对本月 Microsoft 漏洞公告的整理:   
+20170810	Windows	http://blog.trendmicro.com/trendlabs-security-intelligence/critical-windows-search-hyper-v-vulnerabilities-tackled-augusts-patch-tuesday/	微软昨天修复的漏洞中,有两个很重要:一个是  Windows Search 组件的 RCE 漏洞,另一个是 Hyper-V 的 RCE:   
+20170811	Windows	https://www.blackhat.com/docs/us-17/wednesday/us-17-Bulygin-Fractured-Backbone-Breaking-Modern-OS-Defenses-With-Firmware-Attacks.pdf	Fractured Backbone(断裂的脊椎骨) - 从攻击固件的角度打破现代操作系统的防御体系,BlackHat 新公开的一篇议题资料,介绍 Windows 10 基于固件的防御体系的攻击技术与缓解技术:   
+20170812	Vulnerability	https://www.nccgroup.trust/uk/our-research/technical-advisory-remote-shell-commands-execution-in-ttyd/?research=Technical	ttyd 远程命令执行漏洞详情及POC:   
+20170813	MalwareAnalysis	http://www.openanalysis.net/training/Malware_Triage_Workshop-Malscripts_Are_The_New_EK.pdf	Malware Triage Workshop - 关于恶意代码分析的一份 Paper:   
+20170814	Vulnerability	https://www.exploit-db.com/exploits/42449/	RealTime RWR-3G-100 Router CSRF 漏洞 POC:   
+20170815	Windows	https://msitpros.com/?p=3909	利用 CHM 文件 Bypass Device Guard UMCI(CVE-2017-8625):  
+20170816	Windows	https://www.slideshare.net/harmj0y/ace-up-the-sleeve	Ace Up the Sleeve - 设计一个 Active Directory DACL 后门:   
+20170817	Tools	https://github.com/GoogleChrome/puppeteer	Puppeteer - 基于 DevTools 协议,用于自动化控制 Chrome 浏览器的 Node 库,可用来实现网络爬虫、网页截图、UI 测试等等:  
+20170818	Web	https://www.slideshare.net/SoroushDalili/a-forgotten-http-invisibility-cloak	被遗忘的 HTTP 隐形斗篷 - 很多被忽视的 HTTP 特性与请求构造技巧:   https://www.slideshare.net/SoroushDalili/a-forgotten-
+20170819	Tools	https://github.com/scipag/vulscan	vulscan - Nmap 的漏洞探测脚本,根据版本信息判断是否存在漏洞:   
+20170820	Windows	https://tyranidslair.blogspot.com/2017/08/the-art-of-becoming-trustedinstaller.html	The Art of Becoming TrustedInstaller,TrustedInstaller 用户组到底存在不存在,以及如何获得 TrustedInstaller 的身份,来自  James Forshaw Blog:   
+20170821	WirelessSecurity	https://www.toshellandback.com/2017/08/16/mousejack/	劫持无线鼠标并攻击目标计算机:   
+20170822	Windows	https://gist.github.com/mattifestation/03079a38f23e0c94c8cd39779f88adf6	基于 WMI 实现的读文件 PowerShell 代码片段:   
+20170823	Vulnerability	https://blogs.securiteam.com/index.php/archives/3387	ScrumWorks Pro 远程代码执行漏洞详情及 Poc:   
+20170824	WirelessSecurity	http://www.verizoninternet.com/bookmark/how-wifi-works/	用动画特效演示 WiFi 的工作原理:   
+20170825	Tools	https://github.com/DamonMohammadbagher/NativePayload_DNS	NativePayload_DNS - 通过 DNS 流量传输后门载荷以绕过反病毒软件的 C# 代码示例:   
+20170826	Windows	https://tyranidslair.blogspot.com/2017/08/accidental-directory-stream.html	Accidental Directory Stream - Windows 在处理文件路径时有趣但不必要的一个特性,来自 James Forshaw:  
+20170827	MalwareAnalysis	https://www.imperva.com/blog/2017/08/ronggolawe-ransomware-how-to-block-it/	对 Ronggolawe 勒索软件的分析与防御:  
+20170828	Vulnerability	https://github.com/embedi/amt_auth_bypass_poc	Intel AMT 认证绕过漏洞的 PoC(CVE-2017-5689):   
+20170829	Tools	https://github.com/EmpireProject/Empire/blob/master/changelog	后渗透阶段攻击框架 Empire 更新 2.1 版本:   
+20170830	Windows	http://www.exploit-monday.com/2017/08/exploiting-powershell-code-injection.html	攻击 PowerShell 的代码注入漏洞,绕过它的语言约束模式:   
+20170831	Web	https://0day.work/jinja2-template-injection-filter-bypasses/	Jinja2 模版注入过滤器绕过:   
+20170901	Vulnerability	https://www.nomotion.net/blog/sharknatto/	AT&T 给客户的 Arris 家用 Modem/路由器被发现了多个漏洞,其中一个是 Modem 中 ROOT 权限运行的 cshell 服务允许 SSH 连接,而且是通过硬编码的密钥。分析报告来自 Nomotion 公司,Nomotion 表示不清楚这些固件漏洞是来自 Arris 官方还是来自 ATT 的定制:   https://threatpost.com/bugs-in-arris-modems-distributed-by-att-vulnerable-to-trivial-attacks/127753/  
+20170902	Windows	http://redplait.blogspot.com/2017/09/etw-private-loggers.html	如何 Dump Private ETW Loggers:   
+20170903	Windows	https://blogs.technet.microsoft.com/positivesecurity/2017/09/01/setting-up-kali-linux-in-docker-on-windows-10/	在 Win10 的 Docker 环境中安装 Kali Linux:   
+20170904	Windows	https://www.fireeye.com/blog/threat-research/2017/08/monitoring-windows-console-activity-part-two.html	监视 Windows 终端活动 Part2:   
+20170905	Windows	https://blogs.microsoft.co.il/pavely/2017/09/05/dll-injection-with-setthreadcontext/	基于 SetThreadContext 的 DLL 注入:   
+20170906	Windows	https://breakingmalware.com/documentation/windows-pssetloadimagenotifyroutine-callbacks-good-bad-unclear-part-1/	Windows PsSetLoadImageNotifyRoutine Callback 的优点、缺点和你不知道的事儿:   
+20170907	Windows	https://posts.specterops.io/hunting-with-active-directory-replication-metadata-1dab2f681b19	从防御的角度看 AD 环境基于 ACL 的攻击 - Hunting With Active Directory Replication Metadata:   
+20170908	WirelessSecurity	https://github.com/GDSSecurity/Whitepapers/blob/master/GDS%20Labs%20-%20The%20Black%20Art%20of%20Wireless%20Post%20Exploitation%20-%20Bypassing%20Port%20Based%20Access%20Controls%20Using%20Indirect%20Wireless%20Pivots.pdf	无线后渗透的艺术:利用间接无线转发绕过基于端口的访问控制策略 :   
+20170909	Windows	https://www.redcanary.com/blog/using-alternate-data-streams-bypass-user-account-controls/	利用 ADS(Alternate Data Streams)Bypass UAC:   
+20170910	Web	https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/rare-asp.net-request-validation-bypass-using-request-encoding/	利用 request encoding 的方法 Bypass ASP.NET 的请求验证保护,成功利用可以实现存储型 XSS:  
+20170911	Windows	https://glennmcgui.re/introduction-to-windows-kernel-driver-exploitation-pt-2/	Windows 内核驱动漏洞利用(Part 2):tack Buffer Overflow to System Shell:    
+20170912	Windows	https://breakingmalware.com/documentation/windows-pssetloadimagenotifyroutine-callbacks-good-bad-unclear-part-2/	上周推送过《Windows PsSetLoadImageNotifyRoutine Callback 的优点、缺点和你不知道的事儿》,其中提到 PsSetLoadImageNotifyRoutine 的 Bug 可以导致很多杀软获取模块加载文件名不正确,检测失效。作者昨天继续写了 Part 2:  
+20170913	WirelessSecurity	https://threatpost.com/wireless-blueborne-attacks-target-billions-of-bluetooth-devices/127921/	BlueBorne - Armis Labs 公开的一个新攻击面,通过蓝牙攻击 PC、手机(Android/iOS)、IoT 等几乎所有的设备。攻击也不需要蓝牙配对:  https://www.armis.com/blueborne/ 
+20170914	Web	https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions	利用 PHP Sessions 文件将 LFI 漏洞升级为 RCE:   
+20170915	Windows	https://research.checkpoint.com/beware-bashware-new-method-malware-bypass-security-solutions/	Bashware - Bypass 杀毒软件的新方法。这种方法利用 Windows 10 新支持的 WSL(Linux 子系统)特性可以 Bypass 现有杀软的检测防护体系,来自 CheckPoint 的 Blog:   
+20170916	Windows	http://seclists.org/fulldisclosure/2017/Sep/33?utm_source=feedburner&;utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29	CVE-2017-8759 - Microsoft .NET Framework RCE 漏洞利用工具包+视频教程:   
+20170917	Linux	http://events.linuxfoundation.org/sites/events/files/slides/LSS%20-%20Treble%20%27n%27%20SELinux.pdf	SELinux in Android Oreo or:How I Learned to Stop Worrying and Love Attributes:   
+20170918	Tools	https://github.com/cldrn/macphish	macphish - 生成 Office for Mac 宏 Payload 的工具:   
+20170919	Windows	http://www.triplefault.io/2017/09/enumerating-process-thread-and-image.html	Windows 系统中进程、线程的枚举以及 Image 加载通知的回调:  
+20170920	Vulnerability	https://www.nccgroup.trust/us/our-research/technical-advisory-authentication-rule-bypass/?research=Technical+advisories	play-pac4j 库认证规则绕过漏洞:   
+20170921	Windows	https://blog.ret2.io/2017/09/20/subsystem-posix/	RET2 SYSTEM Blog 对 PE 文件 /SUBSYSTEM:POSIX 编译选项的介绍:   
+20170922	Vulnerability	http://blog.trendmicro.com/trendlabs-security-intelligence/apache-struts-vulnerabilities-run-rampant/	趋势科技对最近的 Struts 漏洞的统计及修补建议:   
+20170923	Malware	https://t.co/FQR6Aqnr0Q	Locky 的新变种“ykcol”,来自 Fortinet Blog:   
+20170924	Windows	https://www.slideshare.net/AndyRobbins3/here-be-dragons-the-unexplored-land-of-active-directory-acls	来自 DerbyCon 会议的演讲《Here Be Dragons: The Unexplored Land of Active Directory ACLs》:   
+20170925	WirelessSecurity	http://www.hackingtutorials.org/wifi-hacking-tutorials/bypass-mac-filtering-on-wireless-networks/	利用 KaLi Linux 的 MACChanger 工具 Bypass MAC Filtering:   
+20170926	WirelessSecurity	https://www.owasp.org/images/6/6f/OWASP2017_HackingBLEApplications_TalMelamed.pdf	BLE 应用攻击手法一览(PDF):    
+20170927	Windows	https://github.com/akayn/demos	研究员 akayn 整理的 HEVD Windows 内核驱动漏洞利用方面的资料和代码:   
+20170928	WirelessSecurity	https://bugs.chromium.org/p/project-zero/issues/detail?id=1294	Broadcom: Denial of service and OOB read in TCP KeepAlive Offloading(CVE-2017-7066):  
+20170929	WirelessSecurity	https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html	Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices。昨天推送的 iPhone 7 博通 Wi-Fi 固件 RCE 漏洞,Project Zero 专门写了一篇 Blog:  
+20170930	Popular	https://www.bleepingcomputer.com/news/security/hacker-hides-backdoor-inside-fake-wordpress-security-plugin/	黑客将后门隐藏在虚假的 WordPress 安全插件中:   
+20171001	WirelessSecurity	https://salmg.net/2017/09/29/nfc-contactless-cards-brute-forcing-processing-options/	NFC 支付方式与非接触式卡介绍:   https://salmg.net/2017/09/12/intro-to-analyze-nfc-contactless-cards/     
+20171002	Windows	https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2017/ncc-group-whitepaper-managing-powershell-in-a-corporate-environment.pdf	现代企业环境中的 Powershell 管理:   
+20171003	Windows	https://labs.bluefrostsecurity.de/files/Abusing_GDI_for_ring0_exploit_primitives_Evolution_Slides.pdf	滥用 GDI 实现 RING0 层内核漏洞利用攻击,来自 BlueFrostSecurity:   
+20171004	SecurityReport	https://security.googleblog.com/2017/10/behind-masq-yet-more-dns-and-dhcp.html	Google 团队对 DNS、DHCP 服务器软件 Dnsmasq 的安全审计报告:   
+20171008	Windows	https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html	“wild” Pool-based overflow in the kernel on Windows 10 x64 (RS2) - 2016 年修复的一个漏洞(CVE-2016-3309)在 Windows 10 Creators 版本中"复活"了:  
+20171009	WirelessSecurity	https://zone13.io/post/wifi-monitoring-using-raspberry-pi/	利用树莓派在 Windows 上实现对 WiFi 数据包的嗅探:   
+20171010	Tools	https://github.com/Neo23x0/munin	munin - 通过 Hash 从在线病毒扫描网站中提取有用信息的工具:  
+20171011	Windows	https://hackinparis.com/data/slides/2017/2017_Cohen_Gil_The_forgotten_interface_Windows_named_pipes.pdf	The forgotten interface: Windows named pipes:   
+20171012	WirelessSecurity	https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html	Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices。这是 Project Zero 关于博通 Wi-Fi 固件 RCE 漏洞利用文章的第三篇。第一篇介绍 Wi-Fi stack 本身的技术背景和相关的研究工具。第二篇介绍 Wi-Fi 固件漏洞的挖掘和基于漏洞实现固件芯片内的代码执行。本篇文章中将研究如何实现基于 Wi-Fi 漏洞实现 iPhone 7 内核层的 RCE:  http://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html  http://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html  
+20171013	Vulnerability	https://sensepost.com/blog/2017/outlook-home-page-another-ruler-vector/	之前 SensePost 开源了一个滥用 Exchange 服务的渗透工具 - Ruler,最近微软把 Ruler 所用的攻击向量当作漏洞给补了。于是 SensePost 又找到了一个攻击面:   
+20171014	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1328	Windows: WLDP/MSHTML CLSID UMCI Bypass(CVE-2017-11823):   
+20171015	Tools	https://github.com/junegunn/fzf	fzf - UNIX 命令行版本的模糊命令、文件、进程搜索工具:   
+20171016	WirelessSecurity	https://lirias.kuleuven.be/bitstream/123456789/547640/1/usenix2016-wifi.pdf	WiFi WPA2/802.11 Group Keys 的预测、解密和滥用:   
+20171017	WirelessSecurity	https://papers.mathyvanhoef.com/ccs2017.pdf	Wi-Fi WPA2 协议被曝安全漏洞。Clients 加入 WPA2 网络的 Four-way 握手过程中攻击者可以发起 Key Reinstallation 攻击,成功之后可以实现数据包被解密、数据包重放、TCP 链路劫持等:  https://threatpost.com/krack-attack-devastates-wi-fi-security/128461/  https://www.krackattacks.com/  
+20171018	Windows	https://www.osr.com/blog/2017/10/17/wdk-1709-aka-16299-aka-rs3-released/	Windows WDK 1709 (16299/RS3) 也发布了:   
+20171019	Virtualization	https://bugs.chromium.org/p/project-zero/issues/detail?id=1359	Xen: unbounded recursion in pagetable de-typing(XSA-240):   
+20171020	Windows	https://posts.specterops.io/umci-bypass-using-psworkflowutility-cve-2017-0215-71c76c1588f9	UMCI Bypass Using PSWorkFlowUtility(CVE-2017–0215):   
+20171021	Vulnerability	https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/	索尼 PS4 namedobj 类型混淆漏洞的 Exploit:《The First PS4 Kernel Exploit: Adieu》,来自 fail0verflow:   
+20171022	Vulnerability	http://seclists.org/oss-sec/2017/q4/119	CVE-2017-15670, CVE-2017-15671 glibc 的 glob 函数存在堆溢出与内存泄漏漏洞:   
+20171023	Vulnerability	https://nickbloor.co.uk/2017/10/22/analysis-of-cve-2017-12628/	Apache James 3.0.1 JMX Server 反序列化漏洞的分析(CVE-2017-12628):   
+20171024	Windows	https://blogs.technet.microsoft.com/mmpc/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/	微软更新了一篇介绍 Windows Defender Exploit Guard 的文章《Windows Defender Exploit Guard: Reduce the attack surface against next-generation malware》:   
+20171025	Windows	http://www.sysadminjd.com/adv170014-ntlm-sso-exploitation-guide/	利用共享文件夹中的 SCF 文件偷 NTLM 认证 Hash,这是微软 10 月份补丁的一个可选更新(ADV170014)。条件是被攻击用户创建了一个无密码的共享文件夹:   
+20171026	Tools	https://github.com/milesrichardson/docker-onion-nmap	docker-onion-nmap - 集成 Tor / proxychains / dnsmasq / nmap 等工具对 .onion 隐藏服务进行扫描的 Docker 容器:   
+20171027	Windows	https://blog.conscioushacker.io/index.php/2017/10/25/evading-microsofts-autoruns/	绕过 Microsoft Autoruns  启动项检测的技巧:   
+20171028	WirelessSecurity	https://smartlockpicking.com/tutorial/how-to-pick-a-ble-smart-lock-and-cause-cancer/	使用手机攻击蓝牙智能锁设备:   
+20171029	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1391	Windows 10 Creators Update 32-bit execution of ring-0 code from NULL page via NtQuerySystemInformation,来自 Project Zero:   
+20171030	Web	https://dl.packetstormsecurity.net/papers/attack/Using_XSS_to_bypass_CSRF_protection.pdf	使用 XSS 绕过 CSRF 防御:   
+20171031	Tools	https://github.com/fireeye/gocrack	FireEye 开源了一个密码破解管理平台:1)  https://www.fireeye.com/blog/threat-research/2017/10/gocrack-managed-password-cracking-tool.html  2)  
+20171101	Vulnerability	http://blog.talosintelligence.com/2017/10/vulnerability-spotlight-circle.html	Circle with Disney 家长控制系统在最近披露了 23 个漏洞:   https://threatpost.com/popular-circle-with-disney-parental-control-system-riddled-with-23-vulnerabilities/128711/   Cisco Talos 团队披露了细节:   
+20171102	Tools	https://github.com/ustayready/CredSniper	CredSniper - 基于 Python 实现的网络钓鱼框架,支持抓取 2FA Tokens:   
+20171103	Windows	https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc	利用 Windows 10 RS3 新引入的 runscripthelper.exe Bypass 应用白名单:  
+20171104	Windows	https://0patch.blogspot.in/2017/11/	Windows Defender Exploit Guard 的新特性 Attack Surface Reduction (ASR) 可以阻断 Office 基于 DDE 的攻击。来自 0patch 团队的分析:   https://twitter.com/msftmmpc/status/925153373640278016  
+20171105	Popular	https://cxsecurity.com/issue/WLB-2017110030	Splunk 本地提权漏洞详情披露(KL-001-2017-022):   
+20171108	Windows	https://www.darkoperator.com/blog/2017/11/6/windows-defender-exploit-guard-asr-vbscriptjs-rule	Windows 10 最新版将 EMET 集成到 Windows Defender 后,有一个新特性叫做 ASR(Attack Surface Reduction),ASR 的其中一个规则是阻断 VBScript/JS 脚本执行下载的可执行代码。这篇 Blog 详细分析这个规则:   
+20171109	Windows	https://gist.github.com/hfiref0x/a044cb0ad425488e38556408b179cb61	利用 FwCplLua COM 接口和 mscfile 注册表键劫持的方法 Bypass UAC,来自 hfiref0x 分享的 PoC 代码:   
+20171110	Windows	https://hakril.net/slides/A_view_into_ALPC_RPC_pacsec_2017.pdf	了解 UAC 背后的 ALPC/RPC 机制,来自 PacSec 2017 会议:   
+20171111	WirelessSecurity	https://github.com/ArmisSecurity/blueborne	Armis 团队分享的 BlueBorne 蓝牙漏洞 Exploit PoC:   
+20171112	Vulnerability	https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/november/cisco-asa-series-part-eight-exploiting-the-cve-2016-1287-heap-overflow-over-ikev1/	思科ASA系列第8部分:IKEv1 上的 CVE-2016-1287 堆溢出利用:   
+20171113	Vulnerability	https://staaldraad.github.io/2017/11/12/polycom-hdx-rce/	Polycom HDX 远程视频会议设备的 RCE 漏洞分析:   
+20171114	Windows	https://artofpwn.com/spookflare.html	Windows 系统中的安全软件的 Bypass 策略。从特征检测、行为检测、信誉评估检测三个方向讨论对应的 Bypass 方法:  
+20171115	Windows	https://twitter.com/aionescu/status/930412525111296000	Windows 17035 版本启用了 ASLR/VA 隔离,类似 Linux KAISER:   
+20171116	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1335	Project Zero 公开了几个 Windows 内核组件的多个漏洞:   https://bugs.chromium.org/p/project-zero/issues/detail?id=1398  https://bugs.chromium.org/p/project-zero/issues/detail?id=1401  
+20171117	WirelessSecurity	https://github.com/ScottyBauer/Android_Kernel_CVE_POCs/tree/master/wifi	研究员 ScottyBauer 在其 GitHub Repo Android_Kernel_CVE_POCs 中新添加了几个远程 WiFi 漏洞的 PoC:   
+20171118	Web	https://medium.com/@know.0nix/bypassing-crossdomain-policy-and-hit-hundreds-of-top-alexa-sites-af1944f6bbf5	Bypass 跨域策略(Crossdomain),搞定了 100 多个 Top Alexa Sites:   
+20171119	Pentest	https://blog.conscioushacker.io/index.php/2017/11/17/application-whitelisting-bypass-mshta-exe/	应用白名单绕过:mshta.exe:   
+20171120	Vulnerability	https://threatpost.com/multiple-vulnerabilities-in-libxl-library-open-door-to-rce-attacks/128938/	读取 Excel 用的 LibXL 库存在多个漏洞可导致远程代码执行:   
+20171121	Windows	https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment	在 Windows 环境中追查凭证导出的痕迹,来自 2017 ZeroNights :   
+20171122	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1362	win32k!xxxSendMenuSelect 中存在 Windows 内核栈内存信息泄漏漏洞(CVE-2017-11853):   
+20171123	Windows	https://twitter.com/i/web/status/933218037020295170https://bytecode77.com/hacking/exploits	基于注册表 HKCU SYSTEMROOT 的 UAC Bypass 方法收集:   https://twitter.com/i/web/status/933218037020295170
+20171124	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1426	Windows 内核 win32kfull!GreUpdateSpriteInternal 栈内存信息泄露,来自 Project Zero:   
+20171125	Tools	https://github.com/segment-srl/htcap	htcap - Web 应用扫描器,可扫描 SPA:   
+20171126	Vulnerability	https://bugs.exim.org/show_bug.cgi?id=2199	Exim use-after-free vulnerability while reading mail header:   
+20171127	Tools	https://guacamole.apache.org/	Apache Guacamole - 一款开源的远程桌面网关,支持通过浏览器访问你远程的服务器:   
+20171128	Windows	https://blog.xpnsec.com/windows-warbird-privesc/	利用 Windows 内核 NtQuerySystemInformation Warbird Class 的漏洞实现内核漏洞的提取利用。漏洞由 Project Zero mjurczyk 发现,这篇 Blog 作者为 Secarma 团队的 Adam(XPN):  https://bugs.chromium.org/p/project-zero/issues/detail?id=1391&can=1&q=&sort=-id 
+20171129	Windows	https://rootkits.xyz/blog/2017/11/kernel-pool-overflow/	利用堆风水实现 Kernel Pool 越界写漏洞的利用:   
+20171130	Windows	https://www.peew.pw/blog/2017/11/26/exploring-cmdkey-an-edge-case-for-privilege-escalation	利用 Windows 系统内置的域用户密钥缓存工具 cmdkey 辅助渗透提权:    
+20171201	Windows	https://secrary.com/Random/InstrumentationCallback	通过 KPROCESS 结构的 InstrumentationCallback 域实现 Hook:   
+20171202	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1418	通过 UNC 路径 Bypass Windows Defender 的受控文件夹访问安全特性:   
+20171203	Tools	https://github.com/ucsb-seclab/difuze	difuze - Linux 内核驱动 Fuzz 工具:   
+20171204	Web	https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/	XXE OOB extracting via HTTP+FTP using single opened port :   https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-
+20171205	Windows	https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM	微软关于 Windows 特权访问防护的手册,其中介绍了不同的登陆类型(console、RUNAS、Remote Desktop、Net use * \SERVER 等等)及其限制:   
+20171206	Tools	https://www.mailsploit.com/index	Mailsploit - 邮箱客户端的漏洞利用工具套件,集成了 30 款主流邮箱客户端(Apple Mail、Thunderbird、Yahoo! Mail、ProtonMail 等)的漏洞:  
+20171207	Windows	http://www.ubersec.com/2017/12/03/monitoring-for-windows-event-logs-and-the-untold-story-of-proper-elk-integration/	Windows 事件日志监控与 ELK 日志分析平台部署实践:   
+20171208	WirelessSecurity	https://www.twosixlabs.com/bluesteal-popping-gatt-safes/#top	BlueSteal - 利用蓝牙漏洞远程解锁 Vaultek VT20i 枪柜(Gun Safes)(CVE-2017-17435、CVE-2017-17436):   
+20171209	Windows	https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/	Fox-IT 对 NSA 武器库 DanderSpritz 中的 Windows Event Log 删除工具 eventlogedit 的分析,文章中也提到了如何还原该工具删除的日志:  
+20171210	Windows	https://twitter.com/i/web/status/939215702073991168	无需 powershell.exe,仅用一个 .csv 实现远程 Shell:   
+20171211	Windows	https://0x00sec.org/t/packers-executable-compression-and-data-obfuscation/847	如何为 PE 可执行文件实现加壳和数据混淆:   
+20171212	Windows	https://blogs.bromium.com/browser-isolation-with-microsoft-windows-defender-application-guard/	浏览器的隔离与微软的 WDAG(基于虚拟化的硬件防护): What It Does, How It Works and What It Means:  
+20171213	Windows	https://github.com/gentilkiwi/mimikatz/wiki/howto-~-credential-manager-saved-credentials	Windows Credential Manager 是怎么保存密码的:   
+20171214	Windows	https://oddvar.moe/2017/12/13/harden-windows-with-applocker-based-on-case-study-part-1/	利用 AppLocker 加固 Windows:   
+20171215	Windows	https://github.com/api0cradle/UltimateAppLockerByPassList	Bypass AppLocker 的 30 种方法:   
+20171216	Windows	https://www.coresecurity.com/blog/making-something-out-zeros-alternative-primitive-windows-kernel-exploitation	GDI 不可用之后,利用 X64 内核分页机制中的 PTE Space 实现虚拟地址的稳定控制,进一步实现 NVIDIA DxgDdiEscape Handler 漏洞的利用,来自 CoreSecurity:   
+20171217	Windows	https://blogs.technet.microsoft.com/heyscriptingguy/2017/12/15/powershell-support-for-certificate-credentials/	PowerShell 通过 PSCredential 支持对证书密钥的管理(Certificate Credentials):   
+20171218	Tools	https://github.com/peewpw/Invoke-PSImage	Invoke-PSImage - 在 PNG 图片中藏一个 PowerShell  脚本:  
+20171219	Windows	https://googleprojectzero.blogspot.com/2017/12/apacolypse-now-exploiting-windows-10-in_18.html	结合 JScript.dll 的漏洞和 WPAD 代理发现协议,实现 Exploiting 局域网中的 Windows 10,来自 Project Zero:   
+20171220	Web	https://lab.wallarm.com/the-good-the-bad-and-the-ugly-of-safari-in-client-side-attacks-56d0cb61275a?nocache=122124543	Safari 客户端反射型 XSS 攻击:   
+20171221	Windows	https://blogs.windows.com/windowsexperience/2017/12/19/announcing-windows-10-insider-preview-build-17063-pc/	Windows 10 发布 Insider Preview Build 17063 版本:  
+20171222	Windows	https://oddvar.moe/2017/12/21/harden-windows-with-applocker-based-on-case-study-part-2/	Harden Windows with AppLocker part 2:   
+20171223	Web	https://www.trustedsec.com/2017/12/complex-intruder-attacks-burp/	使用 Burp Suite 完成复杂的 Intruder Attacks 操作:   
+20171224	Windows	https://twitter.com/i/web/status/944645217965064193	微软有一个专门测试 Windows Defender 保护特性的 DEMO 网站,用于测试各项保护机制(ASR、CFA、NP、EP):   https://demo.wd.microsoft.com/  
+20171225	Vulnerability	https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/	Yahoo Spring Engine SSTI 远程代码执行漏洞挖掘:   
+20171226	Tools	https://github.com/cryptolok/GhostInTheNet	GhostInTheNet - 使 Linux 变成网络中的幽灵主机,以防御 MITM/DOS/Scan 等攻击探测方式:   
+20171227	Tools	https://github.com/WhitewidowScanner/whitewidow	whitewidow - SQL 漏洞扫描器:   
+20171228	Web	https://medium.com/@know.0nix/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd	JUMPING TO THE HELL WITH 10 ATTEMPTS TO BYPASS DEVIL’S WAF:   
+20171229	WirelessSecurity	https://drive.google.com/file/d/1vB2AWF_wtGm9YPy9SCkddUqmWDjXHQ2k/view	基于软件无线电(SDR)对无线领域进行探索,来自 DefconGroup010 大会雪碧 0xroot:  
+20171230	Vulnerability	https://evren.ninja/abusing-the-wonder-world-of-JavaScript.html	Abusing The Wonder World of JavaScript - JavaScript 有哪些可以贡献漏洞的特性:   
+20171231	WirelessSecurity	https://media.ccc.de/v/34c3-8965-decoding_contactless_card_payments	解码非接触式付款:探索 NFC 交易,介绍 Apple Pay 与 Android Pay 的运作机制:   
+20180101	Tools	https://github.com/xyzz/rop-rpc	rop-rpc - 在任天堂 Switch 上运行 ROP Payload 的工具:   
+20180102	Windows	https://adsecurity.org/?p=3592	Attacking Read-Only Domain Controllers (RODCs) to Own Active Directory:  
+20180103	Windows	https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-atp/configure-server-endpoints-windows-defender-advanced-threat-protection	Windows Defender ATP 服务器端点配置:   
+20180104	Windows	https://github.com/danigargu/explodingcan	explodingcan - IIS WebDav 远程溢出漏洞利用程序(CVE-2017-7269):   
+20180105	Windows	https://twitter.com/AmarSaar/status/948892321755598848	Windows 昨天修复的 WSL(Linux 子系统)提权漏洞(CVE-2018-0743)的 PoC:  
+20180106	Windows	https://www.exploit-db.com/exploits/43446/	Microsoft Windows win32k  - 使用 SetClassLong 在 CS_CLASSDC 和 CS_OWNDC 之间切换可破坏 DC 缓存(CVE-2018-0744):   
+20180107	Malware	https://securingtomorrow.mcafee.com/mcafee-labs/malicious-document-targets-pyeongchang-olympics/	McAfee 发现一起针对包括 2018 冬季奥运会(韩国平昌)在内的恶意行动:   
+20180108	Tools	https://www.cyberark.com/threat-research-blog/ghosthook-bypassing-patchguard-processor-trace-based-hooking/	GHOSTHOOK - 通过基于处理器追踪的钩子绕过 PATCHGUARD 内核保护:   
+20180109	Web	https://www.kitploit.com/2018/01/wapiti-300-web-application.html?utm_source=dlvr.it&utm_medium=twitter	Wapiti Web 应用漏洞扫描器:   
+20180110	Windows	https://cloudblogs.microsoft.com/microsoftsecure/2018/01/09/understanding-the-performance-impact-of-spectre-and-meltdown-mitigations-on-windows-systems/	微软关于 Meltdown 和 Spectre 漏洞缓解补丁对系统性能影响的说明:   
+20180111	Tools	https://github.com/lanrat/certgraph	certgraph - 爬取 SSL 证书中的 Alternate 名称并生成有向图的工具:   
+20180112	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1407	Windows: NTFS Owner/Mandatory Label Privilege Bypass EoP (CVE-2018-0748):   
+20180113	Windows	http://www.darknessgate.com/security-tutorials/date-hiding/ntfs-alternate-data-streams/	Windows 平台利用 NTFS ADS 实现隐藏数据的方法:   
+20180114	Vulnerability	https://blog.fortinet.com/2018/01/12/an-analysis-of-the-openssl-ssl-handshake-error-state-security-bypass-cve-2017-3737	OpenSSL SSL Handshake 错误状态安全绕过分析(CVE-2017-3737):   
+20180115	Tools	https://github.com/Cn33liz/p0wnedShell	p0wnedShell - 不依赖 powershell.exe 执行 PowerShell 脚本代码的环境:  
+20180116	WirelessSecurity	https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46	使用 aircrack-ng 和 hashcat 破解 WPA 和 WPA2 无线路由密码:   
+20180117	Web	https://medium.com/@mazin.ahmed/bypassing-csp-by-abusing-jsonp-endpoints-47cf453624d5	滥用 JSONP 绕过 CSP 防御:   
+20180118	Windows	https://ntopcode.wordpress.com/2018/01/16/anatomy-of-the-thread-suspension-mechanism-in-windows-windows-internals/	Windows 中的线程挂起机制解析(Windows Internals):   
+20180119	WirelessSecurity	https://smartlockpicking.com/hackmelock/	Hackmelock - 用于实践蓝牙 BLE hacking 的一套漏洞模拟环境,由漏洞 BLE 模拟器以及一个 APP 构成:   
+20180120	Tools	https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/	CloudFlair - 利用 Censys 的扫描数据发现被 Cloudflare 服务保护的背后的真实主机:   
+20180121	Tools	https://github.com/codingo/Reconnoitre	Reconnoitre - 用于渗透测试的多线程信息收集和服务枚举工具:   
+20180122	Tools	http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/	How to write an emulator (CHIP-8 interpreter) :   
+20180123	Web	http://seclists.org/fulldisclosure/2018/Jan/75	CentOS Web Panel v0.9.8.12 SQL 注入漏洞披露:   
+20180124	Windows	https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/	利用 NTFS Alternate Data Stream (ADS) Bypass AppLocker:   
+20180125	Windows	https://github.com/saaramar/execve_exploit/blob/master/talk_slides.pdf	Linux 上的漏洞在 Windows 上用,利用 Windows 10 的 WSL 子系统实现提权:   
+20180126	Windows	https://github.com/JPCERTCC/LogonTracerhttp://blog.jpcert.or.jp/2018/01/investigate-unauthorised-logon-attempts-using-logontracer.html	用 LogonTracer 工具记录下 Windows 系统未授权的登陆行为:   https://github.com/JPCERTCC/LogonTracer
+20180127	Vulnerability	http://seclists.org/fulldisclosure/2018/Jan/91	WordPress Splashing Images 插件的 PHP 对象注入与 XSS 漏洞披露(CVE-2018-6194, CVE-2018-6195):   
+20180128	Vulnerability	http://blog.infosectcbr.com.au/2018/01/netbsd-kernel-wscons-ioctl-vulnerable.html	NetBSD 内核 Console 驱动 wscons 的 17 个整数溢出漏洞:   
+20180129	Tools	https://github.com/emposha/PHP-Shell-Detector	PHP-Shell-Detector - 由 PHP 编写的识别php/cgi/asp/aspx webshell 的工具:   
+20180130	Windows	https://github.com/S2E/docs/blob/master/src/Tutorials/WindowsDrivers/FaultInjection.rst#testing-error-recovery-code	通过多路径错误注入(Multi-Path Fault Injection)的方法利用 S2E 测试 Windows 驱动中常见的错误恢复代码:   
+20180131	Windows	https://rootkits.xyz/blog/2018/01/kernel-uninitialized-stack-variable/	Windows Kernel Exploitation Tutorial Part 6: Uninitialized Stack Variable:   
+20180201	Windows	https://posts.specterops.io/the-emet-attack-surface-reduction-replacement-in-windows-10-rs3-the-good-the-bad-and-the-ugly-34d5a253f3df	Windows 10 RS3 EMET(WDEG)的 Attack Surface Reduction (ASR) 防护特性的优缺点分析:   
+20180202	Windows	https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/	Windows 平台格式化字符串漏洞的利用:   
+20180203	Tools	https://github.com/codingo/Minesweeper	Minesweeper - BurpSuite 的加密货币脚本检测插件:   
+20180204	Windows	https://blog.quarkslab.com/reverse-engineering-the-win32k-type-isolation-mitigation.html	GDI Bitmap 在 Windows 内核漏洞利用中扮演了很重要的角色,为了缓解这项利用技术,2017 年秋季的 Windows 10 1709 为 Win32k 引入了 Type Isolation 安全特性。这篇 Blog 是 QuarksLab 对该特性的逆向分析:  
+20180205	Vulnerability	https://blogs.securiteam.com/index.php/archives/3658	Python 反编译工具 pycdc 多个漏洞披露:   
+20180206	Web	http://brutelogic.com.br/docs/XSS-FTW.pdf	XSS 漏洞介绍:   
+20180207	Windows	http://blogs.microsoft.co.il/sasha/2018/02/06/getting-stacks-for-lttng-events-with-net-core-on-linux/	Windows .NET Core 基于 ETW 机制提供了丰富的调用栈记录,但是 Linux 平台的 .NET Core 没有 ETW,获得事件的调用栈信息就比较困难了:   
+20180208	Web	https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover	通过 Facebook 的第三方合作伙伴门户网站可以泄露任意 Facebook 的用户邮箱:   
+20180209	Windows	https://blogs.windows.com/windowsexperience/2018/02/07/announcing-windows-10-insider-preview-build-17093-pc/	Windows 10 Insider Preview Build 17093 发布,并详细介绍了该版本的诸多更新内容:   
+20180210	Windows	http://www.bluehatil.com/files/Computers%20Gone%20Rogue.pdf	滥用计算机账户在活动目录环境下获取控制权限:   
+20180211	Windows	https://www.attackdebris.com/?p=470	在未加入域的机器上使用低权限域账户枚举域环境信息:   
+20180212	Windows	https://gist.github.com/anonymous/3929d9df4035abec725bcdc36659fce5	WinLogon Windows 7 x64 COM 劫持的一种方法,这个怎么找到的呢?打开 ProcMon,过滤 NAME NOT FOUND 和 HKCU:  
+20180214	Windows	https://blog.netspi.com/attacks-against-windows-pxe-boot-images/	针对 Windows PXE Boot Images 的攻击:后门、偷密码:  
+20180215	Windows	https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/steps-to-deploy-windows-defender-application-control	部署 Windows Defender 应用程序控制的步骤:   
+20180216	WirelessSecurity	https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/	利用 NFC 技术从 EMV 卡中导出数据:   
+20180217	Web	https://labs.detectify.com/2018/01/19/google-analytics-data-extraction/	利用 Google Analytics 绕过 CSP 策略:   
+20180218	Windows	https://homjxi0e.wordpress.com/2018/02/17/whitelisting-bypassing-using-msiex/	使用 MSIEX 绕过 Windows 应用程序白名单:   
+20180219	Windows	http://blog.sevagas.com/?PE-injection-explained	PE 内存注入技术详解:   
+20180220	Tools	https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst	基于 S2E 符号执行分析平台自动化地发现漏洞、生成 PoC:  
+20180221	WirelessSecurity	https://payatu.com/reversing-exploiting-ble-4-0-communication/	BLE 4.0 通信的逆向与利用:   
+20180222	Windows	https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/	Windows 远程桌面相关的事件日志格式分析:   
+20180223	WirelessSecurity	https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-DIY-ARM-Debugger-for-Wi-Fi-Chips.pdf	DIY ARM Debugger for Wi-Fi Chips:   
+20180224	Windows	http://bytepointer.com/articles/the_microsoft_rich_header.htm	PE 文件结构中 DOS Header 和 PE Headers 中间未文档化的 "Rich" Header 分析:  
+20180225	Windows	https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/	SMBv3 空指针反引用漏洞分析,包含PoC(CVE-2018-0833):   
+20180226	Windows	https://secrary.com/Random/unexported/	如何利用 Debug Help Library 定位 Windows NT 内核未导出的函数和结构体:   
+20180227	Windows	https://bohops.com/2018/02/26/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence/	利用 LaunchINFSection 远程拉起 INF 文件中配置的 SCT 脚本,通过这种方法 Bypass 常见的检测:   
+20180228	Tools	https://github.com/dotboris/vuejs-serverside-template-xss	vuejs serverside template xss:   
+20180301	Windows	https://census-labs.com/media/windows_10_rs2_rs3_exploitation_primitives.pdf;	WINDOWS 10 RS2/RS3 基于 GDI 对象的纯数据(DATA-ONLY)漏洞利用技术:  
+20180302	Vulnerability	https://threatpost.com/bug-in-hp-remote-management-tool-leaves-servers-open-to-attack/130189/	HP 远程管理硬件 Integrated Lights-Out 3 存在远程拒绝服务漏洞:   
+20180303	Tools	http://newosxbook.com/articles/OTA6.html	iOS OTA 更新补丁文件名/文件内容的简单 Diff 工具,用于快速了解补丁的变动部分:  
+20180304	Tools	https://github.com/SySS-Research/Seth	Seth - 对 RDP 服务实施中间人攻击的工具,可从 RDP 连接中提取明文密码:   
+20180305	Web	http://ben.akrin.com/?p=5997	利用网站千千万万用户的 Web 浏览器做分布式的计算节点,譬如 Crackzor.js 可以利用访客浏览器分布式地破解密码:  
+20180306	Tools	https://github.com/rezasp/joomscan	joomscan - OWASP Joomla 漏洞扫描器:   
+20180307	Windows	http://www.bluehatil.com/files/New%20and%20Improved%20UMCI%2C%20Same%20Old%20Bugs.pdf	精简版 UMCI 保护机制的旧漏洞,来自 James Forshaw 在 BlueHat 会议的演讲:  
+20180308	Web	https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html	利用 DSPL 在 Google 中插入存储型 XSS,同时也可用于 SSRF 访问内网:   
+20180309	Web	https://www.fastly.com/blog/building-waf-test-harness	Fastly 公司构建其 WAF 产品测试套件的方法:   
+20180310	Windows	https://0x00sec.org/t/reflective-dll-injection/3080	反射式 DLL 注入研究:   
+20180311	Web	https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak	Facebook 任意用户好友列表泄露以及支付卡信息泄露漏洞挖掘过程:   
+20180312	Windows	https://threatmatrix.cylance.com/en_us/home/windows-maps-64-bit-ntdll-to-wow64-process.html	Windows 是如何将64位 ntdll 映射到 Wow 64 进程中的:   
+20180313	Windows	https://isc.sans.edu/forums/diary/Payload+delivery+via+SMB/23433/	通过伪装图标的 JS 快捷方式调用 UNC 路径窃取用户 NetNTLM Hash:   
+20180314	Windows	https://blog.preempt.com/security-advisory-credssp	CredSSP 存在严重漏洞(CVE-2018-0886)允许攻击者通过 MS-RDP 服务在服务器上远程执行代码(Video):   
+20180315	Windows	https://whitedome.com.au/re4son/voodoo-kali/	Windows 10 上与 Kali Linux (WSL) 桌面交互的方法:   
+20180316	WirelessSecurity	https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio	Turning Broadcom Wi-Fi chips into SDRs:   
+20180317	Windows	https://drive.google.com/file/d/1QXjmlPRvfiRBnqzNpsTQo5bn0xKQoNc4/view	Defending Microsoft environments at scale,大规模 Microsoft 环境的防御方案:   
+20180318	Windows	https://akijosberryblog.wordpress.com/2018/03/17/active-directory-as-a-c2-command-control/	通过修改对象属性的方法使活动目录为 C&C 服务:   
+20180319	Web	https://opnsec.com/2018/03/stored-xss-on-facebook/	如何在三天内挖到  Facebook  3 个存储型 XSS 漏洞:   
+20180320	WirelessSecurity	https://medium.com/@adam.toscher/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2	攻击企业无线网络的 5 种方法:   
+20180321	Windows	https://bugs.chromium.org/p/project-zero/issues/list?can=1&;q=fixed%3A2018-mar-13+finder%3Amjurczyk	Project Zero 放出上周  Windows x64 上修复的 12 个内存泄漏漏洞的漏洞详情:   
+20180322	Windows	https://cloudblogs.microsoft.com/windowsserver/2018/03/20/introducing-windows-server-2019-now-available-in-preview/	Windows Server 2019 介绍及预览版发布:   
+20180323	Windows	https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/	使用 RunOnceEx 注册表键值实现自启动并在 AutoRuns 中隐藏:   
+20180324	Windows	https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/	KVA Shadow - Windows 上缓解 Meltdown 漏洞所使用的技术详情:  
+20180325	Windows	https://www.blackhat.com/docs/asia-18/asia-18-Lain-Back-To-The-Epilogue-How-To-Evade-Windows-Control-Flow-Guard-With-Less-Than-16-Bytes.pdf	如何在 16 个字节内绕过 Windows CFG 控制流保护,来自 BlackHat Asia 2018:   
+20180326	WirelessSecurity	https://www.blackhat.com/docs/asia-18/asia-18-Kim-AES-Wireless-Keyboard-Template-Attack-for-Eavesdropping.pdf	AES 无线键盘的窃听攻击,来自 BlackHat Asia 2018:   
+20180327	Vulnerability	http://www.berkdusunur.net/2018/03/tr-en-acrolinx-dashboard-directory.html	Acrolinx Dashboard 目录穿越漏洞披露(CVE 2018-7719):   
+20180328	Windows	https://github.com/euske/pyrexecd	pyrexecd - Windows 系统上的独立 SSH 服务:   
+20180329	Windows	https://www.sentinelone.com/blog/deep-hooks-monitoring-native-execution-wow64-applications-part-3/	监视 WOW64 应用程序中的原生执行 Part 3:   
+20180330	Tools	https://github.com/Quikko/BuQuikker	BuQuikker - 快速寻找错误配置的 AWS S3 Buckets 的工具:   
+20180331	Windows	https://github.com/tyranid/Zer0Con_2018/blob/master/A%20Bridge%20too%20Far.pdf	Windows Desktop Bridge 的工作原理与漏洞利用,来自 Zer0Con 2018 :   
+20180401	Tools	https://github.com/Sentinel-One/minhook	The Minimalistic x86/x64 API Hooking Library for Windows:   
+20180402	Tools	https://github.com/fgeek/pyfiscan	pyfiscan - Web 应用漏洞与版本扫描工具:   
+20180403	Windows	https://twitter.com/i/web/status/979778750584770560	微软发布 Windows7 x64 和 Windows Server 2008 R2 高危内核提权漏洞的安全补丁(CVE-2018-1038) :   
+20180404	Web	http://gosecure.net/2018/04/03/beyond-xss-edge-side-include-injection/	使用 ESI 注入滥用缓存服务实现 SSRF 和 XSS :   
+20180405	WirelessSecurity	https://www.youtube.com/watch?v=VGMwxSqZczE	FUZE Card 蓝牙传输协议存在漏洞,可窃取信用卡敏感信息甚至篡改数据:   https://blog.ice9.us/2018/04/stealing-credit-cards-from-fuze-bluetooth.htmlVideo: 
+20180406	Windows	https://homjxi0e.wordpress.com/2018/04/01/building-windows-installer-package-msi-payload/	将程序打包成 Windows 安装程序(.msi)以绕过白名单防御:   
+20180407	Windows	https://blogs.technet.microsoft.com/srd/2018/04/04/triaging-a-dll-planting-vulnerability/	介绍 MSRC 如何处理提交的 DLL planting 漏洞:   
+20180408	WirelessSecurity	https://blog.attify.com/hacking-bluetooth-low-energy/	借助 Gattacker 来 Hackjing 蓝牙低功耗(Bluetooth Low Energy):   
+20180409	Windows	https://www.exploit-db.com/exploits/43516/	Windows - NtImpersonateAnonymousToken LPAC 到 Non-LPAC 提权,POC(CVE-2018-0752):   
+20180410	Vulnerability	https://www.redteam-pentesting.de/de/advisories/rt-sa-2017-014/-cyberark-password-vault-web-access-remote-code-execution	CyberArk Password Vault Web Access 远程代码执行漏洞披露(CVE-2018-9843):   
+20180411	Tools	https://vincentyiu.co.uk/red-team-tips/	Red Team Tips:   
+20180412	Windows	https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging	Windows 内核调试介绍:   
+20180413	Windows	https://conference.hitb.org/files/hitbsecconf2018ams/materials/D1%20COMMSEC%20-%20Saif%20Elsherei%20and%20Ian%20Kronquist%20-%20The%20Life%20&;;%20Death%20of%20Kernel%20Object%20Abuse.pdf	The Life And Death of Kernel Object Abuse,来自   HITB2018AMS 大会:   
+20180414	Web	https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2018/cprf.pdf	CPRF 跨协议请求伪造技术白皮书:   
+20180415	Windows	https://conference.hitb.org/hitbsecconf2018ams/materials/D2T2%20-%20Rancho%20Han%20-%20Pwning%20The%20Windows%20Kernel.pdf	Over the Edge,Pwning The Windows Kernel,来自 HITB 2018AMS  :   
+20180416	Web	https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754	滥用 Microsoft 的 XSS 过滤器绕过 CSP 防御:   
+20180417	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1500	微软编译器 mspdbcore.dll 在生成 .pdb 文件时泄漏了部分堆内存(CVE-2018-1037) :   
+20180418	Windows	https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html	WMIC 使用 XSL 文件绕过白名单限制:   
+20180419	Windows	https://googleprojectzero.blogspot.com/2018/04/windows-exploitation-tricks-exploiting.html	Windows 漏洞利用技巧:通过 DiagHub 服务的 DCOM 对象实现对 Windows 10 任意文件写漏洞的利用,此方法可以被用于 Bypass Edge 的沙箱保护,来自 James Forshaw:   
+20180420	Windows	https://cloudblogs.microsoft.com/microsoftsecure/2018/04/19/introducing-windows-defender-system-guard-runtime-attestation/	微软为 Windows 10 引入新的 Windows Defender System Guard runtime attestation 技术,基于硬件虚拟化等技术,为系统和设备提供运行时安全状态的评估和检查:   
+20180421	WirelessSecurity	https://wiki.myriadrf.org/OpenAirInterface_LTE	OpenAirInterface LTE 项目指南:   
+20180422	Windows	http://blog.omega-prime.co.uk/2011/07/04/everything-you-never-wanted-to-know-about-dlls/	Windows 动态链接库导入导出的具体实现分析:   
+20180423	Windows	https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb	使用 Windows 防火墙进行端点隔离,以阻止横向渗透:   
+20180424	WirelessSecurity	https://osmocom.org/projects/osmo-fl2k/wiki/Wiki	利用 USB 转 VGA 适配器欺骗蜂窝网络(Sildes):   http://people.osmocom.org/steve-m/fl2k_slides/osmo-fl2k.html  
+20180425	Windows	https://blog.netspi.com/executing-net-methods-rundotnetdll32/	使用 RunDotNetDll32 执行 .NET 方法:   
+20180426	Vulnerability	https://threatpost.com/western-digital-my-cloud-ex2-nas-device-leaks-files/131447/	西部数码 My Cloud EX2 NAS 设备存在文件泄漏漏洞:   
+20180427	WirelessSecurity	https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/	针对 SDR 与 Rf 信号分析介绍:   
+20180428	Windows	https://github.com/mtivadar/windows10_ntfs_crash_dos	windows10_ntfs_crash_dos - 特殊构造的 NTFS 镜像可导致多个版本的 Windows 崩溃,POC:   
+20180429	Android	https://speakerdeck.com/rotlogix/back-to-the-future-going-back-in-time-to-abuse-androids-jit	Going Back In Time To Abuse Android's JIT:   
+20180430	Windows	https://research.checkpoint.com/ntlm-credentials-theft-via-pdf-files/	如何通过 PDF 文件泄露 NTLM Hash:   
+20180501	Windows	https://vallejo.cc/2018/04/29/poc-copy-data-into-remote-process-address-space-with-window-messages/	使用窗口消息将数据复制到远程进程地址空间并执行的 PoC:   
+20180502	Windows	https://www.microsoft.com/en-us/download/details.aspx?id=56846	Windows 上所有可用的内置命令帮助文档:  
+20180503	Windows	https://medium.com/@5yx/windows-event-log-to-the-dark-side-storing-payloads-and-configurations-9c8ad92637f2	使用 Windows 事件日志存储 Payloads:   
+20180504	Windows	https://cloudblogs.microsoft.com/windowsserver/2018/05/03/building-the-windows-admin-center-ecosystem-with-partners-sdk-preview-release/	Windows Admin Center SDK 公开预览版发布:   
+20180505	WirelessSecurity	https://www.researchgate.net/publication/304346578_Open-Source_SDR_on_Embedded_Platforms	嵌入式平台上的开源 SDR 介绍:   
+20180506	Windows	https://twitter.com/i/web/status/991696016716922880	alex 发现了一个本地拒绝服务漏洞,报给微软,微软说 "Wont Fix",alex 发起了一个投票,75% 的人希望 alex 直接公开,于是 alex 写了一个 PoC(简化版):   
+20180507	Vulnerability	http://misteralfa-hack.blogspot.com/2018/05/0day-dvr-multivendor.html	多款 DVR 设备管理员密码泄漏漏洞(CVE-2018-9995)详情 :   
+20180508	Vulnerability	http://seclists.org/fulldisclosure/2018/May/20	Wget Cookie 注入漏洞详情(CVE-2018-0494):   
+20180509	WirelessSecurity	https://www.rtl-sdr.com/sdrsharp-users-guide/	SDR# 用户指南:   
+20180510	Windows	https://www.digitalinterruption.com/single-post/2018/04/22/NET-Deserialization-to-NTLM-hashes	利用 .NET 反序列化漏洞泄漏 NTLM Hash:   
+20180511	WirelessSecurity	https://gdelugre.github.io/2018/05/10/3gpp-ota-security-evolution/	3GPP 空中接口安全性的演变:   
+20180512	Windows	https://www.youtube.com/watch?v=s98_p3bheL0	Windows 系统进程介绍与恶意软件进程取证分析(Video):   
+20180513	Tools	https://github.com/GreatSCT/GreatSCT	GreatSCT - 生成绕过 Windows 应用白名单限制的 Payload 工具:   
+20180514	WirelessSecurity	https://loccs.sjtu.edu.cn/~romangol/publications/wisec18.pdf	部分 IoT 设备通过手机 APP 特定编码的 WiFi 广播包获取 WiFi 密码,攻击者也可以借此抓取密码,上海交大发了一篇关于该攻击方式的论文:   
+20180515	Vulnerability	https://github.com/can1357/CVE-2018-8897	利用 POP SS 漏洞以内核权限执行任意代码的 Exp(CVE-2018-8897):   
+20180516	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1540	Windows: Token Process Trust SID Access Check Bypass EOP(CVE-2018-8134):   
+20180517	Tools	https://twitter.com/i/web/status/996662838545604608	ANY.RUN 平台支持直接打开恶意链接进行分析:   
+20180518	WirelessSecurity	https://www.hackers-arise.com/bluetooth-reconnaissance	Kali 下的蓝牙设备侦察方法:   
+20180519	Vulnerability	https://github.com/google/guava/wiki/CVE-2018-10237	Google Guava 11.0 - 24.1 的拒绝服务漏洞详情披露(CVE-2018-10237):   
+20180520	Windows	https://insert-script.blogspot.co.uk/2018/05/dll-hijacking-via-url-files.html	通过 URL 文件实现 DLL 劫持的技巧:   
+20180521	Windows	https://adsecurity.org/wp-content/uploads/2018/05/2018-NolaCon-Metcalf-ActiveDirectorySecurityTheJourney.pdf	活动目录中的安全问题与加固方案:   
+20180522	Windows	https://igorkorkin.blogspot.com/2018/03/hypervisor-based-active-data-protection.html	基于 Hypervisor 的 Windows Kernel memory 保护(paper):   
+20180523	Windows	https://www.countercraft.eu/blog/post/arbitrary-vs-kernel/	Arbitrary Code Guard vs. Kernel Code Injections:   
+20180524	Windows	https://sid-500.com/2018/04/02/powershell-how-to-get-a-list-of-all-installed-software-on-remote-computers/	使用 PowerShell 获取远程机器上安装的软件列表:   
+20180525	Windows	https://medium.com/@5yx/windows-event-log-to-the-dark-side-storing-payloads-and-configurations-9c8ad92637f2	Windows 事件日志的恶意利用 - 存储 Payloads 与配置信息:   
+20180526	Tools	https://github.com/zodiacon/AllTools	AllTools - 系统稳定性监控相关的工具收集:   
+20180527	Tools	https://www.nuget.org/packages/HttpClientEcho	HttpClientEcho - HTTP 自动化测试工具:   
+20180528	Tools	https://t.co/lbP0K4uSSx	MEAnalyzer - 英特尔引擎固件分析工具:   https://github.com/platomav/MEAnalyzer  
+20180529	Windows	https://www.hanselman.com/blog/TheYearOfLinuxOnTheWindowsDesktopWSLTipsAndTricks.aspx	Windows 的 Linux 子系统(WSL)使用技巧:   
+20180530	Windows	https://www.zerodayinitiative.com/advisories/ZDI-18-534/	Microsoft Windows JScript Error 对象 UAF 导致远程代码执行漏洞披露(0day):   
+20180531	Windows	https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/	使用增强安全管理环境(ESAE)加固活动目录安全性的介绍:   
+20180601	Windows	https://blogs.windows.com/windowsexperience/2018/05/31/announcing-windows-10-insider-preview-build-17682/	Windows 10 Insider Preview Build 17682 介绍:   
+20180602	WirelessSecurity	http://tuprints.ulb.tu-darmstadt.de/7243/	无线网卡新技巧:通过 Wi-Fi 固件修改增强智能手机的性能和安全性(Paper):   
+20180603	Tools	https://github.com/modzero/interestingFileScanner	interestingFileScanner - 用于扫描敏感文件泄露的 BurpSuite 插件:   
+20180604	Windows	http://blog.k3170makan.com/2018/06/windows-exploit-development-exploiting.html	Windows 漏洞利用开发:SEH 和 ROP 链利用:   
+20180605	WirelessSecurity	https://www.youtube.com/watch?v=5FSW2IespJM	蓝牙逆向教程之逆向智能云台 Zhiyun Crane/Evo rage 蓝牙通信:   
+20180606	WirelessSecurity	https://www.slideshare.net/SlawomirJasek/a-2018-practical-buide-to-hacking-rfidnfc	hacking RFID/NFC 实践指南:   
+20180607	Tools	https://github.com/nowsecure/node-applesign	node-applesign - 用于重新签名 iOS 应用(IPA 文件) 的 NodeJS 模块:   
+20180608	Windows	https://www.n00py.io/2018/06/executing-meterpreter-in-memory-on-windows-10-and-bypassing-antivirus/	绕过杀软在 Windows 10 上内存执行 Meterpreter:   
+20180609	Windows	https://twitter.com/i/web/status/1004449479859335168	Microsoft 发布《深入解析 Windows 操作系统 》第 7 版,Part 1 的 Errata and updates:   
+20180610	Virtualization	http://blog.jamesdbloom.com/JVMInternals.html	深入分析 JVM:   
+20180611	Windows	https://rootkits.xyz/blog/tag/exploitation/	Windows 内核漏洞利用系列:   
+20180612	WirelessSecurity	http://www.matlabexpo.com/cn/2017/proceedings/spc-2-sdr.pdf	化繁为简:软件定义无线电设计的原型实现 (PDF):   
+20180613	Windows	https://blogs.technet.microsoft.com/datacentersecurity/2018/06/08/what-is-new-in-windows-10-1803-for-paw/	Windows 10 1803 中与 PAW 解决方案相关的新功能介绍:   
+20180614	Windows	https://bugs.chromium.org/p/project-zero/issues/detail?id=1544	Windows 令牌处理存在漏洞,可绕过子进程限制缓解策略实现本地提权(CVE-2018-0982):   
+20180615	Windows	https://github.com/deroko/SPPLUAObjectUacBypass	SPPLUAObjectUacBypass: 通过 SPPLUAObject 设置注册表键值触发 UAC 绕过:   
+20180616	Windows	https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html	Microsoft COM for Windows 远程代码执行漏洞(CVE-2018-0824)分析及 PoC:   
+20180617	Windows	https://blog.varonis.com/the-malware-hiding-in-your-windows-system32-folder-part-iii-certutil-and-alternate-data-streams/	Windows 系统恶意软件隐藏方式介绍:1)  https://blog.varonis.com/living-off-the-land-lol-with-microsoft-part-ii-mshta-hta-and-ransomware/   2)   https://blog.varonis.com/living-of-the-land-lol-with-microsoft-tools-part-i-intro-to-regsvr/   3)   
+20180618	Windows	https://twitter.com/gentilkiwi/status/1007340322056261634	来自 Benjamin Delpy 的友情提醒:在 Windows 上删除证书时,它不会删除磁盘上的相关私钥:   
+20180619	Windows	https://www.trustedsec.com/2018/06/weaponizing-settingcontent/	使用 .SettingContent-ms 后缀文件执行代码:   
+20180620	Windows	https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/onboard-downlevel-windows-defender-advanced-threat-protection	适用于 Windows 7 SP1 和 Windows 8.1 的 Windows Defender ATP EDR 功能已发布预览版:   
+20180621	Web	https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html	通过 CRLF 注入在 Chromium 中设置任意请求头:   
+20180622	Web	https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html	Google Colaboratory XSS 漏洞与 CSP 绕过:   
+20180623	Windows	https://posts.specterops.io/documenting-and-attacking-a-windows-defender-application-control-feature-the-hard-way-a-case-73dd1e11be3a	对 Windows Defender Application Control 新的 Dynamic Code Security 防护特性的攻击研究记录,同时介绍了自己的一些方法论,来自 Matt Graeber:   
+20180624	Windows	http://blog.sec-labs.com/2018/06/threat-hunting-with-windows-defender-atp/	使用 Windows Defender ATP 进行威胁狩猎:   
+20180625	Web	https://medium.com/@jonathanbouman/how-i-hacked-apple-com-unrestricted-file-upload-bcda047e27e3	Apple 分站的 AWS S3 Bucket 配置不当导致任意文件上传:   
+20180626	Windows	https://tyranidslair.blogspot.com/2018/06/disabling-amsi-in-jscript-with-one.html	在 JScript 中禁用 AMSI 的技巧,来自 James Forshaw :   
+20180627	WirelessSecurity	https://www.exploit-db.com/docs/english/44929-security-of-modern-bluetooth-keyboards.pdf	关于蓝牙键盘的安全研究报告:   
+20180628	Windows	https://capt-meelo.github.io/pentest/2018/06/26/patching-doublepulsar.html	修改 DoublePulsar 以完成在 Windows 嵌入式系统上的 EternalBlue 漏洞利用:   
+20180629	Virtualization	https://bugzilla.redhat.com/show_bug.cgi?id=1590984	libxl 对 qemu 建立的 SCSI 虚拟硬盘设置只读标志,导致恶意 guest 用户可以写只读的磁盘镜像(CVE-2018-12892):   
+20180630	Windows	https://blogs.technet.microsoft.com/jepayne/2017/12/08/weffles/	使用 Windows 事件转发和 PowerBI 构建快速且高效的威胁搜索/事件响应控制台:   
+20180701	Windows	https://www.ostensiblyrandom.com/2018/06/windows-search-service-vulnerability.html	Windows 搜索服务漏洞 - Bookworm 披露:   
+20180702	Windows	http://www.hexacorn.com/blog/2018/07/01/win16-and-win32-api-bad-old-habits-call-back/	使用超长文件名让 Windows API 崩溃:   
+20180703	Windows	http://redplait.blogspot.com/2018/06/interesting-case-of-memory-leak.html	一个有趣的内存泄漏案例,错误使用 Windows API 导致的内存泄露:   
+20180704	Windows	http://alex-ionescu.com/Publications/OPCDE/octagon.pdf	深入理解 Octagon: System Guard  Runtime  Attestation 分析:   
+20180705	Web	https://www.phish.ai/2018/06/01/proactive-hunting-with-certificate-transparency-log-and-google-bigquery/	使用证书透明度日志和 Google BigQuery 寻找钓鱼域名:   
+20180706	Web	https://www.slideshare.net/fransrosen/attacking-modern-web-technologies	OWASP AppSecEU 2018  - 攻击"现代" Web技术:   
+20180707	Web	https://github.com/nccgroup/BurpSuiteHTTPSmuggler/	WAF 绕过技巧分享:   https://www.slideshare.net/SoroushDalili/waf-bypass-techniques-using-http-standard-and-web-servers-behaviourBurpSuiteHTTPSmuggler - 帮助绕过 WAF 检测的  Burpsuite 插件:   
+20180708	Vulnerability	https://www.bleepingcomputer.com/news/security/you-can-bypass-authentication-on-hpe-ilo4-servers-with-29-a-characters/	使用 29 个 A 字符绕过 HPE iLO4 服务器的身份验证:   
+20180709	Tools	https://docs.google.com/document/d/e/2PACX-1vSvcESA9EtV07iHQoWT-vIycSyzAKVGL_a2kftgjeSac1Y1uSt28HmTDWtdEk83q4bI_IN30LD-joun/pub	SWIFT 安全相关资源收集列表:   
+20180710	Windows	https://www.fortynorthsecurity.com/building-a-windows-defender-application-control-lab/	构建 Windows Defender 应用程序控制实验室:   
+20180711	Web	https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa	CSP 绕过技巧:   
+20180712	Tools	https://github.com/nettitude/Invoke-PowerThIEf/blob/master/Steelcon-2018-com-powerthief-final.pdf	IE 后渗透测试工具 Invoke-PowerThIEf 介绍:   
+20180713	Web	https://www.troyhunt.com/heres-why-your-static-website-needs-https/	静态网站需要启用 HTTPS 的原因,来自 Troy Hunt 的探讨:   https://www.troyhunt.com/heres-why-your-static-website-needs-
+20180714	Windows	https://www.exploit-db.com/exploits/45024/	Microsoft Windows - POP/MOV SS 本地提权漏洞 MSF 利用模块(CVE-2018-8897):   
+20180715	Tools	https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploitA	DeepExploit - 基于机器学习的自动化渗透测试框架:   
+20180716	Tools	https://github.com/ElevenPaths/ibombshell	ibombshell - 基于 Powershell 实现的后渗透测试工具:   
+20180717	WirelessSecurity	http://cgran.org/	免费的 GNURadio 第三方应用的仓库:   
+20180718	Windows	https://engineeringblog.yelp.com/2018/04/ad-password-blacklisting.html	如何为活动目录服务 Active Directory 配置密码黑名单 :   
+20180719	Windows	https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/	Windows 10 PagedPool 单字节溢出利用 (WCTF 2018):   
+20180720	Windows	https://rayanfam.com/topics/inside-windows-page-frame-number-part1/	深入理解 Windows 页帧号(PFN) - 第1部分:   
+20180721	Windows	https://docs.microsoft.com/en-us/microsoft-edge/deploy/new-policies	Windows 10 预览版 17713+ 中 Microsoft Edge 引入新的组策略和 MDM 配置,允许IT管理员管理全屏模式、打印、收藏夹栏、历史记录、新标签页、扩展等:   
+20180722	WirelessSecurity	https://www.rtl-sdr.com/using-a-hackrf-to-spoof-gps-navigation-in-cars-and-divert-drivers/	使用 Hackrf 伪造GPS导航信息,误导司机:   
+20180723	Windows	https://github.com/ExpLife0011/awesome-windows-kernel-security-development	awesome-windows-kernel-security-development - 优秀 Windows 内核安全方向资源收集仓库:   
+20180724	Tools	https://github.com/radare/radare2ida/blob/master/ida2r2/ida2r2.py	IDA 项目文件转 radare2 的脚本发布:   
+20180725	WirelessSecurity	https://threatpost.com/bluetooth-bug-allows-man-in-the-middle-attacks-on-phones-laptops/134332/	以色列理工学院研究人员发现通过蓝牙漏洞(CVE-2018-5383),攻击者可对手机和电脑进行中间人攻击:   
+20180726	WirelessSecurity	https://www.schneier.com/blog/archives/2018/07/major_bluetooth.html	蓝牙身份认证有些实现上没有检查椭圆曲线证书参数,可导致公钥证书注入和解密通讯数据:   
+20180727	Windows	https://twitter.com/NabeelAhmedBE/status/1022467294692368384	在非系统安装盘中(E 盘)安装应用时, 'Program Files' 目录会赋予 'Authenticated users' 用户几乎所有权限:   
+20180728	WirelessSecurity	https://brage.bibsys.no/xmlui/handle/11250/2462189	使用 IMSI Catcher 实现在LTE网络中的位置信息泄漏:   
+20180729	WirelessSecurity	https://www.nk7z.net/sdr-rfi-survey-p1/	使用 SDR 作为 RFI 站点调查工具:   
+20180730	Web	http://www.thespanner.co.uk/2018/07/29/bypassing-dompurify-with-mxss/	使用 mXSS 绕过 DOMPurify 过滤:   
+20180731	Tools	https://twitter.com/i/web/status/1023721520215019522	获取由 Powershell 操作 lsass.exe 进程生成的恶意事件的脚本:   
+20180801	Windows	http://memorycorruption.org/windows/2018/07/29/Notes-On-Windows-Privilege-Escalation.html	Windows 提权笔记:   
+20180802	WirelessSecurity	http://s3.eurecom.fr/tools/screaming_channels/	Screaming Channels:长距离探测芯片的侧信道信号,10米还原 AES128 密钥(Paper):   
+20180803	Windows	http://www.alex-ionescu.com/?p=358	Windows 10 19H1 引入动态追踪(Dynamic Tracing)新功能, Alex Ionescu 对此做出了详细分析:   
+20180804	Vulnerability	http://www.paulosyibelo.com/2017/07/coinbase-angularjs-dom-xss-via-kiteworks.html	Coinbase Kiteworks 服务的 AngularJS DOM XSS 漏洞详情披露:   
+20180805	WirelessSecurity	https://hashcat.net/forum/thread-7717.html	针对 WPA/WPA2 的新攻击方式:利用 Hashcat 破解 PMKID 从而破解 wifi 密码:   
+20180806	Tools	https://github.com/rootVIII/proxy_requests	proxy_requests - 自动获取网络代理并配置 requests 库代理的脚本:   
+20180807	Windows	https://github.com/saaramar/Publications/blob/master/BluehatIL_VBS_meetup/VBS_Internals.pdf	深入理解 VBS 与 VSM,来自 BlueHat IL 上  Saar Amar 分享:   
+20180808	Windows	https://vztekoverflow.com/2018/07/31/tbal-dpapi-backdoor/	TBAL:本地用户的 DPAPI 后门;Windows 10 中的 TBAL 特性破坏了 DPAPI 的安全性,当可以访问未加入域且正确关闭的计算机磁盘时,便拥有了解密最后一个登录用户 DPAPI 的能力:   
+20180809	Vulnerability	https://hackerone.com/reports/260697	Discourse 子站点的 CloudFlare Web 缓存欺骗漏洞详情披露:   
+20180810	WirelessSecurity	https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74	逆向分析日产无线 SD 卡 - 从零开始到代码执行,来自 BlackHat USA 2018 上 Guillaume VALADON 的演讲:   
+20180811	WirelessSecurity	http://i.blackhat.com/us-18/Wed-August-8/us-18-Shaik-LTE-Network-Automation-Under-Threat.pdf	利用 200 刀设备攻击 LTE 自组网络配置:   
+20180812	Vulnerability	http://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html	路径解析器的不一致性导致的安全问题探究,来自 BlackHat USA 2018:  http://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf 我是如何通过 4 个 Bug 构建 RCE 链攻击 Amazon 内部协作系统的:   
+20180813	WirelessSecurity	https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Seamus-Burke-Journey-Into-Hexagon.pdf	在Hexagon中旅行:解析高通基带,来自 DEFCON 26:   
+20180814	Vulnerability	https://threatpost.com/def-con-2018-critical-bug-opens-millions-of-hp-officejet-printers-to-attack/134972/	惠普 OfficeJet 一体式喷墨打印机中的传真协议存在两处严重漏洞,可让攻击者完全控制打印机,来自 DEF CON 26 上 Check Point 安全研究人员公开了漏洞细节:   
+20180815	Windows	https://googleprojectzero.blogspot.com/2018/08/windows-exploitation-tricks-exploiting.html	Windows 利用技巧:利用任意对象目录创造本地特权提升,来自 Project Zero blog:   
+20180816	Windows	https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/	Windows 命令行: Windows伪控制台介绍 (ConPTY) :   
+20180817	Vulnerability	https://bugzilla.redhat.com/show_bug.cgi?id=1550223	ntp:decodearr() 越界内存写入漏洞披露(CVE-2018-7183):   
+20180818	WirelessSecurity	https://arxiv.org/pdf/1808.03778.pdf	位于同一终端的恶意应用对由正常应用认证的 BLE 设备的攻击(paper):   
+20180819	Tools	https://github.com/wbenny/DetoursNT	DetoursNT - 使 Microsoft Detours 只依赖没有任何修改的 NTDLL.DLL 原始代码:   
+20180820	Vulnerability	https://srcincite.io/pocs/e.php.txt	Easylogin Pro的 Encryptor.php 模块存在模块存在反序列化漏洞,可导致远程代码执行:   
+20180821	Windows	https://gist.github.com/caseysmithrc/08fba336347b73e83781df6a715ac7e7	C# 编写的 DCR.sys 驱动提权利用示例代码:   
+20180822	WirelessSecurity	https://cyberloginit.com//2017/07/20/sms-hacking.html	SMS Hacking:   
+20180823	Windows	https://www.exploit-db.com/exploits/45244/	Windows 10诊断中心标准收集器服务 - 权限提升漏洞披露(CVE-2018-0952):   
+20180824	Windows	https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf	使用 CreateNewLink COM 接口绕过 UAC:   
+20180825	Web	https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/	Facebook 服务器存在 Pickle 反序列化漏洞可导致远程代码执行:   
+20180826	Tools	https://github.com/twogood/unshield	unshield - 用于从 InstallShield 安装程序中提取 CAB 文件的工具和库:   
+20180827	Tools	https://blog.cloudflare.com/introducing-ebpf_exporter/	Cloudflare 的开源工具 ebpf_exporter 介绍:   
+20180828	Windows	https://github.com/SandboxEscaper/randomrepo/blob/master/PoC-LPE.rarhttps://doublepulsar.com/task-scheduler-alpc-exploit-high-level-analysis-ff08cda6ad4f?gi=335b4e6f3cf4	一个可能导致本地特权提升的 ALPC 0day 漏洞:   https://twitter.com/SandboxEscaper/status/1034125195148255235; https://github.com/SandboxEscaper/randomrepo/blob/master/PoC-LPE.rar
+20180829	Windows	https://www.fortynorthsecurity.com/microsoft-workflow-compiler-exe-veil-and-cobalt-strike/	Microsoft.Workflow.Compiler.exe,Vei,Veil和Cobalt Strike:   
+20180830	WirelessSecurity	http://blog.rona.fr/post/2016/10/22/Home-automation-with-cheap-433MHz-plugs-a-1%24-433MHz-transmitter-and-a-TP-Link-TL-WR703N-router	研究和逆向和433MHz的无线插座的通讯协议,并使用发射器+路由的方式实现了远程开关这个无线插座的功能:   
+20180831	Windows	https://modexp.wordpress.com/2018/08/30/windows-process-injection-control-handler/	Windows 进程注入: 通过服务控制器向服务进程注入 Payload :   
+20180901	Windows	https://theevilbit.blogspot.com/2018/08/about-writeprocessmemory.html	关于 WriteProcessMemory ,当拥有足够的权限时,可以获得对 EXECUTABLE 页面的写访问权限:   
+20180902	Windows	https://www.andreafortuna.org/command-line/windows-command-line-cheatsheet-part-1-some-useful-tips/	Windows命令行备忘单(第1部分):一些有用的提示 :   
+20180903	Windows	http://www.hexacorn.com/blog/2018/09/02/beyond-good-ol-run-key-part-86/	Windows 磁盘清理程序注册表相关的介绍,以及如果通过修改注册表来增加要清理的文件 :   
+20180904	Web	https://www.secjuice.com/web-application-firewall-waf-evasion/	WAF 绕过技术系列文章分享Part 1:  https://medium.com/secjuice/waf-evasion-techniques-718026d693d8Part 2:   https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0Part 3:   
+20180905	Windows	https://bohops.com/2018/08/18/abusing-the-com-registry-structure-part-2-loading-techniques-for-evasion-and-persistence/	滥用COM注册表结构(Part 2): 劫持加载技术:   
+20180906	Windows	https://twitter.com/i/web/status/1037353530145820673	一些新的 Internet 浏览器,将多个隐藏的数据添加到某些下载文件(例如zip)的Windows 备用数据流(ADS)中 :   
+20180907	Vulnerability	https://www.exploit-db.com/exploits/45341/	Apache Roller 5.0.3 XML 实体化注入漏洞 EXP (CVE-2014-0030):   
+20180908	Windows	https://zwclose.github.io/fguard-exploit/	对 FGuard.sys 驱动中溢出漏洞的利用:   
+20180909	Windows	http://www.hackingarticles.in/window-privilege-escalation-via-automated-script/	Windows 自动化提权脚本介绍:   
+20180910	Web	https://labs.detectify.com/2018/09/04/xss-using-quirky-implementations-of-acme-http-01/	通过 ACME http-01 证书认证方式实现 XSS 攻击:   https://labs.detectify.com/2018/09/04/xss-using-quirky-implementations-of-acme-
+20180911	Windows	http://www.hackingarticles.in/windows-kernel-exploit-privilege-escalation/	Windows 内核漏洞利用提权教程:   
+20180912	Windows	https://github.com/OneLogicalMyth/zeroday-powershell	Windows 提权 0day 漏洞的vPowerShell 例子:   
+20180913	Vulnerability	https://bugs.chromium.org/p/project-zero/issues/detail?id=1618	关于 Chrome OS 中 garcon 服务的漏洞披露:   
+20180914	Vulnerability	https://www.zerodayinitiative.com/blog/2018/9/13/pivot-pivot-reaching-unreachable-vulnerable-code-in-industrial-iot-platforms	来自 ZDI 对 Advantech WebAccess Node 中一个命令注入漏洞(CVE-2018-10589)的详细分析 :   
+20180915	Windows	https://docs.microsoft.com/zh-cn/windows/security/information-protection/kernel-dma-protection-for-thunderbolt	Thunderbolt 3 的内核 DMA 保护,可以防止通过 Thunderbolt 连接的热插拔设备进行 DMA 攻击:   
+20180916	Vulnerability	https://malicious.link/post/2018/erlang-arce/	Erlang 身份验证后的远程代码执行 :   
+20180917	Tools	https://github.com/LeonardoNve/edm	edm - HTTP MitM 攻击中感染文件的 POC 项目:   
+20180918	Windows	https://twitter.com/i/web/status/1041779303204245511	Ubuntu 发布为 Windwos Hyper-V 专门优化的Ubuntu桌面版镜像(Ubuntu 18.04.1):   
+20180919	Vulnerability	https://randywestergren.com/xss-vulnerabilities-in-multiple-iframe-busters-affecting-top-tier-sites/	多个 iFrame Busters 中的 XSS 漏洞影响到顶级站点:   
+20180920	Windows	https://trapmine.com/blog/details-of-cve-2018-8410-windows-kernel-vulnerability-discovered-by-trapmine/	Windows NtEnumerateKey 的双重引用导致的特权提升漏洞(CVE-2018-8410),来自 Project Zero:   https://bugs.chromium.org/p/project-zero/issues/detail?id=1599     
+20180921	Windows	https://www.zerodayinitiative.com/blog/2018/9/20/zdi-can-6135-a-remote-code-execution-vulnerability-in-the-microsoft-windows-jet-database-engine	Windows JET 数据库引擎远程代码执行漏洞披露:   
+20180922	Vulnerability	https://twitter.com/_niklasb/status/1043066367442710528	对 VirtualBox 的攻击面分析和漏洞利用细节:   
+20180923	Web	https://medium.com/@efkan162/how-i-xssed-uber-and-bypassed-csp-9ae52404f4c5	我是如何绕过 Uber 的 CSP 防御成功 XSS 的:   
+20180924	Tools	https://github.com/woj-ciech/Danger-zone	Danger-zone - 关联域名、IP 和电子邮件地址之间的数据并将其可视化输出:   
+20180925	Windows	https://blog.0patch.com/2018/09/outrunning-attackers-on-jet-database.html	Windows Jet 数据库引擎越界写漏洞分析:   
+20180926	Vulnerability	https://hackerone.com/reports/390013	Brave 浏览器利用 brave:// 协议可泄漏本地文件内容:   
+20180927	Vulnerability	https://cyseclabs.com/slides/bevx-talk.pdf	剖析拥有 17 年历史的内核 bug (CVE-2018-6554、CVE-2018-6555),来自 BeVx 大会:   
+20180928	Windows	https://cloudblogs.microsoft.com/microsoftsecure/2018/09/27/out-of-sight-but-not-invisible-defeating-fileless-malware-with-behavior-monitoring-amsi-and-next-gen-av/	通过行为监控、AMSI 和下一代 AV 检测无文件恶意软件攻击:   
+20180929	Vulnerability	https://reviews.freebsd.org/rS338957	一个 FreeBSD/bhyve 错误修复:   
+20180930	Windows	https://github.com/IOActive/FuzzNDIS/blob/master/Attacking_Windows_NDIS_Drivers.pdf	攻击 Windows NDIS 驱动:   
+20181001	Vulnerability	https://resources.infosecinstitute.com/cve-2018-11776-rce-flaw-in-apache-struts-could-be-root-cause-of-clamorous-hacks/	Apache Struts RCE 漏洞及攻击事件介绍(CVE-2018-11776):   
+20181002	Vulnerability	https://www.synacktiv.com/ressources/advisories/Vectra_Cognito_cve_2018_14889_14890_14891.pdf	Vectra Cognito 中的多个漏洞披露: ”  
+20181003	Windows	https://blogs.technet.microsoft.com/secguide/2018/10/01/security-baseline-draft-for-windows-10-v1809-and-windows-server-2019/	Windows 10 v1809 和 Windows Server 2019 的安全基准草稿:   
+20181004	Windows	http://artemonsecurity.blogspot.com/2018/10/windows-10-rs5-introduces-new-software.html	Windows 10 RS5 引入了新的 PTE 类型,用于支持 Intel 的 CET 技术 :   
+20181005	Vulnerability	https://lgtm.com/blog/apache_struts_double_evaluations	Apache Struts double evaluation 远程代码执行漏洞(CVE-2011-2730)介绍:   
+20181006	Vulnerability	https://bugs.chromium.org/p/project-zero/issues/detail?id=1655	通过 BPF 泄漏 Linux Kernel 指针:   
+20181007	Vulnerability	https://blog.github.com/2018-10-05-git-submodule-vulnerability/	Git Submodule 漏洞详情披露(CVE-2018-17456):   
+20181008	Windows	https://github.com/r4wd3r/RID-Hijacking/blob/master/slides/derbycon-8.0/RID_HIJACKING_DERBYCON_2018.pdf	Windows RID 劫持攻击介绍 :   
+20181009	Web	https://www.nc-lp.com/blog/disguise-phar-packages-as-images	如何将 PHP Phar 包转化成图像以绕过文件类型检测:   
+20181010	Windows	https://tyranidslair.blogspot.com/2018/10/farewell-to-token-stealing-uac-bypass.html	Windows 10 RS5 中增加了对令牌窃取的保护:   
+20181011	WirelessSecurity	https://medium.com/@nihal.pasham/rf-reverse-engineering-has-become-trivial-thanks-to-the-opensource-sdr-movement-d1f9216f2f04	如何使用开源的 SDR 设备进行无线电通讯逆向:   
+20181012	WirelessSecurity	https://www.egr.msu.edu/~mizhang/papers/2018_CNS_WiFiCalling.pdf	Wi-Fi 呼叫服务的安全性研究与概念验证攻击(Paper):   
+20181013	Vulnerability	https://blog.0patch.com/2018/10/patching-re-patching-and-meta-patching.html	Microsoft 重新发布修复 Jet 数据库引擎 RCE 漏洞(CVE-2018-8423) 的补丁始末:   
+20181014	Windows	https://artemonsecurity.blogspot.com/2018/10/what-is-proto-pte-and-how-windows-vmm.html	详细介绍什么是 Proto-PTE,以及 Windows VMM 是如何使用它的:   
+20181015	Tools	https://github.com/christophetd/censys-subdomain-finder	censys-subdomain-finder - 从 Censys 的证书透明日志中收集子域名的工具:   
+20181016	WirelessSecurity	https://insinuator.net/2018/02/hacking-101-to-mobile-data/	通过中间人攻击嗅探 SIM 卡的流量通信:   
+20181017	Windows	https://randomascii.wordpress.com/2018/10/15/making-windows-slower-part-2-process-creation/	多种可以使 Windwos 在不同操作中变慢的方法 Part 2:   
+20181018	Windows	https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2018-3211-java-usage-tracker-local-elevation-of-privilege-on-windows/	Windows 上的 Java Usage Tracker 本地提权漏洞详情披露(CVE-2018-3211):   
+20181019	Windows	https://medium.com/@rootsecdev/an-in-depth-look-at-server-2019-and-windows-10-rs5-security-baselines-52508a986c16	深入了解 Windows Server 2019 和 Windows 10 RS5 的安全基线:   
+20181020	Vulnerability	https://blogs.projectmoon.pw/2018/10/19/Oracle-WebLogic-Two-RCE-Deserialization-Vulnerabilities/	Oracle WebLogic 的两个反序列化 RCE 漏洞介绍:   
+20181021	Tools	https://mollyrocket.com/meowhash	MEOW HASH  - 一种快速的用于非加密的 hash:   
+20181022	Windows	https://0x00sec.org/t/userland-api-monitoring-and-code-injection-detection/5565	Userland API 监控与代码注入检测:   
+20181023	WirelessSecurity	https://www.tinker.sh/badge-cloning-clone-hid-prox-with-proxmark3-rvd4/	通过 Proxmark3 RDV4 克隆 HID Prox 协议:   
+20181024	WirelessSecurity	https://research.kudelskisecurity.com/2017/11/21/zigbee-security-basics-part-3/	详细介绍 Zigbee 协议及其安全性的分析和测试 : 1)   https://research.kudelskisecurity.com/2017/11/01/zigbee-security-basics-part-1/; 2)   https://research.kudelskisecurity.com/2017/11/08/zigbee-security-basics-part-2/; 3)   
+20181025	Windows	https://arstechnica.com/staff/2018/08/windows-10-to-get-disposable-sandboxes-for-dodgy-apps/	Windows 10 正在构建一个沙盒功能,可以让用户将不受信任的应用程序在一次性的虚拟机中运行:   
+20181026	Windows	https://blog.quarkslab.com/playing-with-the-windows-notification-facility-wnf.html	Windows Notification Facility 组件详细介绍:   
+20181027	Vulnerability	https://blog.talosintelligence.com/2018/10/vulnerability-spotlight-talos-2018-0694.html	MKVToolNix mkvinfo 解析 mkv 文件不当导致的代码执行漏洞披露(CVE-2018-4022):   
+20181028	Tools	https://daddycocoaman.com/2018/10/26/silenttrinity-and-the-python-of-iron/	SILENTTRINITY -  一款后渗透测试工具 :   
+20181029	Windows	https://twitter.com/mackwage/status/1056249193038143488	Schuyler Dorsey 对其 Win10 基础强化脚本进行更新,启用了 Windows Defender 沙盒功能:    
+20181030	Tools	https://github.com/gunnerstahl/JQShell	JQShell - jQuery 文件上传插件漏洞利用工具:  
+20181031	Windows	https://github.com/ExpLife0011/awesome-windows-kernel-security-development	awesome-windows-kernel-security-development - Windows 内核安全开发相关的文章与项目收集:   
+20181101	WirelessSecurity	https://rhaidiz.net/2018/10/25/dribble-stealing-wifi-password-via-browsers-cache-poisoning/	Project Dribble: 通过 JavaScript 缓存投毒的方式攻击 Wi-Fi:   
+20181102	Windows	https://conference.hitb.org/hitbsecconf2018pek/materials/D1T2%20-%20The%20Inner%20Workings%20of%20the%20Windows%20Runtime%20-%20James%20Forshaw.pdf	Windows 运行时的内部工作原理,来自 HITB2018PEK 上 James Forshaw 的分享:   
+20181103	Vulnerability	https://github.com/inversepath/usbarmory/blob/master/software/secure_boot/Security_Advisory-Ref_IPVR2018-0001.txt	U-Boot 的引导验证 bypass:   
+20181104	Others	https://medium.com/@mateusz.olejarka/finding-hidden-gems-vol-3-quick-win-with-sh-file-722e58636ded	寻找隐藏的宝石 Part3 - 搜索 .sh 文件快速获胜:   
+20181105	Windows	https://wbenny.github.io/2018/11/04/wow64-internals.html	深入解析 Windows WoW64,现在可用于 ARM64 中仿真 x86 和 ARM32 应用 :   
+20181106	Vulnerability	https://wwws.nightwatchcybersecurity.com/2018/09/05/microsoft-authenticator-for-android-allows-screen-capture/	Microsoft 提供一个名 "Microsoft Authenticator" 的 Android 应用,用于双因素身份验证,但该应用允许被屏幕截图 :   
+20181107	WirelessSecurity	https://github.com/JiounDai/Bluedroid/blob/master/Dissect%20Android%20Bluetooth%20for%20Fun%20%26%20Profit.pdf	Android 蓝牙相关漏洞剖析,来自 360 Alpha team 的 jianjun dai & guang gong:   
+20181108	Tools	https://github.com/EnclaveConsulting/Crypto-PKI/tree/master/Compare-File-Hashes-List	比对文件列表 Hash 判断文件修改情况的 PowerShell 脚本:   
+20181109	Vulnerability	https://twitter.com/JohnLaTwC/status/1059841885882081280/photo/1	MS08-067 漏洞背后的内幕故事:   
+20181110	Windows	https://secrary.com/Random/AbusingWSLforEvasion/	Abusing WSL for Evasion,介绍如何在后台启用 WSL 并安装 Linux 发行版,然后执行恶意 ELF 文件:  
+20181111	Vulnerability	https://menschers.com/2018/10/30/what-is-cve-2018-8493/	Windows TCP/IP 栈处理 IP 分片时导致信息泄漏漏洞(CVE-2018-8493):  
+20181112	Vulnerability	https://strm.sh/post/abusing-insecure-docker-deployments/	通过滥用 docker socket 实现容器逃逸并以 root 权限在 host 主机上执行任意代码:   
+20181113	Windows	https://nafiez.github.io/security/pointer/2018/11/09/Microsoft-win32ksys-invalid-pointer.html	Microsoft Windows win32k.sys 无效指针缺陷:   
+20181114	Windows	https://www.youtube.com/watch?v=MybmgE95weo	Windows Notification Facility(WNF)及其带来的安全问题分析(Video),来自 BlackHat 2018 USA 大会:   
+20181115	Windows	https://securelist.com/a-new-exploit-for-zero-day-vulnerability-cve-2018-8589/88845/	Kaspersky 发现 Windows 提权漏洞(CVE-2018-8589) 针对 Win7 32位的新利用方式:   
+20181116	Web	http://blog.safebuff.com/2016/07/03/SSRF-Tips/	SSRF 利用方式集合:   
+20181117	Web	http://agrawalsmart7.com/2018/11/10/Understanding-XXE-from-Basic-to-Blind.html	XXE 从基础到盲打:   
+20181118	Vulnerability	https://access.redhat.com/solutions/3660371	JBoss 反序列化导致的远程代码执行漏洞(CVE-2018-14667) :   
+20181119	Windows	https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment	Windows 环境中的提权漏洞挖掘:   
+20181120	Vulnerability	https://medium.com/@ilja.bv/yet-another-memory-leak-in-imagemagick-or-how-to-exploit-cve-2018-16323-a60f048a1e12	ImageMagick 中的一个内存泄漏(CVE-2018-16323):  
+20181121	Windows	https://www.exploit-db.com/exploits/45893	Windows DfMarshal Unmarshaling 导致的特权提升漏洞( CVE-2018-8550),来自Project Zero : 1)  https://bugs.chromium.org/p/project-zero/issues/detail?id=1644 2) 
+20181122	Windows	https://blogs.technet.microsoft.com/secguide/2018/11/20/security-baseline-final-for-windows-10-v1809-and-windows-server-2019/	Windows 10 v1809 与 Windows Server 2019 安全基准最终版:   
+20181123	Vulnerability	https://twitter.com/i/web/status/1065349852907925504	一个 Ghostscript RCE 漏洞的演示 :   
+20181124	Web	https://blog.georgovassilis.com/2016/04/16/advanced-web-security-topics/	Web 安全相关攻击方式整理:   
+20181125	Windows	http://www.hexacorn.com/blog/2018/11/24/advpack-dll-delnoderundll32-and-its-flags/	DelNodeRunDLL32W 函数的隐藏用法:   
+20181126	Tools	https://github.com/yassineaboukir/asnlookup	asnlookup.py - 用于搜索特定组织的 ASN 和拥有的 IP 地址工具:   
+20181127	Vulnerability	https://embedi.com/event/nuclear-explotion/	NUClear explotion,UEFI BIOS 安全性分享,来自 ZeroNights 2018 大会:   
+20181128	Web	https://www.netsparker.com/blog/web-security/exposing-public-ips-tor-services-through-ssl-certificates/	通过 SSL 证书曝光 Tor 服务的真实 IP 地址:   
+20181129	Windows	https://www.romhack.io/slides/RomHack%202018%20-%20Andrea%20Pierini%20-%20whoami%20priv%20-%20show%20me%20your%20Windows%20privileges%20and%20I%20will%20lead%20you%20to%20SYSTEM.pdf	如何通过 'Windows 权限滥用' 和 '令牌操作' 进行特权提升:   
+20181130	Web	https://twitter.com/i/web/status/1068078170019176448	Web 安全测试常用 Payload 分享:  
+20181201	Tools	https://github.com/joxeankoret/idamagicstrings	IDAMagicStrings - 一款可以通过字符串中的信息来推测函数名的 IDA 插件:   
+20181202	Windows	https://googleprojectzero.blogspot.com/2018/11/injecting-code-into-windows-protected.html	通过 COM 将代码注入到 Windows 保护进程,Part 2 :   
+20181203	Tools	https://github.com/Markus-Go/bonesi	bonesi - 在实验环境下模拟 DDoS 攻击流量的工具:   
+20181204	WirelessSecurity	https://www.adriangranados.com/blog/practical-intro-dfs	无线 DFS 动态频率选择实践:   
+20181205	Windows	https://randomascii.wordpress.com/2018/12/03/a-not-called-function-can-cause-a-5x-slowdown/	Windows 中未调用的函数可导致进程下降 5 倍速度 :   
+20181206	Windows	https://github.com/smgorelik/Windows-RCE-exploits	一些 Windows 漏洞的POC:   
+20181207	Web	https://twitter.com/i/web/status/1070480730663268352	微软在 Windows 上通过 Retpoline 对 Spectre 及其变种漏洞的缓解措施:   
+20181208	Vulnerability	https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html	Hubspot 服务器上 HubL 表达式注入导致的远程代码执行漏洞:   
+20181209	Web	https://www.owasp.org/index.php/SameSite	缓解跨站漏洞利用的 SameSite 标志介绍:   
+20181210	Vulnerability	https://lab.wallarm.com/rce-in-php-or-how-to-bypass-disable-functions-in-php-installations-6ccdbf4f52bb	使用 imap 绕过 PHP disable_functions 限制:   
+20181211	Windows	https://blogs.technet.microsoft.com/secguide/2018/12/10/remote-use-of-local-accounts-laps-changes-everything/	详细介绍 Windows LAPS 机制 :   
+20181212	Windows	https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-exploit-guard/enable-attack-surface-reduction	Microsoft 介绍如何启用 Windows Defender 的 Attack surface reduction 规则:   
+20181213	Windows	https://securelist.com/zero-day-in-windows-kernel-transaction-manager-cve-2018-8611/89253/https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8611	Windows Kernel Transaction Manager 中的 0day 漏洞 (CVE-2018-8611) :   https://securelist.com/zero-day-in-windows-kernel-transaction-manager-cve-2018-8611/89253/
+20181214	Vulnerability	https://bugs.chromium.org/p/project-zero/issues/detail?id=1663	logitech: "Options" Craft WebSocket server 允许没有身份验证的访问,可能导致代码执行等安全问题:   
+20181215	Vulnerability	https://security.szurek.pl/kallithea-0-3-4-incorrect-access-control-and-xss.html	Kallithea <= 0.3.4 错误访问控制以及 XSS 漏洞披露:   
+20181216	Tools	https://github.com/nospaceships/raw-socket-sniffer	raw-socket-sniffer  - 不需要驱动程序的 Windows 上的抓包工具:   
+20181217	Windows	https://github.com/m8r0wn/ldap_search	ldap_search - 用于枚举 Windows 域信息的工具:   
+20181218	Windows	https://insider.windows.com/en-us/articles/windows-internals-series-containers-in-windows/	Windows Internals 系列 - Windows 容器:   
+20181219	Vulnerability	https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/	WordPress 允许攻击者访问管理员功能,可能导致存储型 XSS 和对象注入等严重漏洞:   
+20181220	WirelessSecurity	https://twitter.com/i/web/status/1075083160629768193	操作信道验证已被加入 wpa_supplicant 以及 hostapd 开发版本中,用于防御无线网络下的多信道中间人攻击:   
+20181221	Windows	https://blogs.windows.com/buildingapps/2018/12/19/%e2%80%afintroducing-project-mu/	Microsoft 的 Mu 项目介绍,统一可扩展固件接口(UEFI)的开源版本:   
+20181222	Vulnerability	https://medium.com/tenable-techblog/exploiting-an-18-year-old-bug-b47afe54172	Netatalk 缓冲区溢出漏洞(CVE-2018-1160)的发现与利用:   
+20181223	Tools	https://twitter.com/i/web/status/1076125661499133961	Burp Suite 企业版 1.0.10beta 发布,此版本添加了 Jira 集成:   
+20181224	Tools	https://github.com/b4rtik/metasploit-execute-assembly	metasploit-execute-assembly - 通过 Meterpreter 会话执行 .NET 程序集的后渗透攻击模块:   
+20181225	Windows	https://medium.com/palantir/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63	针对 Windows 事件跟踪日志篡改的攻防研究:   
+20181226	Vulnerability	https://blog.ripstech.com/2018/wordpress-org-stored-xss/	WordPress.org 可进行蠕虫攻击的存储型 XSS 漏洞披露:   
+20181227	Tools	https://github.com/ANSSI-FR/ORADAD	ORADAD  - 一款针对 Active Directory 的自动化数据恢复工具:   
+20181228	Windows	https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IIVu	Windows 10 设备安全研究议题 PPT,来自 WinHEC 2018 大会:   
+20181229	Windows	https://winitor.com/pdf/WindowsSecurityComponents.pdf	构建 Windows 安全环境的组件介绍:   
+20181231	Tools	https://github.com/Lopseg/Jspathextractor	Jsdir - 一个从 js 文件中提取隐藏 URL 并保存,为进一步分析提供支持的 Burp Suite 扩展:   
+20190101	Tools	https://twitter.com/i/web/status/1079791723889475586	SSRF 漏洞利用常用工具分享:   
+20190102	Windows	https://medium.com/yarden-shafir/yes-more-callbacks-the-kernel-extension-mechanism-c7300119a37a	Windows 内核扩展机制研究:   
+20190103	Tools	https://github.com/gamozolabs/applepie	applepie  - 一款用于 Fuzz 的虚拟机管理器:   
+20190104	Tools	http://newosxbook.com/tools/iOSBinaries.html	binbag  - 一款类似 toolbox 的 iOS 端命令行工具包:    
+20190105	Tools	https://github.com/mattnotmax/cyber-chef-recipes	cyber-chef-recipes - 包含大量编码解密等工具的项目收集:   
+20190106	Windows	http://www.hexacorn.com/blog/2019/01/05/beyond-good-ol-run-key-part-100/	针对 Windows 内置功能中可能导致恶意代码持久化的介绍:   
+20190107	Tools	https://github.com/drk1wi/Modlishka	Modlishka  - 一款灵活且功能强大的反向代理工具 :   
+20190108	WirelessSecurity	https://syssec.kaist.ac.kr/pub/2019/kim_sp_2019.pdf	Touching the Untouchables: Dynamic Security Analysis of the LTE Control Plane(PDF):   
+20190109	Windows	https://sid-500.com/downloads/	Windows 环境下常用 PowerShell 脚本下载:   
+20190110	Vulnerability	https://twitter.com/_fel1x/status/1083085715565621250	xterm.js 的远程代码执行漏洞(CVE-2019-0542)补丁发布:   
+20190111	Vulnerability	https://medium.com/bugbountywriteup/gradle-plugin-portal-clickjacking-cross-site-request-forgery-enabling-account-takeover-d65c2e43082b	Gradle Plugin Portal: 结合点击劫持和 CSRF 漏洞实现帐户接管:   
+20190112	Vulnerability	http://hyp3rlinx.altervista.org/advisories/MICROSOFT-WINDOWS-VCF-FILE-INSUFFICIENT-WARNING-REMOTE-CODE-EXECUTION.txt	Microsoft Windows Insufficient UI Warning 的远程代码执行漏洞(ZDI-19-013),ZDI 已确认,但 Microsoft 决定不修复:   
+20190113	Tools	https://github.com/enovella/cve-bio-enovella/blob/master/slides/bheu18-enovella-APKID.pdf	APKID - 一款针对 Android 应用的 PEID 工具:   
+20190114	WirelessSecurity	https://salmg.net/2019/01/12/nfc-payment-relay-attacks-with-lora/	使用 LoRa 实现对 NFC 支付的中继攻击:   
+20190115	Windows	https://www.exploit-db.com/docs/english/46131-windows-privilege-escalations.pdf	Windows 特权提升技术,包括从内核漏洞到服务缺陷等多种问题的介绍:   
+20190116	Web	https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285	WebAuthn API 介绍:   
+20190117	WirelessSecurity	https://twitter.com/cn0Xroot/status/1085420361255014400	LoRa Reverse Engineering and AES EM Side-Channel Attacks using SDR:   
+20190118	Pentest	https://www.notsosecure.com/hunting-the-delegation-access/	挖掘活动目录中的委派授权:   
+20190119	Vulnerability	https://www.voidsecurity.in/2019/01/virtualbox-tftp-server-pxe-boot.html	VirtualBox TFTP 服务器的目录遍历和堆溢出漏洞(CVE-2019-2553、CVE-2019-2552)分析:   
+20190120	Vulnerability	https://embedi.org/blog/remotely-compromise-devices-by-using-bugs-in-marvell-avastar-wi-fi-from-zero-knowledge-to-zero-click-rce/	Marvell Avastar Wi-Fi 远程代码执行漏洞挖掘详情披露:   
+20190121	Vulnerability	https://github.com/userlandkernel/baseband-research?files=1	如何破解 iPhone 基带的详细介绍:   
+20190122	Vulnerability	https://github.com/hannob/apache-uaf/	Apache 不准备修复的 UAF 漏洞公开:   
+20190123	Windows	https://blog.0patch.com/2019/01/one-two-three-micropatches-for-three.html	近期 Windows 上被公开的三个 0day 漏洞分析:   
+20190124	Vulnerability	https://www.openwall.com/lists/oss-security/2019/01/23/5	ghostscript 中可能导致命令执行的漏洞(CVE-2019-6116)披露:   
+20190125	Web	https://webauthn.guide/	WebAuthn 使用指南:   
+20190126	Vulnerability	https://github.com/0x27/CiscoRV320Dump	Cisco RV320 的 Dump 配置和远程 RCE 的漏洞利用:   
+20190127	Vulnerability	https://insert-script.blogspot.com/2019/01/adobe-reader-pdf-callback-via-xslt.html	Adobe Reader  - 通过 XFA 中的 XSLT 样式表进行 PDF 回调:   
+20190128	Virtualization	http://www.alex-ionescu.com/?p=471	编写 Hyper-V “Bridge” Fuzzing - 第二部分 Hypercalls & MDLs :   
+20190129	WirelessSecurity	https://arxiv.org/pdf/1810.10109.pdf	关于 adversarial WiFi sensing 问题的研究,如何通过 Wifi 信号来跟踪房间内的人(Paper):   

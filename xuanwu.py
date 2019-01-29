@@ -315,8 +315,11 @@ def parse_all(renew=False, ndays=None):
                     results_list[k] = content
             line = list2str(results_list.values())
             if line:
-                print line
+
                 so.executemany(sql, operate_list=results_list.values())
+
+                line = "\t".join(content[0:4])
+                print content[0], content[1], content[2], content[3]
                 result_fh.write("{line}{linesep}".format(line=line, linesep=os.linesep))
 
 

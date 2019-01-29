@@ -187,9 +187,10 @@ def parse_all(fnames=None, renew=False):
 
                     results_list[k] = content
 
-            line = list2str(results_list.values())
-            print line
+            line = "\t".join(content[0:4])
+            print content[0], content[1], content[2], content[3]
             so.executemany(sql, operate_list=results_list.values())
+
             result_fh.write("{line}{linesep}".format(line=line, linesep=os.linesep))
 
     result_fh.close()
