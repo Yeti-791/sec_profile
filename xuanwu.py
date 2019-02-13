@@ -18,7 +18,7 @@ from mills import get_special_date
 from mills import path
 from mills import parse_url
 from mills import SQLiteOper
-from mills import list2str
+
 
 
 def parse_body(t, day):
@@ -298,7 +298,7 @@ def parse_all(renew=False, ndays=None):
             end=end
         ))
 
-        if os.path.isfile(result_fname) and os.path.getsize(result_fname) > 0:
+        if not renew and os.path.isfile(result_fname) and os.path.getsize(result_fname) > 0:
             return
 
         result_fh = codecs.open(result_fname, mode='wb')
@@ -313,14 +313,17 @@ def parse_all(renew=False, ndays=None):
                     k = content[0] + content[2]
 
                     results_list[k] = content
-            line = list2str(results_list.values())
-            if line:
+                    line = "\t".join(content)
+                    print line
+                    result_fh.write("{line}{linesep}".format(line=line, linesep=os.linesep))
+
+
+            if results_list:
 
                 so.executemany(sql, operate_list=results_list.values())
 
-                line = "\t".join(content[0:4])
-                print content[0], content[1], content[2], content[3]
-                result_fh.write("{line}{linesep}".format(line=line, linesep=os.linesep))
+
+
 
 
 def main():
@@ -329,7 +332,7 @@ def main():
     :return:
     """
     ndays = getmissdate()
-    parse_all(ndays=ndays, renew=True)
+    parse_all(ndays=ndays, renew=False)
 
 
 if __name__ == "__main__":
