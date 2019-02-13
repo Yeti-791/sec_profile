@@ -174,8 +174,9 @@ def get_network_id(so, source="weixin", renew=False, proxy=None, retry=3, timeou
         sorted_statistic = OrderedDict(sorted(statisitc.items(), key=lambda x: len(x[1]), reverse=True))
         with codecs.open(fname_sort, mode='wb', encoding='utf-8') as fw:
             for k, v in sorted_statistic.items():
-                fw.write("%s %d %s %s" % (k, len(v), v[0], os.linesep))
-                print k, len(v), v[0]
+                if k != "None":
+                    fw.write("%s %d %s %s" % (k, len(v), v[0], os.linesep))
+                    print k, len(v), v[0]
 
     if source == "github.com":
         get_github_org(fname_sort)
