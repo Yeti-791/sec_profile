@@ -16,6 +16,7 @@ SecWiki 18 https://mp.weixin.qq.com/s/guVljwZyvafts-SZY_Zwow	游侠小二	SecWik
 [github账号-组织](data/github.com_sort.txt_org)  
 
 ```
+github_id github推荐权重 组织介绍 组织联系方式 个人介绍及联系方式 github项目URL  
 hardenedlinux 8 https://github.com/hardenedlinux	This is official repository of HardenedLinux community!	Kaer Morhen https://hardenedlinux.github.io/ hardenedlinux@gmail.com	None	https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/docs/harbian_qa/symexec/cbmc_kern.md	Hardened GNU/Linux · GitHub
 
 ```
