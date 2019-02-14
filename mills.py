@@ -361,6 +361,7 @@ def get_request(url, max_redirects=30, proxy=None, fname=None, fname_404=None, r
 
     while retry > 0:
         try:
+
             r = s.request(url=url,
                           method="GET",
                           headers=headers,
@@ -467,6 +468,70 @@ def get_twitter_info(url, proxy=None, root_dir="data/twitter", isnew=False, retr
             return strip_n(twitter_account), url, strip_n(profile_header), strip_n(title)
 
 
+def get_redirect_url(url, proxy=None, root_dir="data/shorturl", isnew=False, retry=1, timeout=10):
+    """
+
+    :param urls:
+    :return:
+    """
+
+    file_404 = path("data/shorturl_404")
+    urls_404 = set()
+    if os.path.exists(file_404):
+
+        with codecs.open(file_404, mode='rb') as fr:
+            for line in fr:
+                line = line.strip()
+                if line:
+                    urls_404.add(line)
+
+    if urls_404 and url in urls_404:
+        return
+
+    root_dir = path(root_dir)
+    if not os.path.exists(root_dir):
+        os.mkdir(root_dir)
+
+    hl = hashlib.md5()
+    hl.update(url.encode(encoding='utf-8'))
+
+    fname = path(root_dir, "%s.html" % hl.hexdigest())
+
+    if isnew or not os.path.exists(fname):
+        get_request(url, proxy=proxy, retry=retry, timeout=timeout, fname=fname, fname_404=file_404)
+
+    if os.path.exists(fname):
+        with codecs.open(fname, mode='rb') as fr:
+            try:
+                soup = BeautifulSoup(fr, 'lxml')
+
+            except Exception as e:
+                logging.error("GET title of %s failed : %s" % (url, repr(e)))
+                return
+
+            title = soup.find("title")
+            if title:
+                title = title.get_text()
+                if title.startswith("http"):
+                    # title is the real url
+                    o, ext = parse_url(title)
+                    domain = o.netloc
+                    url_path = o.path
+                    root_domain = ext.domain + "." + ext.suffix
+
+                    sql = "update xuanwu_detail " \
+                          "set url='{title}',root_domain='{root_domain}', domain='{domain}',path='{path}' " \
+                          "where url='{url}'; ".format(
+                        root_domain=root_domain,
+                        domain=domain,
+                        path=url_path,
+                        url=url,
+                        title=title
+
+                    )
+                    return sql
+
+
 if __name__ == "__main__":
     """
     """
@@ -475,11 +540,13 @@ if __name__ == "__main__":
         'http': 'http://xxx',
         "https": 'https://xxx'
     }
-    url = "https://twitter.com/i/web/status/945763380094210048"
-    # url = "https://twitter.com/JohnLaTwC/status/1059841885882081280/photo/1"
-    # url = "https://t.co/BykA8x8NkQ"
+
+    url = "https://t.co/BykA8x8NkQ"
     url = "https://twitter.com/i/web/status/842316798057971712"
     url = "https://github.com/tanjiti"
-    ret = get_github_info(url, proxy=proxy, isnew=False, retry=3)
+    url = "http://bit.ly/29fuX1k"
+    # url = "http://ow.ly/K5pl301Ok5U"
+
+    ret = get_redirect_url(url, proxy=proxy, isnew=False, retry=3, timeout=10)
     if ret:
-        print "\t".join(ret)
+        print ret

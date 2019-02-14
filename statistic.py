@@ -14,6 +14,27 @@ from mills import path
 from mills import get_github_info
 from mills import get_github_org
 from mills import get_twitter_info
+from mills import get_redirect_url
+
+
+def get_real_url(so, renew=False, proxy=None, retry=3, timeout=10):
+    """
+
+    :param so:
+    :return:
+    """
+    sql = "select distinct url from xuanwu_detail where root_domain ='t.co' " \
+          "or root_domain='bit.ly' or root_domain='goo.gl' or root_domain='ow.ly' " \
+          "or root_domain='bddy.me' or root_domain='buff.ly'	  "
+
+    result = so.query(sql)
+    for item in result:
+        item = item[0]
+
+        sql = get_redirect_url(item, proxy=proxy, root_dir="data/shorturl", isnew=renew, retry=retry, timeout=timeout)
+        if sql:
+            so.execute(sql)
+            print item, sql
 
 
 def info_source(so, table="secwiki_detail", year="", top=100, tag="domain"):
@@ -191,7 +212,7 @@ if __name__ == "__main__":
     }
 
     so = SQLiteOper("data/scrap.db")
-
-    get_tag_domain_topn(so)
-    for source in ['weixin', 'github.com', 'twitter']:
-        get_network_id(so, source=source, renew=False)
+    get_real_url(so, renew=False, proxy=proxy)
+    # get_tag_domain_topn(so)
+    # for source in ['weixin', 'github.com', 'twitter']:
+    #   get_network_id(so, source=source, renew=False)
