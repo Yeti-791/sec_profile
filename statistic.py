@@ -77,7 +77,7 @@ def get_tag_domain_topn(so):
     with codecs.open(fname, mode='wb') as fw:
         for tag in ["domain", "tag"]:
             for source in ["secwiki", "xuanwu"]:
-                for year in [2014, 2015, 2016, 2017, 2018, '']:
+                for year in [ '']: #2014, 2015, 2016, 2017, 2018,
 
                     ods = info_source(so, table="{source}_detail".format(source=source), top=61, year=str(year),
                                       tag=tag)
@@ -102,14 +102,17 @@ def get_network_id(so, source="weixin", renew=False, proxy=None, retry=3, timeou
     urls = set()
 
     if source == "weixin":
-
         keyword = "://mp.weixin.qq.com/"
     elif source == "github.com":
         keyword = "https://github.com/"
-    elif source == "zhihu.com":
-        keyword = "zhihu.com"
     elif source == "twitter":
         keyword = "twitter"
+    elif source == "zhihu":
+        keyword = "://zhuanlan.zhihu.com"
+    elif source == "weibo":
+        keyword = "://weibo.com"
+    elif source == "medium":
+        keyword = "medium.com"
     else:
         return
     for info_source in ["secwiki", "xuanwu"]:
@@ -212,7 +215,10 @@ if __name__ == "__main__":
     }
 
     so = SQLiteOper("data/scrap.db")
-    get_real_url(so, renew=False, proxy=proxy)
-    # get_tag_domain_topn(so)
+    #get_real_url(so, renew=False, proxy=proxy)
+    #get_tag_domain_topn(so)
     # for source in ['weixin', 'github.com', 'twitter']:
     #   get_network_id(so, source=source, renew=False)
+    source = "zhihu"
+    for source in [ "zhihu", "weibo","medium"]:
+        get_network_id(so,source=source,renew=True)
