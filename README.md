@@ -1,5 +1,11 @@
 # 爬取secwiki和xuanwu.github.io的安全从业者账号
 
+## 文章DB
+[文章DB](data/scrap.db)
+
+![sql](data/sql.png)
+
+
 ## 微信公众号
 [微信公众号](data/weixin_sort.txt)
 

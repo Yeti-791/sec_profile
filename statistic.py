@@ -52,22 +52,28 @@ def info_source(so, table="secwiki_detail", year="", top=100, tag="domain"):
           'from {table} ' \
           'where ts like "%{year}%" ' \
           'group by {tag} ' \
-          'order by c desc ' \
-          'limit 0,{top}'.format(table=table, year=year, top=top, tag=tag)
+          'order by c desc '.format(table=table, year=year, tag=tag)
+
     result = so.query(sql)
     for item in result:
         od[item[0]] = item[1]
 
     od_perct = OrderedDict()
     sum_count = sum(od.values())
+
+    i = 0
     for k, v in od.items():
         """
         """
-        od_perct[k] = round(float(v) / sum_count, 4)
+        if i < top:
+            od_perct[k] = round(float(v) / sum_count, 4)
+        else:
+            break
+        i = i + 1
     return od_perct
 
 
-def get_tag_domain_topn(so):
+def get_tag_domain_topn(so,topn=61):
     """
 
     :param so:
@@ -77,9 +83,9 @@ def get_tag_domain_topn(so):
     with codecs.open(fname, mode='wb') as fw:
         for tag in ["domain", "tag"]:
             for source in ["secwiki", "xuanwu"]:
-                for year in [ '']: #2014, 2015, 2016, 2017, 2018,
+                for year in ['']:  # 2014, 2015, 2016, 2017, 2018,
 
-                    ods = info_source(so, table="{source}_detail".format(source=source), top=61, year=str(year),
+                    ods = info_source(so, table="{source}_detail".format(source=source), top=topn, year=str(year),
                                       tag=tag)
                     s = "############## %s %s " % (year, source)
                     print s
@@ -215,10 +221,7 @@ if __name__ == "__main__":
     }
 
     so = SQLiteOper("data/scrap.db")
-    #get_real_url(so, renew=False, proxy=proxy)
-    #get_tag_domain_topn(so)
-    # for source in ['weixin', 'github.com', 'twitter']:
+    # get_real_url(so, renew=False, proxy=proxy)
+    get_tag_domain_topn(so,topn=61 )
+    # for source in ['weixin', 'github.com', 'twitter']: #[ "zhihu", "weibo","medium"]:
     #   get_network_id(so, source=source, renew=False)
-    source = "zhihu"
-    for source in [ "zhihu", "weibo","medium"]:
-        get_network_id(so,source=source,renew=True)
